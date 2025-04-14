@@ -1,0 +1,174 @@
+<!--  start scoos -->
+
+<dataset type="EDDTableFromErddap" datasetID="HABs-BodegaMarineLabBuoy" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.sccoos.org/erddap/erddap/tabledap/HABs-BodegaMarineLabBuoy</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="HABs-BodegaMarineLab" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.sccoos.org/erddap/erddap/tabledap/HABs-BodegaMarineLab</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="HABs-CalPolyPier" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.sccoos.org/erddap/erddap/tabledap/HABs-CalPolyPier</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="HABs-Humboldt" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.sccoos.org/erddap/erddap/tabledap/HABs-Humboldt</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="HABs-HumboldtSouthBay" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.sccoos.org/erddap/erddap/tabledap/HABs-HumboldtSouthBay</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="HABs-InnerTomalesBay" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.sccoos.org/erddap/erddap/tabledap/HABs-InnerTomalesBay</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="HABs-MontereyWharf" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.sccoos.org/erddap/erddap/tabledap/HABs-MontereyWharf</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="HABs-MorroBayBackBay" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.sccoos.org/erddap/erddap/tabledap/HABs-MorroBayBackBay</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="HABs-MorroBayFrontBay" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.sccoos.org/erddap/erddap/tabledap/HABs-MorroBayFrontBay</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="HABs-NewportBeachPier" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.sccoos.org/erddap/erddap/tabledap/HABs-NewportBeachPier</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="HABs-SantaCruzWharf" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.sccoos.org/erddap/erddap/tabledap/HABs-SantaCruzWharf</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="HABs-SantaMonicaPier" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.sccoos.org/erddap/erddap/tabledap/HABs-SantaMonicaPier</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="HABs-ScrippsPier" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.sccoos.org/erddap/erddap/tabledap/HABs-ScrippsPier</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="HABs-StearnsWharf" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.sccoos.org/erddap/erddap/tabledap/HABs-StearnsWharf</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="HABs-TomalesBayMid-ChannelBuoy" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.sccoos.org/erddap/erddap/tabledap/HABs-TomalesBayMid-ChannelBuoy</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="HABs-TomalesBayMouth" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.sccoos.org/erddap/erddap/tabledap/HABs-TomalesBayMouth</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="HABs-TrinidadPier" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.sccoos.org/erddap/erddap/tabledap/HABs-TrinidadPier</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="SPATT-Humboldt" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.sccoos.org/erddap/erddap/tabledap/SPATT-Humboldt</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="SPATT-HumboldtSouthBay" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.sccoos.org/erddap/erddap/tabledap/SPATT-HumboldtSouthBay</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="SPATT-NewportBeachPier" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.sccoos.org/erddap/erddap/tabledap/SPATT-NewportBeachPier</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="SPATT-SantaCruzWharf" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.sccoos.org/erddap/erddap/tabledap/SPATT-SantaCruzWharf</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="SPATT-ScrippsPier" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.sccoos.org/erddap/erddap/tabledap/SPATT-ScrippsPier</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="SPATT-StearnsWharf" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.sccoos.org/erddap/erddap/tabledap/SPATT-StearnsWharf</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="SPATT-TrinidadPier" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.sccoos.org/erddap/erddap/tabledap/SPATT-TrinidadPier</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="spc_hab_daily" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.sccoos.org/erddap/erddap/tabledap/spc_hab_daily</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="O2-Newport" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.sccoos.org/erddap/erddap/tabledap/O2-Newport</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="delmar_salinity" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.sccoos.org/erddap/erddap/tabledap/delmar_salinity</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="delmar_temperature" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.sccoos.org/erddap/erddap/tabledap/delmar_temperature</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ca_ifcb_data" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.sccoos.org/erddap/erddap/tabledap/ca_ifcb_data</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="pH-Newport" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.sccoos.org/erddap/erddap/tabledap/pH-Newport</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cosine_fcst" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.sccoos.org/erddap/erddap/tabledap/cosine_fcst</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="roms_fcst" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.sccoos.org/erddap/erddap/tabledap/roms_fcst</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="roms_ncst" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.sccoos.org/erddap/erddap/griddap/roms_ncst</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="pH-AHL" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.sccoos.org/erddap/erddap/tabledap/pH-AHL</sourceUrl>
+</dataset>
+
+<!--  end scoos -->
+

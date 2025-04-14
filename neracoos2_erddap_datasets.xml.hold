@@ -1,0 +1,1164 @@
+<!--  start nercoos2 -->
+
+<dataset type="EDDTableFromErddap" datasetID="A01_aanderaa_hist" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/A01_aanderaa_hist</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="A01_aanderaa_o2_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/A01_aanderaa_o2_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="A01_accelerometer_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/A01_accelerometer_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="A01_waves_mstrain_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/A01_waves_mstrain_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="A01_met_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/A01_met_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="A01_optics_s_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/A01_optics_s_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="A01_optode_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/A01_optode_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="A01_doppler_rt" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/A01_doppler_rt</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="A01_sbe16_trans_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/A01_sbe16_trans_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="A01_sbe16_disox_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/A01_sbe16_disox_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="A01_sbe37_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/A01_sbe37_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ACFFA_CSV_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/ACFFA_CSV_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="UCONN_ARTG_WQ_BTM" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/UCONN_ARTG_WQ_BTM</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="UCONN_ARTG_MET" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/UCONN_ARTG_MET</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="UCONN_ARTG_WQ_SFC" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/UCONN_ARTG_WQ_SFC</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="B01_aanderaa_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/B01_aanderaa_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="B01_accelerometer_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/B01_accelerometer_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="B01_waves_mstrain_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/B01_waves_mstrain_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="B01_met_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/B01_met_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="B01_optics_hist" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/B01_optics_hist</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="B01_doppler_rt" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/B01_doppler_rt</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="B01_sbe16_trans_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/B01_sbe16_trans_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="B01_sbe37_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/B01_sbe37_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="WW3_72_GulfOfMaine_latest" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/griddap/WW3_72_GulfOfMaine_latest</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="WW3_EastCoast_latest" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/griddap/WW3_EastCoast_latest</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="WW3_GulfOfMaine_latest" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/griddap/WW3_GulfOfMaine_latest</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="WW3_NorthAtlantic_latest" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/griddap/WW3_NorthAtlantic_latest</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="bob_erddap_test_A01_met" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/bob_erddap_test_A01_met</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="C02_aanderaa_hist" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/C02_aanderaa_hist</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="C02_accelerometer_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/C02_accelerometer_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="C02_met_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/C02_met_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="C02_sbe16_disox_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/C02_sbe16_disox_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="C02_sbe37_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/C02_sbe37_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="C05_aanderaa_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/C05_aanderaa_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="C05_accelerometer_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/C05_accelerometer_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="C05_sbe_pres_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/C05_sbe_pres_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="C05_met_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/C05_met_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="C05_optics_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/C05_optics_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="C05_sbe37_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/C05_sbe37_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="UCONN_CLIS_WQ_BTM" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/UCONN_CLIS_WQ_BTM</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="UCONN_CLIS_MET" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/UCONN_CLIS_MET</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="UCONN_CLIS_WQ_SFC" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/UCONN_CLIS_WQ_SFC</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="D03_aanderaa_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/D03_aanderaa_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="D03_accelerometer_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/D03_accelerometer_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="D03_sbe_pres_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/D03_sbe_pres_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="D03_met_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/D03_met_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="D03_optics_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/D03_optics_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="E01_aanderaa_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/E01_aanderaa_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="E01_accelerometer_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/E01_accelerometer_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="E01_waves_mstrain_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/E01_waves_mstrain_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="E01_met_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/E01_met_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="E01_optics_hist" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/E01_optics_hist</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="E01_sbe16_trans_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/E01_sbe16_trans_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="E01_sbe37_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/E01_sbe37_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="E01_suna_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/E01_suna_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="E01_corrected_nitrate_csv" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/E01_corrected_nitrate_csv</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="E05_aanderaa_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/E05_aanderaa_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="E05_sbe_pres_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/E05_sbe_pres_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="E05_met_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/E05_met_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="E05_optics_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/E05_optics_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="E05_sbe37_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/E05_sbe37_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="E07_aanderaa_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/E07_aanderaa_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="E07_accelerometer_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/E07_accelerometer_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="E07_met_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/E07_met_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="E07_sbe37_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/E07_sbe37_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="nefsc_emolt_trawl_temp" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/nefsc_emolt_trawl_temp</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="UCONN_EXRX_WQ_BTM" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/UCONN_EXRX_WQ_BTM</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="UCONN_EXRX_MET" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/UCONN_EXRX_MET</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="UCONN_EXRX_WQ_MID" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/UCONN_EXRX_WQ_MID</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="UCONN_EXRX_WQ_SFC" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/UCONN_EXRX_WQ_SFC</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="F01_aanderaa_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/F01_aanderaa_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="F01_accelerometer_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/F01_accelerometer_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="F01_waves_mstrain_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/F01_waves_mstrain_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="F01_met_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/F01_met_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="F01_sbe37_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/F01_sbe37_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ONSET_gloucester_hourly_water_level" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/ONSET_gloucester_hourly_water_level</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="GRBGBWQ_NERRS" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/GRBGBWQ_NERRS</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="GRBGLMET_NERRS" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/GRBGLMET_NERRS</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="GRBLRWQ_NERRS" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/GRBLRWQ_NERRS</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="GRBORWQ_NERRS" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/GRBORWQ_NERRS</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="GRBSQWQ_NERRS" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/GRBSQWQ_NERRS</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CMTS_CFIN_start_2020" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CMTS_CFIN_start_2020</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CMTS_CFIN_2007_2017" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CMTS_CFIN_2007_2017</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="gom_cpr_phytoplankton_full" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/gom_cpr_phytoplankton_full</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="gom_cpr_zooplankton_full" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/gom_cpr_zooplankton_full</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="WBTS_CFIN_2004_2017" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/WBTS_CFIN_2004_2017</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="WBTS_CFIN_start_2020" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/WBTS_CFIN_start_2020</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ONSET_hamptonbay_hourly_water_level" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/ONSET_hamptonbay_hourly_water_level</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="I01_aanderaa_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/I01_aanderaa_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="I01_accelerometer_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/I01_accelerometer_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="I01_waves_mstrain_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/I01_waves_mstrain_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="I01_met_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/I01_met_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="I01_optics_hist" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/I01_optics_hist</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="I01_sbe16_trans_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/I01_sbe16_trans_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="I01_sbe37_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/I01_sbe37_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="I01_suna_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/I01_suna_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="I01_corrected_nitrate_csv" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/I01_corrected_nitrate_csv</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="J02_aanderaa_hist" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/J02_aanderaa_hist</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="J02_accelerometer_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/J02_accelerometer_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="J02_met_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/J02_met_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="J02_sbe37_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/J02_sbe37_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="J03_aanderaa_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/J03_aanderaa_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="J03_accelerometer_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/J03_accelerometer_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="J03_sbe_pres_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/J03_sbe_pres_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="J03_met_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/J03_met_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="J04_aanderaa_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/J04_aanderaa_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="J04_accelerometer_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/J04_accelerometer_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="J04_sbe16_pres_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/J04_sbe16_pres_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="J04_sbe37_pres_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/J04_sbe37_pres_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="J04_sbe37_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/J04_sbe37_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="J04_met_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/J04_met_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="J04_optics_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/J04_optics_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="L01_aanderaa_hist" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/L01_aanderaa_hist</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="L01_accelerometer_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/L01_accelerometer_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="L01_met_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/L01_met_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="L01_sbe37_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/L01_sbe37_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LOBO_CSV_66" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/LOBO_CSV_66</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LOBO_CSV_65" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/LOBO_CSV_65</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LOBO_CSV_64" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/LOBO_CSV_64</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LOBO_CSV_67" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/LOBO_CSV_67</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LOBO_CSV_70" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/LOBO_CSV_70</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LOBO_CSV_72" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/LOBO_CSV_72</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="M01_aanderaa_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/M01_aanderaa_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="M01_accelerometer_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/M01_accelerometer_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="M01_waves_mstrain_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/M01_waves_mstrain_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="M01_met_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/M01_met_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="M01_optics_hist" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/M01_optics_hist</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="M01_sbe37_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/M01_sbe37_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="M01_suna_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/M01_suna_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="M01_corrected_nitrate_csv" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/M01_corrected_nitrate_csv</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="SHELL_MAYFLOWER_csv_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/SHELL_MAYFLOWER_csv_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="SHELL_MAYFLOWER_winds_csv_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/SHELL_MAYFLOWER_winds_csv_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="N01_aanderaa_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/N01_aanderaa_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="N01_accelerometer_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/N01_accelerometer_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="N01_waves_mstrain_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/N01_waves_mstrain_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="N01_met_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/N01_met_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="N01_sbe37_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/N01_sbe37_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="N01_suna_all" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/N01_suna_all</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="N01_corrected_nitrate_csv" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/N01_corrected_nitrate_csv</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cwwcNDBCMet" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/cwwcNDBCMet</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ONSET_scituate_hourly_water_level" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/ONSET_scituate_hourly_water_level</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_MA101_met" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_MA101_met</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_MA101_sbe37" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_MA101_sbe37</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_MA101_echorange" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_MA101_echorange</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_MA101_waves" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_MA101_waves</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_MA102_met" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_MA102_met</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_MA102_sbe37" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_MA102_sbe37</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_MA102_echorange" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_MA102_echorange</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_MA102_waves" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_MA102_waves</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_MA204_sbe37" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_MA204_sbe37</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_MA204_met" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_MA204_met</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_MA204_echorange" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_MA204_echorange</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_MA204_waves" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_MA204_waves</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_MA205_sbe37" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_MA205_sbe37</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_MA205_met" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_MA205_met</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_MA205_echorange" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_MA205_echorange</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_MA205_waves" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_MA205_waves</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_MD101_met" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_MD101_met</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_MD101_sbe37" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_MD101_sbe37</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_MD101_echorange" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_MD101_echorange</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_MD101_waves" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_MD101_waves</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_MD102_met" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_MD102_met</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_MD102_sbe37" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_MD102_sbe37</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_MD102_echorange" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_MD102_echorange</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_MD102_waves" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_MD102_waves</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_MD205_sbe37" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_MD205_sbe37</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_MD205_met" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_MD205_met</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_MD205_echorange" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_MD205_echorange</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_MD205_waves" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_MD205_waves</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_ME101_met" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_ME101_met</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_ME101_sbe37" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_ME101_sbe37</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_ME101_echorange" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_ME101_echorange</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_ME101_waves" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_ME101_waves</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_ME198_met" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_ME198_met</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_ME198_sbe37" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_ME198_sbe37</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_ME198_echorange" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_ME198_echorange</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_ME198_waves" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_ME198_waves</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_ME303_sbe37" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_ME303_sbe37</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_ME303_met" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_ME303_met</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_ME303_echorange" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_ME303_echorange</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_ME303_waves" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_ME303_waves</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_ME305_sbe37" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_ME305_sbe37</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_ME305_met" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_ME305_met</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_ME305_echorange" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_ME305_echorange</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_ME305_waves" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_ME305_waves</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_NJ101_met" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_NJ101_met</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_NJ101_sbe37" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_NJ101_sbe37</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_NJ101_echorange" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_NJ101_echorange</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_NJ101_waves" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_NJ101_waves</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_NJ102_met" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_NJ102_met</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_NJ102_sbe37" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_NJ102_sbe37</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_NJ102_echorange" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_NJ102_echorange</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_NJ102_waves" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_NJ102_waves</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_NJ203_sbe37" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_NJ203_sbe37</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_NJ203_met" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_NJ203_met</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_NJ203_echorange" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_NJ203_echorange</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_NJ203_waves" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_NJ203_waves</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_NJ205_sbe37" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_NJ205_sbe37</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_NJ205_met" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_NJ205_met</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_NJ205_echorange" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_NJ205_echorange</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CINAR_DSG_NJ205_waves" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/CINAR_DSG_NJ205_waves</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="UNH_WBD" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/UNH_WBD</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="UNH_CML" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/UNH_CML</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="UNH_CML_realtime" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/UNH_CML_realtime</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="UNH_CO2_realtime" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/UNH_CO2_realtime</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="UNH_GBB" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/UNH_GBB</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="GREAT_BAY_TS_corrected_nitrate_csv" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/GREAT_BAY_TS_corrected_nitrate_csv</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="URI_168-MV_BottomSonde" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/URI_168-MV_BottomSonde</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="URI_168-MV_SurfaceSonde" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/URI_168-MV_SurfaceSonde</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="URI_169-QP_BottomSonde" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/URI_169-QP_BottomSonde</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="URI_169-QP_SurfaceSonde" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/URI_169-QP_SurfaceSonde</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="URI_CPoint_BottomSonde" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/URI_CPoint_BottomSonde</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="URI_CPoint_SurfaceSonde" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/URI_CPoint_SurfaceSonde</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="URI_GBay_BottomSonde" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/URI_GBay_BottomSonde</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="GREEN_BAY_TS_corrected_nitrate_csv" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/GREEN_BAY_TS_corrected_nitrate_csv</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="URI_GBay_Suna" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/URI_GBay_Suna</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="URI_GBay_SurfaceSonde" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/URI_GBay_SurfaceSonde</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="URI_GSOPier_ExoTop" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/URI_GSOPier_ExoTop</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="URI_GSOPier_Suna" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/URI_GSOPier_Suna</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="URI_NP_BottomSonde" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/URI_NP_BottomSonde</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="URI_NP_SurfaceSonde" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/URI_NP_SurfaceSonde</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="URI_PP_BottomSonde" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/URI_PP_BottomSonde</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="URI_PP_SurfaceSonde" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/URI_PP_SurfaceSonde</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="WHOI_ESP_DENNIS_Cell_Count" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/WHOI_ESP_DENNIS_Cell_Count</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="WHOI_ESP_DENNIS_CTD" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/WHOI_ESP_DENNIS_CTD</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="WHOI_ESP_DON_Cell_Count" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/WHOI_ESP_DON_Cell_Count</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="WHOI_ESP_DON_CTD" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/WHOI_ESP_DON_CTD</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="WHOI_ESP_JAKE_Cell_Count" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/WHOI_ESP_JAKE_Cell_Count</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="WHOI_ESP_JAKE_CTD" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/WHOI_ESP_JAKE_CTD</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="WHOI_ESP_ROMAN_Cell_Count" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/WHOI_ESP_ROMAN_Cell_Count</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="WHOI_ESP_ROMAN_CTD" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/WHOI_ESP_ROMAN_CTD</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="UCONN_WLIS_MET" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.neracoos.org/erddap/erddap/tabledap/UCONN_WLIS_MET</sourceUrl>
+</dataset>
+
+<!--  end nercoos2 -->
+

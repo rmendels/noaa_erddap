@@ -1,0 +1,2159 @@
+<!--  start maracooc -->
+
+<dataset type="EDDTableFromErddap" datasetID="AtlanticShores_ASOW-1_wind" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/AtlanticShores_ASOW-1_wind</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="AtlanticShores_ASOW-1_timeseries" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/AtlanticShores_ASOW-1_timeseries</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="AtlanticShores_ASOW-2_wind" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/AtlanticShores_ASOW-2_wind</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="AtlanticShores_ASOW-2_timeseries" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/AtlanticShores_ASOW-2_timeseries</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="AtlanticShores_ASOW-4_wind" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/AtlanticShores_ASOW-4_wind</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="AtlanticShores_ASOW-4_timeseries" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/AtlanticShores_ASOW-4_timeseries</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="AtlanticShores_ASOW-6_wind" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/AtlanticShores_ASOW-6_wind</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="AtlanticShores_ASOW-6_timeseries" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/AtlanticShores_ASOW-6_timeseries</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="Atlantic_City_buoy_dmon" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/Atlantic_City_buoy_dmon</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="Cabot_Strait_Slocum_glider_dmon" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/Cabot_Strait_Slocum_glider_dmon</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="Cape_Charles_buoy_dmon" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/Cape_Charles_buoy_dmon</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="Cape_Hatteras_buoy_dmon" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/Cape_Hatteras_buoy_dmon</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="Central_Gulf_of_Maine_Slocum_glider_dmon" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/Central_Gulf_of_Maine_Slocum_glider_dmon</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="Chukchi_Sea_Slocum_Glider_dmon" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/Chukchi_Sea_Slocum_Glider_dmon</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="Coastal_Georgia_glider_dmon" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/Coastal_Georgia_glider_dmon</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="Coastal_New_Jersey_Slocum_glider_dmon" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/Coastal_New_Jersey_Slocum_glider_dmon</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="Cox_Ledge_Slocum_glider_dmon" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/Cox_Ledge_Slocum_glider_dmon</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="Gulf_of_Maine_Fall_Slocum_glider_dmon" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/Gulf_of_Maine_Fall_Slocum_glider_dmon</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="Gulf_of_Maine_Slocum_glider_dmon" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/Gulf_of_Maine_Slocum_glider_dmon</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="Gulf_of_Maine_Winter_Slocum_glider_dmon" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/Gulf_of_Maine_Winter_Slocum_glider_dmon</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="Laurentian_Channel_Slocum_glider_dmon" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/Laurentian_Channel_Slocum_glider_dmon</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="Laurentian_Channel_Zone_A_Slocum_glider_dmon" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/Laurentian_Channel_Zone_A_Slocum_glider_dmon</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="Laurentian_Channel_Zone_B_Slocum_glider_dmon" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/Laurentian_Channel_Zone_B_Slocum_glider_dmon</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="New_England_Outer_Continental_Shelf_Slocum_glider_dmon" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/New_England_Outer_Continental_Shelf_Slocum_glider_dmon</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="New_York_Bight_NW_buoy_dmon" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/New_York_Bight_NW_buoy_dmon</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="New_York_Bight_NW_Slocum_glider_dmon" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/New_York_Bight_NW_Slocum_glider_dmon</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="New_York_Bight_SE_buoy_dmon" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/New_York_Bight_SE_buoy_dmon</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="New_York_Bight_Slocum_glider_dmon" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/New_York_Bight_Slocum_glider_dmon</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="New_York_Bight_SW_Slocum_glider_dmon" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/New_York_Bight_SW_Slocum_glider_dmon</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="Norfolk_buoy_dmon" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/Norfolk_buoy_dmon</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="Northern_Gulf_of_Maine_Slocum_glider_dmon" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/Northern_Gulf_of_Maine_Slocum_glider_dmon</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="Ocean_City_buoy_dmon" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/Ocean_City_buoy_dmon</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="San_Francisco_buoy_dmon" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/San_Francisco_buoy_dmon</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="Santa_Barbara_buoy_dmon" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/Santa_Barbara_buoy_dmon</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="Santa_Barbara_Channel_buoy_dmon" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/Santa_Barbara_Channel_buoy_dmon</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="Savannah_buoy_dmon" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/Savannah_buoy_dmon</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="Stellwagen_Slocum_glider_dmon" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/Stellwagen_Slocum_glider_dmon</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="Beacon_Wind_Current_Mooring_1_a80e_34fb_02cd" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/Beacon_Wind_Current_Mooring_1_a80e_34fb_02cd</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="Beacon_Wind_Current_Mooring_2_8bd5_6c73_f023" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/Beacon_Wind_Current_Mooring_2_8bd5_6c73_f023</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="Beacon_Wind_LiDAR_423f_3214_f578" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/Beacon_Wind_LiDAR_423f_3214_f578</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="Beacon_Wind_Wave_Met_Buoy_1_36f0_579c_7497" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/Beacon_Wind_Wave_Met_Buoy_1_36f0_579c_7497</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="Beacon_Met_Buoy_1_b410_b28d_4a91" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/Beacon_Met_Buoy_1_b410_b28d_4a91</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="Beacon_Wind_Wave_Met_Buoy_2_1938_e15c_78e6" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/Beacon_Wind_Wave_Met_Buoy_2_1938_e15c_78e6</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="Beacon_Met_Buoy_2_realtime" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/Beacon_Met_Buoy_2_realtime</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_CB1_1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_CB1_1</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_CB2_1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_CB2_1</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_CB2_2" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_CB2_2</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_CB3_1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_CB3_1</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_CB3_2" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_CB3_2</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_CB3_3C" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_CB3_3C</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_CB3_3E" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_CB3_3E</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_CB3_3W" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_CB3_3W</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_CB4_1C" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_CB4_1C</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_CB4_1E" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_CB4_1E</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_CB4_1W" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_CB4_1W</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_CB4_2C" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_CB4_2C</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_CB4_2E" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_CB4_2E</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_CB4_2W" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_CB4_2W</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_CB4_3C" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_CB4_3C</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_CB4_3E" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_CB4_3E</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_CB4_3W" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_CB4_3W</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_CB4_4" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_CB4_4</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_CB5_1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_CB5_1</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_CB5_1W" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_CB5_1W</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_CB5_2" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_CB5_2</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_CB5_3" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_CB5_3</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_CB5_4" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_CB5_4</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_CB5_4W" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_CB5_4W</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_CB5_5" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_CB5_5</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_CB6_1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_CB6_1</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_CB6_2" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_CB6_2</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_CB6_3" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_CB6_3</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_CB6_4" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_CB6_4</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_CB7_1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_CB7_1</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_CB7_1N" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_CB7_1N</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_CB7_1S" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_CB7_1S</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_CB7_2" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_CB7_2</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_CB7_2E" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_CB7_2E</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_CB7_3" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_CB7_3</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_CB7_3E" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_CB7_3E</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_CB7_4" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_CB7_4</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_CB7_4N" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_CB7_4N</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_CB8_1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_CB8_1</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_CB8_1E" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_CB8_1E</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_EE1_1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_EE1_1</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_EE2_1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_EE2_1</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_EE2_2" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_EE2_2</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_EE3_1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_EE3_1</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_EE3_2" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_EE3_2</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_EE3_3" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_EE3_3</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_EE3_4" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_EE3_4</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_EE3_5" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_EE3_5</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_ET4_2" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_ET4_2</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_ET5_1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_ET5_1</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_ET5_2" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_ET5_2</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_LE1_1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_LE1_1</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_LE1_2" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_LE1_2</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_LE1_3" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_LE1_3</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_LE1_4" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_LE1_4</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_LE2_2" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_LE2_2</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_LE2_3" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_LE2_3</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_LE3_1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_LE3_1</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_LE3_2" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_LE3_2</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_LE3_3" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_LE3_3</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_LE3_4" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_LE3_4</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_LE3_6" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_LE3_6</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_LE3_7" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_LE3_7</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_LE4_1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_LE4_1</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_LE4_2" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_LE4_2</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_LE4_3" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_LE4_3</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_LE5_1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_LE5_1</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_LE5_2" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_LE5_2</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_LE5_3" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_LE5_3</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_LE5_4" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_LE5_4</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_LE5_6" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_LE5_6</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_MAT0016" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_MAT0016</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_RET1_1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_RET1_1</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_RET2_1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_RET2_1</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_RET2_2" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_RET2_2</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_RET2_4" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_RET2_4</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_RET3_1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_RET3_1</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_RET3_2" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_RET3_2</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_RET4_1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_RET4_1</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_RET4_2" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_RET4_2</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_RET4_3" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_RET4_3</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_RET5_2" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_RET5_2</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_TF1_3" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_TF1_3</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_TF1_5" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_TF1_5</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_TF1_6" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_TF1_6</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_TF1_7" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_TF1_7</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_TF2_1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_TF2_1</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_TF2_2" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_TF2_2</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_TF2_3" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_TF2_3</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_TF2_4" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_TF2_4</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_TF3_3" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_TF3_3</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_WE4_1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_WE4_1</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_WE4_2" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_WE4_2</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_WE4_3" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_WE4_3</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_WE4_4" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_WE4_4</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_WT5_1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_WT5_1</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_WXT0001" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_WXT0001</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CBP_XFB1986" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CBP_XFB1986</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="Empire_Current_Mooring_2286_6473_3b4f" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/Empire_Current_Mooring_2286_6473_3b4f</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="Empire_Met_Buoy_303d_3d8a_d3e9" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/Empire_Met_Buoy_303d_3d8a_d3e9</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="mddnr_nutrient_challenge_arundel" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/mddnr_nutrient_challenge_arundel</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="mddnr_nutrient_challenge_ches_bay_seg4" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/mddnr_nutrient_challenge_ches_bay_seg4</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="mddnr_Aquarium_East_-_Bottom" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/mddnr_Aquarium_East_-_Bottom</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="mddnr_Aquarium_East_-_Surface" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/mddnr_Aquarium_East_-_Surface</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="mddnr_Aquarium_West" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/mddnr_Aquarium_West</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="mddnr_Arundel_on_the_Bay" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/mddnr_Arundel_on_the_Bay</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="mddnr_Bishopville_Prong" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/mddnr_Bishopville_Prong</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="mddnr_Budds_Landing" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/mddnr_Budds_Landing</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="mddnr_Camp_Tockwogh" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/mddnr_Camp_Tockwogh</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="mddnr_Dares_Beach" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/mddnr_Dares_Beach</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="mddnr_Gooses_-_Bottom" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/mddnr_Gooses_-_Bottom</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="mddnr_Gooses_-_Surface" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/mddnr_Gooses_-_Surface</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="mddnr_Greys_Creek" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/mddnr_Greys_Creek</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="mddnr_Harris_Creek_Downstream" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/mddnr_Harris_Creek_Downstream</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="mddnr_Harris_Creek_Upstream" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/mddnr_Harris_Creek_Upstream</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="mddnr_Havre_de_Grace" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/mddnr_Havre_de_Grace</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="mddnr_Iron_Pot_Landing" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/mddnr_Iron_Pot_Landing</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="mddnr_Jug_Bay" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/mddnr_Jug_Bay</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="mddnr_Little_Monie_Creek" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/mddnr_Little_Monie_Creek</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="mddnr_Masonville_Cove_Pier" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/mddnr_Masonville_Cove_Pier</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="mddnr_Mataponi" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/mddnr_Mataponi</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="mddnr_Newport_Creek" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/mddnr_Newport_Creek</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="mddnr_Otter_Point_Creek" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/mddnr_Otter_Point_Creek</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="mddnr_Pleasure_Island" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/mddnr_Pleasure_Island</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="mddnr_Public_Landing" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/mddnr_Public_Landing</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="mddnr_Riverside" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/mddnr_Riverside</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="mddnr_Sandy_Point_-_South_Beach" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/mddnr_Sandy_Point_-_South_Beach</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="mddnr_St_Georges_Creek" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/mddnr_St_Georges_Creek</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="mddnr_Susquahenna_Flats" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/mddnr_Susquahenna_Flats</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="mddnr_Taylors_Island" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/mddnr_Taylors_Island</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="mddnr_Tilghman_Island" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/mddnr_Tilghman_Island</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="mddnr_Tolchester" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/mddnr_Tolchester</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CB_MCS_CB1_1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CB_MCS_CB1_1</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CB_MCS_CB2_1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CB_MCS_CB2_1</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CB_MCS_CB2_2" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CB_MCS_CB2_2</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CB_MCS_CB3_1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CB_MCS_CB3_1</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CB_MCS_CB3_2" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CB_MCS_CB3_2</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CB_MCS_CB3_3C" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CB_MCS_CB3_3C</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CB_MCS_CB4_1C" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CB_MCS_CB4_1C</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CB_MCS_CB4_2C" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CB_MCS_CB4_2C</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CB_MCS_CB4_3C" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CB_MCS_CB4_3C</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CB_MCS_CB4_4" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CB_MCS_CB4_4</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CB_MCS_CB5_1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CB_MCS_CB5_1</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CB_MCS_CB5_1W" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CB_MCS_CB5_1W</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CB_MCS_CB5_2" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CB_MCS_CB5_2</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CB_MCS_CB5_3" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CB_MCS_CB5_3</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CB_MCS_CB5_4" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CB_MCS_CB5_4</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CB_MCS_CB5_4W" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CB_MCS_CB5_4W</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CB_MCS_CB5_5" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CB_MCS_CB5_5</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CB_MCS_CB6_1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CB_MCS_CB6_1</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CB_MCS_CB6_2" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CB_MCS_CB6_2</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CB_MCS_CB6_3" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CB_MCS_CB6_3</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CB_MCS_CB6_4" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CB_MCS_CB6_4</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CB_MCS_CB7_1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CB_MCS_CB7_1</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CB_MCS_CB7_1N" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CB_MCS_CB7_1N</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CB_MCS_CB7_1S" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CB_MCS_CB7_1S</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CB_MCS_CB7_2" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CB_MCS_CB7_2</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CB_MCS_CB7_2E" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CB_MCS_CB7_2E</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CB_MCS_CB7_3" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CB_MCS_CB7_3</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CB_MCS_CB7_3E" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CB_MCS_CB7_3E</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CB_MCS_CB7_4" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CB_MCS_CB7_4</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CB_MCS_CB7_4N" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CB_MCS_CB7_4N</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CB_MCS_CB8_1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CB_MCS_CB8_1</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CB_MCS_CB8_1E" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CB_MCS_CB8_1E</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CB_MCS_EE3_5" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CB_MCS_EE3_5</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="MODIS_AQUA_1_day" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/griddap/MODIS_AQUA_1_day</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="MODIS_AQUA_3_day" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/griddap/MODIS_AQUA_3_day</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="MODIS_AQUA_8_day" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/griddap/MODIS_AQUA_8_day</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="sd1030_hurricane_2024" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/sd1030_hurricane_2024</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="sd1031_hurricane_2024" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/sd1031_hurricane_2024</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="sd1036_hurricane_2024" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/sd1036_hurricane_2024</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="sd1040_hurricane_2024" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/sd1040_hurricane_2024</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="sd1041_hurricane_2024" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/sd1041_hurricane_2024</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="sd1042_hurricane_2024" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/sd1042_hurricane_2024</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="sd1045_hurricane_2024" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/sd1045_hurricane_2024</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="sd1057_hurricane_2024" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/sd1057_hurricane_2024</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="sd1068_hurricane_2024" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/sd1068_hurricane_2024</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="sd1069_hurricane_2024" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/sd1069_hurricane_2024</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="sd1083_hurricane_2024" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/sd1083_hurricane_2024</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="sd1091_hurricane_2024" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/sd1091_hurricane_2024</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="daily_composite_JPL_SST" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/griddap/daily_composite_JPL_SST</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cb_ocs_agg" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/cb_ocs_agg</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CB_OCS_CB1_1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CB_OCS_CB1_1</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CB_OCS_CB2_2" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CB_OCS_CB2_2</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CB_OCS_CB3_3C" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CB_OCS_CB3_3C</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CB_OCS_CB4_1C" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CB_OCS_CB4_1C</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CB_OCS_CB4_2C" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CB_OCS_CB4_2C</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CB_OCS_CB4_4" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CB_OCS_CB4_4</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CB_OCS_CB5_2" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CB_OCS_CB5_2</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CB_OCS_CB5_4" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CB_OCS_CB5_4</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CB_OCS_CB5_5" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CB_OCS_CB5_5</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CB_OCS_CB6_3" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CB_OCS_CB6_3</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CB_OCS_CB7_1S" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CB_OCS_CB7_1S</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CB_OCS_CB7_2E" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CB_OCS_CB7_2E</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CB_OCS_CB7_3" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CB_OCS_CB7_3</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CB_OCS_CB7_4N" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CB_OCS_CB7_4N</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CB_OCS_CB8_1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CB_OCS_CB8_1</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CB_OCS_CB8_1E" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CB_OCS_CB8_1E</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CB_OCS_EE3_5" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CB_OCS_EE3_5</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CB_OCS_LE3_7" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CB_OCS_LE3_7</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CB_OCS_WE4_1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CB_OCS_WE4_1</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CB_OCS_WE4_4" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/CB_OCS_WE4_4</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="central_surface_mooring_290f_7e19_8c9f" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/central_surface_mooring_290f_7e19_8c9f</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="central_surface_mooring_b8a0_92e8_15ef" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/central_surface_mooring_b8a0_92e8_15ef</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="central_surface_mooring_d268_49ce_d72d" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/central_surface_mooring_d268_49ce_d72d</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="central_surface_mooring_da47_0ad0_2d66" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/central_surface_mooring_da47_0ad0_2d66</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="northeastern_profiler_mooring_7335_c978_19d5" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/northeastern_profiler_mooring_7335_c978_19d5</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="northern_surface_mooring_92ae_224b_5776" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/northern_surface_mooring_92ae_224b_5776</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="northern_surface_mooring_e8e6_086e_9545" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/northern_surface_mooring_e8e6_086e_9545</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="northern_surface_mooring_0304_488c_f481" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/northern_surface_mooring_0304_488c_f481</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="southern_profiler_mooring_3608_4c12_09b1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/southern_profiler_mooring_3608_4c12_09b1</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="southern_surface_mooring_f6c1_7123_4981" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/southern_surface_mooring_f6c1_7123_4981</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="southern_surface_mooring_523a_2420_6141" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/southern_surface_mooring_523a_2420_6141</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="southern_surface_mooring_3097_725b_b313" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/southern_surface_mooring_3097_725b_b313</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru02-20031104T1900-trajectory-raw-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/ru02-20031104T1900-trajectory-raw-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru03-20031028T1656-trajectory-raw-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/ru03-20031028T1656-trajectory-raw-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru03-20031028T1656-profile-sci-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/ru03-20031028T1656-profile-sci-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru04-20031105T1930-trajectory-raw-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/ru04-20031105T1930-trajectory-raw-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru04-20031105T1930-profile-sci-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/ru04-20031105T1930-profile-sci-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru05-20090119T1757-trajectory-raw-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/ru05-20090119T1757-trajectory-raw-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru05-20090119T1757-profile-sci-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/ru05-20090119T1757-profile-sci-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru05-20150105T1600-trajectory-raw-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/ru05-20150105T1600-trajectory-raw-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru05-20150105T1600-profile-sci-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/ru05-20150105T1600-profile-sci-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru05-20150115T1443-trajectory-raw-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/ru05-20150115T1443-trajectory-raw-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru05-20150115T1443-profile-sci-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/ru05-20150115T1443-profile-sci-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru05-20150201T2130-trajectory-raw-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/ru05-20150201T2130-trajectory-raw-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru05-20150201T2130-profile-sci-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/ru05-20150201T2130-profile-sci-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru21-20100517T1555-trajectory-raw-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/ru21-20100517T1555-trajectory-raw-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru21-20100517T1555-profile-sci-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/ru21-20100517T1555-profile-sci-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru22-20180815T0107-trajectory-raw-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/ru22-20180815T0107-trajectory-raw-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru22-20180815T0107-profile-sci-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/ru22-20180815T0107-profile-sci-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru26d-20190905T1802-trajectory-raw-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/ru26d-20190905T1802-trajectory-raw-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru26d-20190905T1802-profile-sci-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/ru26d-20190905T1802-profile-sci-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru28-20130813T1436-trajectory-raw-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/ru28-20130813T1436-trajectory-raw-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru28-20130813T1436-profile-sci-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/ru28-20130813T1436-profile-sci-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru28-20150818T1506-trajectory-raw-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/ru28-20150818T1506-trajectory-raw-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru28-20150818T1506-profile-sci-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/ru28-20150818T1506-profile-sci-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru28-20170424T1310-trajectory-raw-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/ru28-20170424T1310-trajectory-raw-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru28-20170915T1416-profile-sci-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/ru28-20170915T1416-profile-sci-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru29-20190906T1535-trajectory-raw-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/ru29-20190906T1535-trajectory-raw-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru29-20190906T1535-profile-sci-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/ru29-20190906T1535-profile-sci-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru29-20191010T1932-trajectory-raw-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/ru29-20191010T1932-trajectory-raw-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru29-20191010T1932-profile-sci-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/ru29-20191010T1932-profile-sci-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru30-20180502T1355-profile-sci-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/ru30-20180502T1355-profile-sci-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru30-20180705T1825-profile-sci-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/ru30-20180705T1825-profile-sci-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru30-20190201T1712-profile-sci-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/ru30-20190201T1712-profile-sci-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru30-20190227T1625-profile-sci-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/ru30-20190227T1625-profile-sci-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru30-20190717T1812-profile-sci-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/ru30-20190717T1812-profile-sci-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru30-20191015T1824-profile-sci-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/ru30-20191015T1824-profile-sci-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru32-20180109T0531-trajectory-raw-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/ru32-20180109T0531-trajectory-raw-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru32-20180109T0531-profile-sci-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/ru32-20180109T0531-profile-sci-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="rutgers_realtime_waves_13mhz_brmr" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/rutgers_realtime_waves_13mhz_brmr</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="rutgers_realtime_waves_13mhz_brnt" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/rutgers_realtime_waves_13mhz_brnt</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="rutgers_realtime_waves_13mhz_cmpt" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/rutgers_realtime_waves_13mhz_cmpt</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="rutgers_realtime_waves_13mhz_seab" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/rutgers_realtime_waves_13mhz_seab</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="rutgers_realtime_waves_13mhz_sprk" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/rutgers_realtime_waves_13mhz_sprk</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="sd1031_hurricane_2022" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/sd1031_hurricane_2022</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="sd1032_hurricane_2022" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/sd1032_hurricane_2022</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="sd1040_hurricane_2022" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/sd1040_hurricane_2022</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="sd1059_hurricane_2022" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/sd1059_hurricane_2022</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="sd1078_hurricane_2022" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/sd1078_hurricane_2022</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="sd1083_hurricane_2022" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/sd1083_hurricane_2022</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="sd1084_hurricane_2022" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/sd1084_hurricane_2022</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="sd1031_hurricane_2023" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/sd1031_hurricane_2023</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="sd1036_hurricane_2023" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/sd1036_hurricane_2023</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="sd1040_hurricane_2023" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/sd1040_hurricane_2023</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="sd1041_hurricane_2023" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/sd1041_hurricane_2023</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="sd1045_hurricane_2023" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/sd1045_hurricane_2023</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="sd1057_hurricane_2023" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/sd1057_hurricane_2023</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="sd1065_hurricane_2023" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/sd1065_hurricane_2023</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="sd1068_hurricane_2023" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/sd1068_hurricane_2023</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="sd1069_hurricane_2023" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/sd1069_hurricane_2023</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="sd1083_hurricane_2023" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/sd1083_hurricane_2023</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="sd1031_hurricane_2021" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/sd1031_hurricane_2021</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="sd1040_hurricane_2021" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/sd1040_hurricane_2021</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="sd1045_hurricane_2021" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/sd1045_hurricane_2021</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="sd1048_hurricane_2021" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/sd1048_hurricane_2021</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="sd1060_hurricane_2021" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/sd1060_hurricane_2021</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_10" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_10</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_11" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_11</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_1163" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_1163</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_1171" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_1171</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_1174" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_1174</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_1175" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_1175</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_1176" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_1176</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_1177" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_1177</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_1178" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_1178</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_1179" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_1179</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_1180" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_1180</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_1181" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_1181</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_12" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_12</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_13" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_13</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_2" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_2</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_3" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_3</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_309" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_309</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_371" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_371</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_372" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_372</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_373" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_373</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_377" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_377</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_389" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_389</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_392" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_392</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_393" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_393</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_394" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_394</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_395" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_395</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_4" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_4</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_445" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_445</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_446" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_446</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_447" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_447</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_452" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_452</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_476" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_476</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_477" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_477</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_5" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_5</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_515" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_515</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_517" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_517</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_521" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_521</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_522" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_522</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_523" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_523</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_532" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_532</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_533" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_533</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_534" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_534</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_535" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_535</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_536" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_536</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_537" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_537</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_538" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_538</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_583" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_583</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_586" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_586</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_587" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_587</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_588" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_588</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_589" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_589</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_590" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_590</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_591" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_591</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_593" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_593</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_595" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_595</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_596" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_596</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_597" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_597</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_613" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_613</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_614" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_614</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_641" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_641</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_647" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_647</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_648" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_648</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_649" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_649</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_651" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_651</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_652" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_652</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_654" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_654</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_655" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_655</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_658" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_658</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_659" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_659</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_660" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_660</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_7" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_7</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_726" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_726</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_731" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_731</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_732" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_732</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_796" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_796</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_8" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_8</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_801" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_801</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_831" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_831</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_878" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_878</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_880" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_880</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_881" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_881</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_882" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_882</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_883" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_883</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_895" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_895</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_896" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_896</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_9" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_9</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_920" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_920</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_929" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_929</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_930" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_930</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_931" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_931</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_932" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_932</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_947" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_947</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_966" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_966</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_967" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_967</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_968" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_968</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="surfrider_station_973" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/surfrider_station_973</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="usgs_01342732" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/usgs_01342732</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="usgs_01354330" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/usgs_01354330</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="usgs_01355475" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/usgs_01355475</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="usgs_01359165" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/usgs_01359165</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="usgs_0135980207" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/usgs_0135980207</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="usgs_01372043" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/usgs_01372043</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="usgs_01374019" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/usgs_01374019</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="usgs_01376269" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/usgs_01376269</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="usgs_01376307" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/usgs_01376307</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="usgs_01376515" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/usgs_01376515</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="usgs_01392650" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/usgs_01392650</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="weatherflow_station_48410" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/weatherflow_station_48410</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="weatherflow_station_48593" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.maracoos.org/erddap/erddap/tabledap/weatherflow_station_48593</sourceUrl>
+</dataset>
+
+<!--  end maracooc -->
+

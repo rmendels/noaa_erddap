@@ -1,0 +1,199 @@
+<!--  start diver -->
+
+<dataset type="EDDTableFromErddap" datasetID="cubes_fact_bioassay_greatlakes" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://pub-data.diver.orr.noaa.gov/erddap/erddap/tabledap/cubes_fact_bioassay_greatlakes</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cubes_fact_bioassay_northeast" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://pub-data.diver.orr.noaa.gov/erddap/erddap/tabledap/cubes_fact_bioassay_northeast</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cubes_fact_bioassay_northwest" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://pub-data.diver.orr.noaa.gov/erddap/erddap/tabledap/cubes_fact_bioassay_northwest</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cubes_fact_bioassay_southeast" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://pub-data.diver.orr.noaa.gov/erddap/erddap/tabledap/cubes_fact_bioassay_southeast</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cubes_fact_bioassay_southwest" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://pub-data.diver.orr.noaa.gov/erddap/erddap/tabledap/cubes_fact_bioassay_southwest</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="stage_dict_chemdict" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://pub-data.diver.orr.noaa.gov/erddap/erddap/tabledap/stage_dict_chemdict</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cubes_fact_observations_greatlakes" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://pub-data.diver.orr.noaa.gov/erddap/erddap/tabledap/cubes_fact_observations_greatlakes</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cubes_fact_observations_northwest" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://pub-data.diver.orr.noaa.gov/erddap/erddap/tabledap/cubes_fact_observations_northwest</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cubes_fact_observations_southeast" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://pub-data.diver.orr.noaa.gov/erddap/erddap/tabledap/cubes_fact_observations_southeast</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cubes_fact_observations_southeast_dwh_doinrda" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://pub-data.diver.orr.noaa.gov/erddap/erddap/tabledap/cubes_fact_observations_southeast_dwh_doinrda</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cubes_fact_observations_southeast_dwh_noaanrda" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://pub-data.diver.orr.noaa.gov/erddap/erddap/tabledap/cubes_fact_observations_southeast_dwh_noaanrda</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cubes_fact_instruments_southeast_dwh_noaanrda" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://pub-data.diver.orr.noaa.gov/erddap/erddap/tabledap/cubes_fact_instruments_southeast_dwh_noaanrda</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cubes_fact_photographs_southeast_dwh_noaanrda" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://pub-data.diver.orr.noaa.gov/erddap/erddap/tabledap/cubes_fact_photographs_southeast_dwh_noaanrda</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="stage_qualify_greatlakes_qm_public_only" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://pub-data.diver.orr.noaa.gov/erddap/erddap/tabledap/stage_qualify_greatlakes_qm_public_only</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="stage_qualify_northeast_qm_public_only" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://pub-data.diver.orr.noaa.gov/erddap/erddap/tabledap/stage_qualify_northeast_qm_public_only</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="stage_qualify_northwest_qm_public_only" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://pub-data.diver.orr.noaa.gov/erddap/erddap/tabledap/stage_qualify_northwest_qm_public_only</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="stage_qualify_southeast_qm_public_only" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://pub-data.diver.orr.noaa.gov/erddap/erddap/tabledap/stage_qualify_southeast_qm_public_only</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="stage_qualify_southwest_qm_public_only" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://pub-data.diver.orr.noaa.gov/erddap/erddap/tabledap/stage_qualify_southwest_qm_public_only</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cubes_fact_samples_greatlakes" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://pub-data.diver.orr.noaa.gov/erddap/erddap/tabledap/cubes_fact_samples_greatlakes</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cubes_fact_samples_northeast" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://pub-data.diver.orr.noaa.gov/erddap/erddap/tabledap/cubes_fact_samples_northeast</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cubes_fact_samples_northwest" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://pub-data.diver.orr.noaa.gov/erddap/erddap/tabledap/cubes_fact_samples_northwest</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cubes_fact_samples_southeast" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://pub-data.diver.orr.noaa.gov/erddap/erddap/tabledap/cubes_fact_samples_southeast</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cubes_fact_samples_southeast_dwh_bpnrda" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://pub-data.diver.orr.noaa.gov/erddap/erddap/tabledap/cubes_fact_samples_southeast_dwh_bpnrda</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cubes_fact_samples_southeast_dwh_bppublic" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://pub-data.diver.orr.noaa.gov/erddap/erddap/tabledap/cubes_fact_samples_southeast_dwh_bppublic</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cubes_fact_samples_southeast_dwh_noaanrda" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://pub-data.diver.orr.noaa.gov/erddap/erddap/tabledap/cubes_fact_samples_southeast_dwh_noaanrda</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cubes_fact_samples_southeast_dwh_response" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://pub-data.diver.orr.noaa.gov/erddap/erddap/tabledap/cubes_fact_samples_southeast_dwh_response</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cubes_fact_samples_southwest" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://pub-data.diver.orr.noaa.gov/erddap/erddap/tabledap/cubes_fact_samples_southwest</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="stage_study_notes_greatlakes_qm_public_only" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://pub-data.diver.orr.noaa.gov/erddap/erddap/tabledap/stage_study_notes_greatlakes_qm_public_only</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="stage_study_notes_northeast_qm_public_only" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://pub-data.diver.orr.noaa.gov/erddap/erddap/tabledap/stage_study_notes_northeast_qm_public_only</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="stage_study_notes_northwest_qm_public_only" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://pub-data.diver.orr.noaa.gov/erddap/erddap/tabledap/stage_study_notes_northwest_qm_public_only</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="stage_study_notes_southeast_qm_public_only" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://pub-data.diver.orr.noaa.gov/erddap/erddap/tabledap/stage_study_notes_southeast_qm_public_only</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="stage_study_notes_southwest_qm_public_only" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://pub-data.diver.orr.noaa.gov/erddap/erddap/tabledap/stage_study_notes_southwest_qm_public_only</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="stage_studyref_greatlakes_qm_public_only" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://pub-data.diver.orr.noaa.gov/erddap/erddap/tabledap/stage_studyref_greatlakes_qm_public_only</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="stage_studyref_northeast_qm_public_only" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://pub-data.diver.orr.noaa.gov/erddap/erddap/tabledap/stage_studyref_northeast_qm_public_only</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="stage_studyref_northwest_qm_public_only" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://pub-data.diver.orr.noaa.gov/erddap/erddap/tabledap/stage_studyref_northwest_qm_public_only</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="stage_studyref_southeast_qm_public_only" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://pub-data.diver.orr.noaa.gov/erddap/erddap/tabledap/stage_studyref_southeast_qm_public_only</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="stage_studyref_southwest_qm_public_only" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://pub-data.diver.orr.noaa.gov/erddap/erddap/tabledap/stage_studyref_southwest_qm_public_only</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cubes_fact_telemetry_southeast_dwh_doinrda" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://pub-data.diver.orr.noaa.gov/erddap/erddap/tabledap/cubes_fact_telemetry_southeast_dwh_doinrda</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cubes_fact_telemetry_southeast_dwh_noaanrda" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://pub-data.diver.orr.noaa.gov/erddap/erddap/tabledap/cubes_fact_telemetry_southeast_dwh_noaanrda</sourceUrl>
+</dataset>
+
+<!--  end diver -->
+

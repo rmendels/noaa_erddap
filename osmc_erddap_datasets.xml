@@ -1,0 +1,143 @@
+<!--  start osmc -->
+
+<dataset type="EDDTableFromErddap" datasetID="anibos_movement_data" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://osmc.noaa.gov/erddap/erddap/tabledap/anibos_movement_data</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="anibos_metadata" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://osmc.noaa.gov/erddap/erddap/tabledap/anibos_metadata</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ArgoFloats" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://osmc.noaa.gov/erddap/erddap/tabledap/ArgoFloats</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cchdo_bottle" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://osmc.noaa.gov/erddap/erddap/tabledap/cchdo_bottle</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cchdo_ctd" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://osmc.noaa.gov/erddap/erddap/tabledap/cchdo_ctd</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="drifter_hourly_qc" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://osmc.noaa.gov/erddap/erddap/tabledap/drifter_hourly_qc</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="drifter_6hour_qc" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://osmc.noaa.gov/erddap/erddap/tabledap/drifter_6hour_qc</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="global_daily_rqds" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://osmc.noaa.gov/erddap/erddap/tabledap/global_daily_rqds</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="global_hourly_rqds" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://osmc.noaa.gov/erddap/erddap/tabledap/global_hourly_rqds</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="MEOP_profiles" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://osmc.noaa.gov/erddap/erddap/tabledap/MEOP_profiles</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="wmo_list" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://osmc.noaa.gov/erddap/erddap/tabledap/wmo_list</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="OceanOPS_platform_metadata" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://osmc.noaa.gov/erddap/erddap/tabledap/OceanOPS_platform_metadata</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="OSMC_30day" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://osmc.noaa.gov/erddap/erddap/tabledap/OSMC_30day</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="OSMC_PROFILERS" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://osmc.noaa.gov/erddap/erddap/tabledap/OSMC_PROFILERS</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="OSMC_flattened" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://osmc.noaa.gov/erddap/erddap/tabledap/OSMC_flattened</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="OSMC_Points" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://osmc.noaa.gov/erddap/erddap/tabledap/OSMC_Points</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="OSMCV4_DUO_PROFILES" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://osmc.noaa.gov/erddap/erddap/tabledap/OSMCV4_DUO_PROFILES</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="OSMCV4_DUO_SURFACE_TRAJECTORY" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://osmc.noaa.gov/erddap/erddap/tabledap/OSMCV4_DUO_SURFACE_TRAJECTORY</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="OSMCV4_DUO_TIME_SERIES" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://osmc.noaa.gov/erddap/erddap/tabledap/OSMCV4_DUO_TIME_SERIES</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="pmelTaoDyAirt" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://osmc.noaa.gov/erddap/erddap/tabledap/pmelTaoDyAirt</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="pmelTaoDySst" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://osmc.noaa.gov/erddap/erddap/tabledap/pmelTaoDySst</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="pmelTaoDyT" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://osmc.noaa.gov/erddap/erddap/tabledap/pmelTaoDyT</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="pmelTaoDyW" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://osmc.noaa.gov/erddap/erddap/tabledap/pmelTaoDyW</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="pmelTaoDyS" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://osmc.noaa.gov/erddap/erddap/tabledap/pmelTaoDyS</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="pmelTaoDyAdcp" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://osmc.noaa.gov/erddap/erddap/tabledap/pmelTaoDyAdcp</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="pmelTaoDyTau" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://osmc.noaa.gov/erddap/erddap/tabledap/pmelTaoDyTau</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="pmelTaoDySss" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://osmc.noaa.gov/erddap/erddap/tabledap/pmelTaoDySss</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="pmelTaoDyRain" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://osmc.noaa.gov/erddap/erddap/tabledap/pmelTaoDyRain</sourceUrl>
+</dataset>
+
+<!--  end osmc -->

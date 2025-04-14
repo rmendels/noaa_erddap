@@ -1,0 +1,1798 @@
+<!--  start glerl -->
+
+<dataset type="EDDTableFromErddap" datasetID="GL_ACSPO_AVHRR_NRT_SST" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/GL_ACSPO_AVHRR_NRT_SST</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="GL_ACSPO_L3S_SST" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/GL_ACSPO_L3S_SST</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="GL_ACSPO_AVHRR_Daily_Merge_SST" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/GL_ACSPO_AVHRR_Daily_Merge_SST</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="GL_ACSPO_VIIRS_Daily_Merge_SST" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/GL_ACSPO_VIIRS_Daily_Merge_SST</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="GL_ACSPO_VIIRS_NRT_SST" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/GL_ACSPO_VIIRS_NRT_SST</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LE_CHL_VIIRS_Monthly_Avg_1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LE_CHL_VIIRS_Monthly_Avg_1</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LH_CHL_VIIRS_Monthly_Avg_1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LH_CHL_VIIRS_Monthly_Avg_1</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LM_CHL_VIIRS_Monthly_Avg_1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LM_CHL_VIIRS_Monthly_Avg_1</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LO_CHL_VIIRS_Monthly_Avg_1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LO_CHL_VIIRS_Monthly_Avg_1</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LS_CHL_VIIRS_Monthly_Avg_1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LS_CHL_VIIRS_Monthly_Avg_1</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LE_CHL_VIIRS_Monthly_Avg_IMG_1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LE_CHL_VIIRS_Monthly_Avg_IMG_1</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LH_CHL_VIIRS_Monthly_Avg_IMG_1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LH_CHL_VIIRS_Monthly_Avg_IMG_1</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LM_CHL_VIIRS_Monthly_Avg_IMG_1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LM_CHL_VIIRS_Monthly_Avg_IMG_1</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LO_CHL_VIIRS_Monthly_Avg_IMG_1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LO_CHL_VIIRS_Monthly_Avg_IMG_1</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LS_CHL_VIIRS_Monthly_Avg_IMG_1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LS_CHL_VIIRS_Monthly_Avg_IMG_1</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ncepetagl" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/ncepetagl</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LM_SST_FP_m3" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LM_SST_FP_m3</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LS_SST_FP_s2" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LS_SST_FP_s2</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LM_SST_FP_m2" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LM_SST_FP_m2</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LM_SST_FP_m4" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LM_SST_FP_m4</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LE_CHL_MODIS_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LE_CHL_MODIS_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LH_CHL_MODIS_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LH_CHL_MODIS_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LM_CHL_MODIS_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LM_CHL_MODIS_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LO_CHL_MODIS_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LO_CHL_MODIS_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LS_CHL_MODIS_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LS_CHL_MODIS_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LE_CHL_VIIRS_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LE_CHL_VIIRS_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LH_CHL_VIIRS_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LH_CHL_VIIRS_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LM_CHL_VIIRS_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LM_CHL_VIIRS_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LO_CHL_VIIRS_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LO_CHL_VIIRS_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LS_CHL_VIIRS_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LS_CHL_VIIRS_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LE_CHL_MODIS_SQ" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LE_CHL_MODIS_SQ</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LH_CHL_MODIS_SQ" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LH_CHL_MODIS_SQ</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LM_CHL_MODIS_SQ" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LM_CHL_MODIS_SQ</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LO_CHL_MODIS_SQ" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LO_CHL_MODIS_SQ</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LS_CHL_MODIS_SQ" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LS_CHL_MODIS_SQ</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LE_CHL_VIIRS_SQ" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LE_CHL_VIIRS_SQ</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LH_CHL_VIIRS_SQ" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LH_CHL_VIIRS_SQ</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LM_CHL_VIIRS_SQ" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LM_CHL_VIIRS_SQ</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LO_CHL_VIIRS_SQ" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LO_CHL_VIIRS_SQ</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LS_CHL_VIIRS_SQ" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LS_CHL_VIIRS_SQ</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LE_CDOM_MODIS_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LE_CDOM_MODIS_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LH_CDOM_MODIS_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LH_CDOM_MODIS_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LM_CDOM_MODIS_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LM_CDOM_MODIS_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LO_CDOM_MODIS_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LO_CDOM_MODIS_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LS_CDOM_MODIS_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LS_CDOM_MODIS_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LE_CDOM_VIIRS_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LE_CDOM_VIIRS_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LM_CDOM_VIIRS_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LM_CDOM_VIIRS_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LO_CDOM_VIIRS_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LO_CDOM_VIIRS_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LS_CDOM_VIIRS_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LS_CDOM_VIIRS_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LE_CDOM_MODIS_SQ" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LE_CDOM_MODIS_SQ</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LH_CDOM_MODIS_SQ" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LH_CDOM_MODIS_SQ</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LM_CDOM_MODIS_SQ" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LM_CDOM_MODIS_SQ</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LO_CDOM_MODIS_SQ" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LO_CDOM_MODIS_SQ</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LS_CDOM_MODIS_SQ" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LS_CDOM_MODIS_SQ</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LH_CDOM_VIIRS_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LH_CDOM_VIIRS_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LE_CDOM_VIIRS_SQ" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LE_CDOM_VIIRS_SQ</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LH_CDOM_VIIRS_SQ" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LH_CDOM_VIIRS_SQ</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LM_CDOM_VIIRS_SQ" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LM_CDOM_VIIRS_SQ</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LO_CDOM_VIIRS_SQ" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LO_CDOM_VIIRS_SQ</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LS_CDOM_VIIRS_SQ" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LS_CDOM_VIIRS_SQ</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LE_KD490_VIIRS_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LE_KD490_VIIRS_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LE_KD490_VIIRS_SQ" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LE_KD490_VIIRS_SQ</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LH_KD490_VIIRS_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LH_KD490_VIIRS_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LH_KD490_VIIRS_SQ" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LH_KD490_VIIRS_SQ</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LM_KD490_VIIRS_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LM_KD490_VIIRS_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LM_KD490_VIIRS_SQ" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LM_KD490_VIIRS_SQ</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LO_KD490_VIIRS_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LO_KD490_VIIRS_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LO_KD490_VIIRS_SQ" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LO_KD490_VIIRS_SQ</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LS_KD490_VIIRS_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LS_KD490_VIIRS_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LS_KD490_VIIRS_SQ" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LS_KD490_VIIRS_SQ</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LE_KDpar_VIIRS_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LE_KDpar_VIIRS_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LE_KDpar_VIIRS_SQ" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LE_KDpar_VIIRS_SQ</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LH_KDpar_VIIRS_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LH_KDpar_VIIRS_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LH_KDpar_VIIRS_SQ" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LH_KDpar_VIIRS_SQ</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LM_KDpar_VIIRS_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LM_KDpar_VIIRS_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LM_KDpar_VIIRS_SQ" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LM_KDpar_VIIRS_SQ</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LO_KDpar_VIIRS_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LO_KDpar_VIIRS_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LO_KDpar_VIIRS_SQ" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LO_KDpar_VIIRS_SQ</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LS_KDpar_VIIRS_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LS_KDpar_VIIRS_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LS_KDpar_VIIRS_SQ" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LS_KDpar_VIIRS_SQ</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LE_DOC_MODIS_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LE_DOC_MODIS_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LH_DOC_MODIS_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LH_DOC_MODIS_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LM_DOC_MODIS_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LM_DOC_MODIS_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LO_DOC_MODIS_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LO_DOC_MODIS_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LS_DOC_MODIS_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LS_DOC_MODIS_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LE_DOC_VIIRS_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LE_DOC_VIIRS_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LH_DOC_VIIRS_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LH_DOC_VIIRS_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LM_DOC_VIIRS_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LM_DOC_VIIRS_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LO_DOC_VIIRS_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LO_DOC_VIIRS_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LS_DOC_VIIRS_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LS_DOC_VIIRS_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LE_DOC_MODIS_SQ" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LE_DOC_MODIS_SQ</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LH_DOC_MODIS_SQ" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LH_DOC_MODIS_SQ</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LM_DOC_MODIS_SQ" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LM_DOC_MODIS_SQ</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LO_DOC_MODIS_SQ" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LO_DOC_MODIS_SQ</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LS_DOC_MODIS_SQ" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LS_DOC_MODIS_SQ</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LE_DOC_VIIRS_SQ" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LE_DOC_VIIRS_SQ</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LH_DOC_VIIRS_SQ" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LH_DOC_VIIRS_SQ</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LM_DOC_VIIRS_SQ" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LM_DOC_VIIRS_SQ</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LO_DOC_VIIRS_SQ" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LO_DOC_VIIRS_SQ</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LS_DOC_VIIRS_SQ" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LS_DOC_VIIRS_SQ</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LE_CHL_VIIRS_Monthly_Avg" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LE_CHL_VIIRS_Monthly_Avg</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LH_CHL_VIIRS_Monthly_Avg" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LH_CHL_VIIRS_Monthly_Avg</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LM_CHL_VIIRS_Monthly_Avg" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LM_CHL_VIIRS_Monthly_Avg</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LO_CHL_VIIRS_Monthly_Avg" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LO_CHL_VIIRS_Monthly_Avg</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LS_CHL_VIIRS_Monthly_Avg" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LS_CHL_VIIRS_Monthly_Avg</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LE_CDOM_VIIRS_Monthly_Avg" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LE_CDOM_VIIRS_Monthly_Avg</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LH_CDOM_VIIRS_Monthly_Avg" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LH_CDOM_VIIRS_Monthly_Avg</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LM_CDOM_VIIRS_Monthly_Avg" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LM_CDOM_VIIRS_Monthly_Avg</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LO_CDOM_VIIRS_Monthly_Avg" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LO_CDOM_VIIRS_Monthly_Avg</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LS_CDOM_VIIRS_Monthly_Avg" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LS_CDOM_VIIRS_Monthly_Avg</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LE_DOC_VIIRS_Monthly_Avg" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LE_DOC_VIIRS_Monthly_Avg</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LH_DOC_VIIRS_Monthly_Avg" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LH_DOC_VIIRS_Monthly_Avg</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LM_DOC_VIIRS_Monthly_Avg" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LM_DOC_VIIRS_Monthly_Avg</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LO_DOC_VIIRS_Monthly_Avg" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LO_DOC_VIIRS_Monthly_Avg</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LS_DOC_VIIRS_Monthly_Avg" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LS_DOC_VIIRS_Monthly_Avg</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LE_KD490_VIIRS_Monthly_Avg" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LE_KD490_VIIRS_Monthly_Avg</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LH_KD490_VIIRS_Monthly_Avg" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LH_KD490_VIIRS_Monthly_Avg</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LM_KD490_VIIRS_Monthly_Avg" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LM_KD490_VIIRS_Monthly_Avg</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LO_KD490_VIIRS_Monthly_Avg" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LO_KD490_VIIRS_Monthly_Avg</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LS_KD490_VIIRS_Monthly_Avg" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LS_KD490_VIIRS_Monthly_Avg</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LE_KDPAR_VIIRS_Monthly_Avg" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LE_KDPAR_VIIRS_Monthly_Avg</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LH_KDPAR_VIIRS_Monthly_Avg" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LH_KDPAR_VIIRS_Monthly_Avg</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LM_KDPAR_VIIRS_Monthly_Avg" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LM_KDPAR_VIIRS_Monthly_Avg</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LO_KDPAR_VIIRS_Monthly_Avg" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LO_KDPAR_VIIRS_Monthly_Avg</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LS_KDPAR_VIIRS_Monthly_Avg" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LS_KDPAR_VIIRS_Monthly_Avg</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LE_SM_VIIRS_Monthly_Avg" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LE_SM_VIIRS_Monthly_Avg</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LH_SM_VIIRS_Monthly_Avg" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LH_SM_VIIRS_Monthly_Avg</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LM_SM_VIIRS_Monthly_Avg" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LM_SM_VIIRS_Monthly_Avg</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LO_SM_VIIRS_Monthly_Avg" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LO_SM_VIIRS_Monthly_Avg</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LS_SM_VIIRS_Monthly_Avg" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LS_SM_VIIRS_Monthly_Avg</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LE_CHL_NRT" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LE_CHL_NRT</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LH_CHL_NRT" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LH_CHL_NRT</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LM_CHL_NRT" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LM_CHL_NRT</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LO_CHL_NRT" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LO_CHL_NRT</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LS_CHL_NRT" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LS_CHL_NRT</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LE_CDOM_NRT" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LE_CDOM_NRT</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LH_CDOM_NRT" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LH_CDOM_NRT</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LM_CDOM_NRT" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LM_CDOM_NRT</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LO_CDOM_NRT" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LO_CDOM_NRT</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LS_CDOM_NRT" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LS_CDOM_NRT</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LE_DOC_NRT" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LE_DOC_NRT</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LH_DOC_NRT" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LH_DOC_NRT</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LM_DOC_NRT" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LM_DOC_NRT</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LO_DOC_NRT" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LO_DOC_NRT</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LS_DOC_NRT" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LS_DOC_NRT</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LE_KD490_NRT" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LE_KD490_NRT</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LH_KD490_NRT" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LH_KD490_NRT</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LM_KD490_NRT" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LM_KD490_NRT</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LO_KD490_NRT" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LO_KD490_NRT</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LS_KD490_NRT" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LS_KD490_NRT</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LE_KDpar_NRT" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LE_KDpar_NRT</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LH_KDpar_NRT" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LH_KDpar_NRT</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LM_KDpar_NRT" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LM_KDpar_NRT</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LO_KDpar_NRT" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LO_KDpar_NRT</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LS_KDpar_NRT" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LS_KDpar_NRT</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LE_SM_NRT" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LE_SM_NRT</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LH_SM_NRT" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LH_SM_NRT</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LM_SM_NRT" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LM_SM_NRT</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LO_SM_NRT" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LO_SM_NRT</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LS_SM_NRT" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LS_SM_NRT</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LE_SM_MODIS_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LE_SM_MODIS_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LH_SM_MODIS_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LH_SM_MODIS_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LM_SM_MODIS_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LM_SM_MODIS_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LS_SM_MODIS_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LS_SM_MODIS_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LO_SM_MODIS_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LO_SM_MODIS_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LE_SM_VIIRS_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LE_SM_VIIRS_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LH_SM_VIIRS_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LH_SM_VIIRS_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LM_SM_VIIRS_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LM_SM_VIIRS_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LO_SM_VIIRS_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LO_SM_VIIRS_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LS_SM_VIIRS_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LS_SM_VIIRS_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LE_SM_MODIS_SQ" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LE_SM_MODIS_SQ</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LH_SM_MODIS_SQ" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LH_SM_MODIS_SQ</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LM_SM_MODIS_SQ" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LM_SM_MODIS_SQ</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LS_SM_MODIS_SQ" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LS_SM_MODIS_SQ</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LO_SM_MODIS_SQ" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LO_SM_MODIS_SQ</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LE_SM_VIIRS_SQ" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LE_SM_VIIRS_SQ</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LH_SM_VIIRS_SQ" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LH_SM_VIIRS_SQ</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LM_SM_VIIRS_SQ" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LM_SM_VIIRS_SQ</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LO_SM_VIIRS_SQ" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LO_SM_VIIRS_SQ</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LS_SM_VIIRS_SQ" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LS_SM_VIIRS_SQ</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="glsea_avgtemps_3" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/glsea_avgtemps_3</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="glsea-avgtemps2" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/glsea-avgtemps2</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="fvcom_test1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/fvcom_test1</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="fvcom_test2" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/fvcom_test2</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LS_SST_FP_s3" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LS_SST_FP_s3</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="GR_Daily_CHL_test" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/GR_Daily_CHL_test</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="GL_GOES16_SST_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/GL_GOES16_SST_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="GL_Ice_Classification" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/GL_Ice_Classification</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="glerlIce" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/glerlIce</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="glerlLTIce1973_2015" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/glerlLTIce1973_2015</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="glerlLTAvgTemp" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/glerlLTAvgTemp</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="GR_monthly_CHL_test" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/GR_monthly_CHL_test</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="GL_SAR_Winds" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/GL_SAR_Winds</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="GL_Water_CTI_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/GL_Water_CTI_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="GL_Water_CTI_test" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/GL_Water_CTI_test</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="GL_Ice_Concentration_GCS" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/GL_Ice_Concentration_GCS</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="glerlImageAvgIce" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/glerlImageAvgIce</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="glerl_p_m_lcb" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/glerl_p_m_lcb</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="glerl_p_i_lgi" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/glerl_p_i_lgi</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="glerl_p_i_lif" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/glerl_p_i_lif</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="glerl_p_i_lgv" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/glerl_p_i_lgv</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="glerl_p_i_esu" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/glerl_p_i_esu</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="glerl_p_i_msu" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/glerl_p_i_msu</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="glerl_p_i_ssu" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/glerl_p_i_ssu</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="glerl_p_i_ec1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/glerl_p_i_ec1</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="glerl_p_i_mc1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/glerl_p_i_mc1</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="glerl_p_i_sc1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/glerl_p_i_sc1</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="glerl_p_i_ec2" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/glerl_p_i_ec2</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="glerl_p_i_mc2" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/glerl_p_i_mc2</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="glerl_p_i_sc2" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/glerl_p_i_sc2</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="glerl_p_i_ed1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/glerl_p_i_ed1</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="glerl_p_i_md1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/glerl_p_i_md1</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="glerl_p_i_sd1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/glerl_p_i_sd1</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="glerl_p_i_ehi" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/glerl_p_i_ehi</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="glerl_p_i_mhi" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/glerl_p_i_mhi</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="glerl_p_i_shi" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/glerl_p_i_shi</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="glerl_p_i_es7" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/glerl_p_i_es7</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="glerl_p_i_ms7" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/glerl_p_i_ms7</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="glerl_p_i_ss7" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/glerl_p_i_ss7</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="glerl_p_i_vd1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/glerl_p_i_vd1</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="glerl_p_i_ed1_v" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/glerl_p_i_ed1_v</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="glerl_p_i_md1_v" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/glerl_p_i_md1_v</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="glerl_p_i_sd1_v" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/glerl_p_i_sd1_v</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="glerl_p_i_va7" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/glerl_p_i_va7</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="glerl_p_i_ea7" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/glerl_p_i_ea7</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="glerl_p_i_ma7" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/glerl_p_i_ma7</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="glerl_p_i_sa7" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/glerl_p_i_sa7</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="glerl_p_i_vs7" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/glerl_p_i_vs7</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="glerl_p_i_es7_v" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/glerl_p_i_es7_v</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="glerl_p_i_ms7_v" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/glerl_p_i_ms7_v</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="glerl_p_i_ss7_v" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/glerl_p_i_ss7_v</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="glerl_p_i_vaa" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/glerl_p_i_vaa</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="glerl_p_i_eaa" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/glerl_p_i_eaa</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="glerl_p_i_maa" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/glerl_p_i_maa</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="glerl_p_i_saa" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/glerl_p_i_saa</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="glerl_p_i_va5" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/glerl_p_i_va5</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="glerl_p_i_ea5" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/glerl_p_i_ea5</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="glerl_p_i_ma5" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/glerl_p_i_ma5</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="glerl_p_i_sa5" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/glerl_p_i_sa5</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LC_SAR_Winds" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LC_SAR_Winds</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LE_NRT_TC_e32" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LE_NRT_TC_e32</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LE_NRT_TC_e13" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LE_NRT_TC_e13</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LE_NRT_TC_e31" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LE_NRT_TC_e31</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LE_NRCS_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LE_NRCS_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LE_NRT_TC_e12" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LE_NRT_TC_e12</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LE_NRT_TC_e22" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LE_NRT_TC_e22</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LE_average_water_level" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LE_average_water_level</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LE_average_water_level_2022" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LE_average_water_level_2022</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LE_NRT_TC_e2" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LE_NRT_TC_e2</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LE_NRT_TC_e21" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LE_NRT_TC_e21</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LE_NRT_TC_e3" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LE_NRT_TC_e3</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LE_NRT_TC_e11" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LE_NRT_TC_e11</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LE_RMLS_1992-2020" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LE_RMLS_1992-2020</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LE_RMLS_1992_2022" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LE_RMLS_1992_2022</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LE_SAR_Winds" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LE_SAR_Winds</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LE_NRT_TC_e1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LE_NRT_TC_e1</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LH_NRT_TC_h12" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LH_NRT_TC_h12</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LH_NRT_TC_h21" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LH_NRT_TC_h21</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LH_NRT_TC_h32" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LH_NRT_TC_h32</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LH_average_water_level" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LH_average_water_level</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LH_average_water_level_2022" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LH_average_water_level_2022</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LH_NRT_TC_h2" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LH_NRT_TC_h2</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LH_NRT_TC_h31" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LH_NRT_TC_h31</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LH_NRCS_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LH_NRCS_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LH_NRT_TC_h1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LH_NRT_TC_h1</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LH_RMLS_1992-2020" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LH_RMLS_1992-2020</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LH_RMLS_1992_2022" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LH_RMLS_1992_2022</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LH_NRT_TC_h11" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LH_NRT_TC_h11</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LH_NRT_TC_h22" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LH_NRT_TC_h22</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LH_SAR_Winds" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LH_SAR_Winds</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LH_NRT_TC_h3" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LH_NRT_TC_h3</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LM_NRT_TC_m62" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LM_NRT_TC_m62</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LM_NRT_TC_m21" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LM_NRT_TC_m21</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LM_NRT_TC_m23" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LM_NRT_TC_m23</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LM_NRT_TC_m53" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LM_NRT_TC_m53</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LM_NRT_TC_m65" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LM_NRT_TC_m65</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LM_NRT_TC_m41" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LM_NRT_TC_m41</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LM_NRT_TC_m32" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LM_NRT_TC_m32</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LM_NRT_TC_m61" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LM_NRT_TC_m61</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LM_NRT_TC_m51" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LM_NRT_TC_m51</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LM_NRT_TC_m55" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LM_NRT_TC_m55</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LM_average_water_level" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LM_average_water_level</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LM_average_water_level_2022" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LM_average_water_level_2022</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LM_NRT_TC_m11" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LM_NRT_TC_m11</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LM_NRT_TC_m2" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LM_NRT_TC_m2</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LM_NRT_TC_m3" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LM_NRT_TC_m3</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LM_NRT_TC_m4" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LM_NRT_TC_m4</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LM_NRT_TC_m54" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LM_NRT_TC_m54</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LM_NRT_TC_m12" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LM_NRT_TC_m12</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LM_NRT_TC_m22" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LM_NRT_TC_m22</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LM_NRT_TC_m42" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LM_NRT_TC_m42</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LM_NRT_TC_m63" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LM_NRT_TC_m63</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LM_NRT_TC_m31" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LM_NRT_TC_m31</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LM_NRCS_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LM_NRCS_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LM_NRT_TC_m1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LM_NRT_TC_m1</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LM_RMLS_1992-2020" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LM_RMLS_1992-2020</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LM_RMLS_1992_2022" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LM_RMLS_1992_2022</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LM_SAR_Winds" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LM_SAR_Winds</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LM_NRT_TC_m5" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LM_NRT_TC_m5</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LM_NRT_TC_m52" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LM_NRT_TC_m52</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LM_NRT_TC_m64" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LM_NRT_TC_m64</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LO_NRT_TC_o11" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LO_NRT_TC_o11</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LO_NRT_TC_o22" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LO_NRT_TC_o22</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LO_average_water_level" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LO_average_water_level</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LO_average_water_level_2022" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LO_average_water_level_2022</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LO_NRT_TC_o2" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LO_NRT_TC_o2</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LO_NRT_TC_o23" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LO_NRT_TC_o23</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LO_NRCS_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LO_NRCS_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LO_NRT_TC_o12" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LO_NRT_TC_o12</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LO_RMLS_1992-2020" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LO_RMLS_1992-2020</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LO_RMLS_1992_2022" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LO_RMLS_1992_2022</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LO_NRT_TC_o21" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LO_NRT_TC_o21</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LO_SAR_Winds" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LO_SAR_Winds</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LO_NRT_TC_o1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LO_NRT_TC_o1</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LE_NRT_TC_e10" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LE_NRT_TC_e10</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LS_NRT_TC_s15" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LS_NRT_TC_s15</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LS_NRT_TC_s31" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LS_NRT_TC_s31</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LS_NRT_TC_s14" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LS_NRT_TC_s14</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LS_average_water_level" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LS_average_water_level</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LS_average_water_level_2022" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LS_average_water_level_2022</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LS_NRT_TC_s12" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LS_NRT_TC_s12</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LS_NRT_TC_s2" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LS_NRT_TC_s2</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LS_NRT_TC_s11" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LS_NRT_TC_s11</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LS_NRT_TC_s3" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LS_NRT_TC_s3</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LS_NRT_TC_s13" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LS_NRT_TC_s13</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LS_NRT_TC_s23" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LS_NRT_TC_s23</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LS_NRT_TC_s22" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LS_NRT_TC_s22</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LS_NRT_TC_s21" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LS_NRT_TC_s21</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LS_NRT_TC_s24" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LS_NRT_TC_s24</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LS_NRCS_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LS_NRCS_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LS_RMLS_1992-2020" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LS_RMLS_1992-2020</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="LS_RMLS_1992_2022" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/LS_RMLS_1992_2022</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LS_SAR_Winds" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LS_SAR_Winds</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LS_NRT_TC_s1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LS_NRT_TC_s1</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LS_NRT_TC_s32" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LS_NRT_TC_s32</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="GL_MODIS_True_Color" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/GL_MODIS_True_Color</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LE_MODIS_True_Color" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LE_MODIS_True_Color</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LH_MODIS_True_Color" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LH_MODIS_True_Color</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LM_MODIS_True_Color" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LM_MODIS_True_Color</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LO_MODIS_True_Color" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LO_MODIS_True_Color</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LS_MODIS_True_Color" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LS_MODIS_True_Color</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="GL_NRCS_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/GL_NRCS_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LM_SST_FP_m1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LM_SST_FP_m1</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="GLSEA_ACSPO_IMG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/GLSEA_ACSPO_IMG</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="GLSEA_ACSPO_GCS" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/GLSEA_ACSPO_GCS</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="GLSEA_GCS" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/griddap/GLSEA_GCS</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="SAR_Sentinel_1A_1B" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/SAR_Sentinel_1A_1B</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LE_OLCI_True_Color" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LE_OLCI_True_Color</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LH_OLCI_True_Color" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LH_OLCI_True_Color</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LM_OLCI_True_Color" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LM_OLCI_True_Color</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LS_OLCI_True_Color" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LS_OLCI_True_Color</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LM_SST_FP_m5" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LM_SST_FP_m5</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="GL_VIIRS_True_Color" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/GL_VIIRS_True_Color</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LE_VIIRS_True_Color" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LE_VIIRS_True_Color</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LH_VIIRS_True_Color" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LH_VIIRS_True_Color</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LM_VIIRS_True_Color" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LM_VIIRS_True_Color</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LO_VIIRS_True_Color" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LO_VIIRS_True_Color</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LS_VIIRS_True_Color" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LS_VIIRS_True_Color</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="LS_SST_FP_s1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://apps.glerl.noaa.gov/erddap/erddap/tabledap/LS_SST_FP_s1</sourceUrl>
+</dataset>
+
+<!--  end glerl -->

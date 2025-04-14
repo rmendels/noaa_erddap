@@ -1,0 +1,129 @@
+<!--  start nanoos -->
+
+<dataset type="EDDTableFromErddap" datasetID="backyardbuoys_quileute_north" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.nanoos.org/erddap/erddap/tabledap/backyardbuoys_quileute_north</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="backyardbuoys_quileute_south" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.nanoos.org/erddap/erddap/tabledap/backyardbuoys_quileute_south</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="backyardbuoys_quileute_test" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.nanoos.org/erddap/erddap/tabledap/backyardbuoys_quileute_test</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="OSU_CB06" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.nanoos.org/erddap/erddap/tabledap/OSU_CB06</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ORCA_Dabobbay" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.nanoos.org/erddap/erddap/tabledap/ORCA_Dabobbay</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ORCA_Hansville" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.nanoos.org/erddap/erddap/tabledap/ORCA_Hansville</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ORCA_Hoodsport" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.nanoos.org/erddap/erddap/tabledap/ORCA_Hoodsport</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="APL_NPB2Carr" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.nanoos.org/erddap/erddap/tabledap/APL_NPB2Carr</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="APL_NPB1PtWells" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.nanoos.org/erddap/erddap/tabledap/APL_NPB1PtWells</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ORCA_Twanoh" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.nanoos.org/erddap/erddap/tabledap/ORCA_Twanoh</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="orca_hydro_pointwells" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.nanoos.org/erddap/erddap/griddap/orca_hydro_pointwells</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="orca_met_pointwells" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.nanoos.org/erddap/erddap/tabledap/orca_met_pointwells</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="orca_hydro_carrinlet" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.nanoos.org/erddap/erddap/griddap/orca_hydro_carrinlet</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="orca_met_carrinlet" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.nanoos.org/erddap/erddap/tabledap/orca_met_carrinlet</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="orca_hydro_twanoh" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.nanoos.org/erddap/erddap/griddap/orca_hydro_twanoh</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="orca_met_twanoh" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.nanoos.org/erddap/erddap/tabledap/orca_met_twanoh</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="orca_hydro_hoodsport" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.nanoos.org/erddap/erddap/griddap/orca_hydro_hoodsport</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="orca_met_hoodsport" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.nanoos.org/erddap/erddap/tabledap/orca_met_hoodsport</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="orca_hydro_hansville" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.nanoos.org/erddap/erddap/griddap/orca_hydro_hansville</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="orca_met_hansville" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.nanoos.org/erddap/erddap/tabledap/orca_met_hansville</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="orca_hydro_dabobbay" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.nanoos.org/erddap/erddap/griddap/orca_hydro_dabobbay</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="orca_met_dabobbay" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.nanoos.org/erddap/erddap/tabledap/orca_met_dabobbay</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="bellinghambay_deephydro" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.nanoos.org/erddap/erddap/tabledap/bellinghambay_deephydro</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="bellinghambay_met" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.nanoos.org/erddap/erddap/tabledap/bellinghambay_met</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="bellinghambay_surfhydro" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.nanoos.org/erddap/erddap/tabledap/bellinghambay_surfhydro</sourceUrl>
+</dataset>
+
+<!--  end nanoos -->
+

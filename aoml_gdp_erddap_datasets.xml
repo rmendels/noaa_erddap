@@ -1,0 +1,48 @@
+<!--  start aoml -->
+
+<dataset type="EDDTableFromErddap" datasetID="drifter_hourly_qc" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.aoml.noaa.gov/gdp/erddap/erddap/tabledap/drifter_hourly_qc</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="drifter_6hour_qc" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.aoml.noaa.gov/gdp/erddap/erddap/tabledap/drifter_6hour_qc</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="drifter_annualmeans" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.aoml.noaa.gov/gdp/erddap/erddap/griddap/drifter_annualmeans</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="drifter_currentvariance" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.aoml.noaa.gov/gdp/erddap/erddap/griddap/drifter_currentvariance</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="drifter_monthlymeans" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.aoml.noaa.gov/gdp/erddap/erddap/griddap/drifter_monthlymeans</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="drifter_loopers" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.aoml.noaa.gov/gdp/erddap/erddap/tabledap/drifter_loopers</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="drifter_nonloopers" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.aoml.noaa.gov/gdp/erddap/erddap/tabledap/drifter_nonloopers</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="OSMC_RealTime" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.aoml.noaa.gov/gdp/erddap/erddap/tabledap/OSMC_RealTime</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="RAFOS_SOFAR_Floats" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://erddap.aoml.noaa.gov/gdp/erddap/erddap/tabledap/RAFOS_SOFAR_Floats</sourceUrl>
+</dataset>
+
+<!--  end aoml -->

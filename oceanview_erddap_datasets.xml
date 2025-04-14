@@ -1,0 +1,1324 @@
+<!--  start oceanview -->
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_HMS_ALB_DIET" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_HMS_ALB_DIET</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_HD_ESI_VESS" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_HD_ESI_VESS</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_OC_ARG" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_OC_ARG</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="EB_MM_BC" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/EB_MM_BC</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="FRD_Billfish_recoveries" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/FRD_Billfish_recoveries</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="FRD_Billfish_releases" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/FRD_Billfish_releases</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="erdBEUTIdaily" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/erdBEUTIdaily</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="erdBEUTImonthly" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/erdBEUTImonthly</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_HMS_BLF_DIET" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_HMS_BLF_DIET</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="charm_wcofs" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/charm_wcofs</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="wvcharmV3_1day" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/wvcharmV3_1day</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="wvcharmV3_2day" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/wvcharmV3_2day</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="wvcharmV3_3day" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/wvcharmV3_3day</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="wvcharmV3_0day" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/wvcharmV3_0day</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="erdCalCOFINOAAhydros" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/erdCalCOFINOAAhydros</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="erdCalCOFIcufes" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/erdCalCOFIcufes</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="erdCalCOFIcruises" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/erdCalCOFIcruises</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="erdCalCOFIeggcnt" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/erdCalCOFIeggcnt</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="erdCalCOFIeggstg" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/erdCalCOFIeggstg</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="erdCalCOFIlrvcnt" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/erdCalCOFIlrvcnt</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="erdCalCOFIlrvsiz" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/erdCalCOFIlrvsiz</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="erdCalCOFIlrvstg" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/erdCalCOFIlrvstg</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="erdCalCOFItowtyp" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/erdCalCOFItowtyp</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="erdCalCOFItows" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/erdCalCOFItows</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="erdCalCOFIinvsiz" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/erdCalCOFIinvsiz</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="erdCalCOFIinvcnt" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/erdCalCOFIinvcnt</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="erdCalCOFIstns" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/erdCalCOFIstns</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="erdCalCOFIzoovol" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/erdCalCOFIzoovol</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="siocalcofiHydroBottle" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/siocalcofiHydroBottle</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="siocalcofiHydroCast" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/siocalcofiHydroCast</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="FED6yrdetecs" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/FED6yrdetecs</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="FED6yrecv" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/FED6yrecv</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="FED6yrtags" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/FED6yrtags</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="FEDPredTelDetect" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/FEDPredTelDetect</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="FEDPredTelRelease" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/FEDPredTelRelease</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="FEDPredTelDeploy" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/FEDPredTelDeploy</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_MM_cetacean" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_MM_cetacean</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_OC_MHW_EV" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_OC_MHW_EV</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_OC_MHW" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_OC_MHW</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_OC_MHW_regions" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_OC_MHW_regions</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="FRDPelagicAge" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/FRDPelagicAge</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="FRDPelagicAnchovy" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/FRDPelagicAnchovy</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="FRDPelagicBathy" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/FRDPelagicBathy</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="FRDPelagicLength" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/FRDPelagicLength</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="FRDPelagicNight" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/FRDPelagicNight</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="FRDPelagicSpComp" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/FRDPelagicSpComp</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="FRDPelagicVisual" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/FRDPelagicVisual</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="SWFSC-CCTD" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/SWFSC-CCTD</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="SWFSC-CCTD_glossary" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/SWFSC-CCTD_glossary</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="SWFSC-CCTD_predator_taxonomy" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/SWFSC-CCTD_predator_taxonomy</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="SWFSC-CCTD_prey_taxonomy" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/SWFSC-CCTD_prey_taxonomy</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_MM_pup_count" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_MM_pup_count</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="FEDSDFRCSrecv" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/FEDSDFRCSrecv</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="FEDSDFRCSdetecs09" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/FEDSDFRCSdetecs09</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="FEDSDFRCS10-17" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/FEDSDFRCS10-17</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="FEDSDFRCStags" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/FEDSDFRCStags</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="mmtdNonTeleostPreySizeHP" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/mmtdNonTeleostPreySizeHP</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="mmtdPreySizeHPRegressions" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/mmtdPreySizeHPRegressions</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="mmtdTeleostPreySizeHP" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/mmtdTeleostPreySizeHP</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_AC_landings" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_AC_landings</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_AC_nonfisheries" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_AC_nonfisheries</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_AC_revenue" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_AC_revenue</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CCIEA_metadata" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/CCIEA_metadata</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="HMS_habitat_suitability" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/HMS_habitat_suitability</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="FRD_CPS_SDMs" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/FRD_CPS_SDMs</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_SM_CA_CH_ABND" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_SM_CA_CH_ABND</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_SM_ORWA_CH_ABND" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_SM_ORWA_CH_ABND</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_SM_CA_CH_CND" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_SM_CA_CH_CND</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_SM_ORWA_CH_CND" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_SM_ORWA_CH_CND</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nrlCOAMPS3km" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/nrlCOAMPS3km</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nrlCOAMPS3kmNogap" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/nrlCOAMPS3kmNogap</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nrlCOAMPS3kmGrid" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/nrlCOAMPS3kmGrid</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_HD_Fish_Dep" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_HD_Fish_Dep</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_HD_Soc_Vuln_Indx" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_HD_Soc_Vuln_Indx</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_EI_CP_SIMP" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_EI_CP_SIMP</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_EI_CP_SPNO" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_EI_CP_SPNO</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="erdCUTIdaily" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/erdCUTIdaily</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="erdCUTImonthly" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/erdCUTImonthly</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_SM_CA_CO_ABND" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_SM_CA_CO_ABND</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_SM_ORWA_CO_ABND" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_SM_ORWA_CO_ABND</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_SM_ORWA_CO_CND" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_SM_ORWA_CO_CND</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_EI_COP" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_EI_COP</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="FRDCPSTrawlLHHaulCatch" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/FRDCPSTrawlLHHaulCatch</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="FRDCPSTrawlLHLengthFrequency" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/FRDCPSTrawlLHLengthFrequency</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="FRDCPSTrawlLHSpecimen" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/FRDCPSTrawlLHSpecimen</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cvtempHindcast" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cvtempHindcast</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cvtempMetInput" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cvtempMetInput</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cvtempLandscape" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cvtempLandscape</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cvtempStations" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cvtempStations</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_OC_DO" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_OC_DO</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="BASIS_FishCatch" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/BASIS_FishCatch</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="BASIS_CTD" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/BASIS_CTD</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ecocast_inputs" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/ecocast_inputs</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="CCS_ROMS_proj_eke_gfdl" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/CCS_ROMS_proj_eke_gfdl</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="CCS_ROMS_proj_eke_had" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/CCS_ROMS_proj_eke_had</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="CCS_ROMS_proj_eke_ipsl" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/CCS_ROMS_proj_eke_ipsl</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="EB_MM" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/EB_MM</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_EI_KRILLEN_ALL" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_EI_KRILLEN_ALL</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_EI_KRILLEN" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_EI_KRILLEN</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="wcofs" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/wcofs</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_OC_NOI" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_OC_NOI</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CAC_FI_SBAS_obs" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/CAC_FI_SBAS_obs</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CAC_FI_SBAS_obs_private" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/CAC_FI_SBAS_obs_private</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CAC_FI_SBAS_tr" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/CAC_FI_SBAS_tr</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CAC_FI_SBAS_tr_private" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/CAC_FI_SBAS_tr_private</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="RREAS_FI_SBAS_obs" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/RREAS_FI_SBAS_obs</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="RREAS_FI_SBAS_obs_private" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/RREAS_FI_SBAS_obs_private</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="RREAS_FI_SBAS_tr" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/RREAS_FI_SBAS_tr</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="RREAS_FI_SBAS_tr_private" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/RREAS_FI_SBAS_tr_private</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CAC_RREAS_FI_SBAS_sp" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/CAC_RREAS_FI_SBAS_sp</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_EI_CRAB_FINF" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_EI_CRAB_FINF</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_EI_FBC" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_EI_FBC</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_EI_FBN" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_EI_FBN</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_EI_FBS" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_EI_FBS</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_EI_FPN" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_EI_FPN</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_HB_FLOW" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_HB_FLOW</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="FEDAc_Salmon" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/FEDAc_Salmon</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_GF_ABND" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_GF_ABND</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_EI_MTL" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_EI_MTL</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_EI_SIMP" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_EI_SIMP</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_EI_SP_RICH" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_EI_SP_RICH</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_GF_STAT" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_GF_STAT</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_OC_HCI" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_OC_HCI</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_HMS_biomass" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_HMS_biomass</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_HMS_recruit" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_HMS_recruit</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="FRD_Billfish_raw" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/FRD_Billfish_raw</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="FRD_Billfish_summary" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/FRD_Billfish_summary</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="CCS_ROMS_proj_ild_gfdl" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/CCS_ROMS_proj_ild_gfdl</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="CCS_ROMS_proj_ild_had" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/CCS_ROMS_proj_ild_had</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="CCS_ROMS_proj_ild_ipsl" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/CCS_ROMS_proj_ild_ipsl</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_EI_JELLY_CC" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_EI_JELLY_CC</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_EI_JELLY_OW" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_EI_JELLY_OW</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_OC_LUSI" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_OC_LUSI</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="MARINe_raw" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/MARINe_raw</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="MARINe_sum" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/MARINe_sum</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="MARINe_sscount" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/MARINe_sscount</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="MARINe_sssize" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/MARINe_sssize</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_OC_VWND" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_OC_VWND</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_OC_BEUTI" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_OC_BEUTI</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_OC_CUTI" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_OC_CUTI</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_EI_DOMACID_MON_crab" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_EI_DOMACID_MON_crab</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_EI_DOMACID_MON_clam" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_EI_DOMACID_MON_clam</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_OC_SL3" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_OC_SL3</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_OC_SL2" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_OC_SL2</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_OC_SL1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_OC_SL1</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="jplMURSST41" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/jplMURSST41</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_OC_MEI" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_OC_MEI</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="WCRWhaleEntanglements" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/WCRWhaleEntanglements</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="newportCTD" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/newportCTD</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="newportDOArag" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/newportDOArag</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="newportNitrate" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/newportNitrate</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ncepNinoSSTwk" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/ncepNinoSSTwk</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="NOAA_CVSI" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/NOAA_CVSI</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_OC_NPGO" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_OC_NPGO</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_OC_NPH" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_OC_NPH</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_OC_NPH_JF" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_OC_NPH_JF</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_OC_CBAN" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_OC_CBAN</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_OC_ONI" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_OC_ONI</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="CCS_ROMS_proj_oxygen_gfdl" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/CCS_ROMS_proj_oxygen_gfdl</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="CCS_ROMS_proj_oxygen_had" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/CCS_ROMS_proj_oxygen_had</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="CCS_ROMS_proj_oxygen_ipsl" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/CCS_ROMS_proj_oxygen_ipsl</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_OC_PDO" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_OC_PDO</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="UW-JISAO_PDO" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/UW-JISAO_PDO</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_HD_PU" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_HD_PU</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="modisPoc2019" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/modisPoc2019</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="poc2019" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/poc2019</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="viirsPoc2019" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/viirsPoc2019</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="modisPoc2020" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/modisPoc2020</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="seawifsPoc2020" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/seawifsPoc2020</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="viirsPoc2020" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/viirsPoc2020</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="ecocast" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/ecocast</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_MM_HB_REL" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_MM_HB_REL</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_EI_RREAS_diversity_list" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_EI_RREAS_diversity_list</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_EI_RREAS_diversity_grid" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_EI_RREAS_diversity_grid</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="FED_Rockfish_Catch" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/FED_Rockfish_Catch</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="FED_Rockfish_CTD" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/FED_Rockfish_CTD</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="FED_Rockfish_Length" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/FED_Rockfish_Length</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="FED_Rockfish_Event" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/FED_Rockfish_Event</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="FED_Rockfish_Occurrence" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/FED_Rockfish_Occurrence</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="FED_Rockfish_Surface" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/FED_Rockfish_Surface</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="FEDcalFishTrack" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/FEDcalFishTrack</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="sardine_habitat_modis" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/sardine_habitat_modis</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="sardine_habitat_viirs" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/sardine_habitat_viirs</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_EI_SCAV_RAT" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_EI_SCAV_RAT</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="CCS_ROMS_proj_sst_gfdl" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/CCS_ROMS_proj_sst_gfdl</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="CCS_ROMS_proj_sst_had" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/CCS_ROMS_proj_sst_had</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="CCS_ROMS_proj_sst_ipsl" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/CCS_ROMS_proj_sst_ipsl</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="goes_west" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/goes_west</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_B_AS_DENS" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_B_AS_DENS</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_B_B_MORT" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_B_B_MORT</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_B_AS_DIET" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_B_AS_DIET</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_B_AS_DIET_ND" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_B_AS_DIET_ND</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_B_LEN" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_B_LEN</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_B_PR_ANOM" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_B_PR_ANOM</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_B_PR_ANOM_ND" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_B_PR_ANOM_ND</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="rtcctdCMAysi" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/rtcctdCMAysi</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="rtcctdCMAysirt" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/rtcctdCMAysirt</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="rtcco2buoy" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/rtcco2buoy</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="rtcmet" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/rtcmet</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="rtcmetv2" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/rtcmetv2</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="rtcmetrt" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/rtcmetrt</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="rtcctdSeabird" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/rtcctdSeabird</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="rtcctdRTCysi" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/rtcctdRTCysi</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="rtcctdRTCysirt" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/rtcctdRTCysirt</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_OC_CBAS" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_OC_CBAS</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_OC_STI" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_OC_STI</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="FRD_SSTgradsmo" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/FRD_SSTgradsmo</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_OC_SST" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_OC_SST</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="CCS_ROMS_proj_chl_gfdl" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/CCS_ROMS_proj_chl_gfdl</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="CCS_ROMS_proj_chl_had" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/CCS_ROMS_proj_chl_had</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="CCS_ROMS_proj_chl_ipsl" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/CCS_ROMS_proj_chl_ipsl</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="CCS_ROMS_proj_sustr_gfdl" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/CCS_ROMS_proj_sustr_gfdl</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="CCS_ROMS_proj_sustr_ipsl" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/CCS_ROMS_proj_sustr_ipsl</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="CCS_ROMS_proj_sustr_had" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/CCS_ROMS_proj_sustr_had</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="CCS_ROMS_proj_svstr_gfdl" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/CCS_ROMS_proj_svstr_gfdl</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="CCS_ROMS_proj_svstr_ipsl" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/CCS_ROMS_proj_svstr_ipsl</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="CCS_ROMS_proj_svstr_had" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/CCS_ROMS_proj_svstr_had</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_HMS_SWD_DIET" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_HMS_SWD_DIET</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_HD_THEIL" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_HD_THEIL</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="Salmon_thiamine" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/Salmon_thiamine</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="gtoppAT" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/gtoppAT</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_OC_TUMI" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_OC_TUMI</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="swfscTrinidadCTD" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/swfscTrinidadCTD</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CA_mkt_catch_update" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/CA_mkt_catch_update</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="FED_JSATS_detects" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/FED_JSATS_detects</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="FED_JSATS_receivers" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/FED_JSATS_receivers</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="FED_JSATS_taggedfish" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/FED_JSATS_taggedfish</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="CCS_ROMS_proj_bf_gfdl" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/CCS_ROMS_proj_bf_gfdl</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="CCS_ROMS_proj_bf_had" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/CCS_ROMS_proj_bf_had</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="CCS_ROMS_proj_bf_ipsl" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/CCS_ROMS_proj_bf_ipsl</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_OC_UI" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_OC_UI</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_OC_UI_day" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_OC_UI_day</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="erdUIClim" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/erdUIClim</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="erdUI216hr" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/erdUI216hr</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="erdUI21mo" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/erdUI21mo</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="erdUI246hr" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/erdUI246hr</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="erdUI24mo" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/erdUI24mo</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="erdUI276hr" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/erdUI276hr</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="erdUI27mo" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/erdUI27mo</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="erdUI306hr" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/erdUI306hr</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="erdUI30mo" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/erdUI30mo</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="erdUI336hr" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/erdUI336hr</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="erdUI33mo" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/erdUI33mo</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="erdUI366hr" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/erdUI366hr</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="erdUI36mo" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/erdUI36mo</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="erdUI396hr" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/erdUI396hr</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="erdUI39mo" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/erdUI39mo</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="erdUI426hr" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/erdUI426hr</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="erdUI42mo" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/erdUI42mo</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="erdUI456hr" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/erdUI456hr</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="erdUI45mo" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/erdUI45mo</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="erdUI486hr" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/erdUI486hr</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="erdUI48mo" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/erdUI48mo</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="erdUI516hr" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/erdUI516hr</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="erdUI51mo" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/erdUI51mo</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="erdUI546hr" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/erdUI546hr</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="erdUI54mo" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/erdUI54mo</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="erdUI576hr" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/erdUI576hr</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="erdUI57mo" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/erdUI57mo</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="erdUI606hr" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/erdUI606hr</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="erdUI60mo" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/erdUI60mo</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="erdUI616hr" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/erdUI616hr</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="erdUI61mo" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/griddap/erdUI61mo</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cciea_EI_WH_ENT" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanview.pfeg.noaa.gov/erddap/erddap/tabledap/cciea_EI_WH_ENT</sourceUrl>
+</dataset>
+
+<!--  end oceanview -->
+

@@ -1,0 +1,829 @@
+<!--  start pifsc -->
+
+<dataset type="EDDGridFromErddap" datasetID="ETOPO_2022_v1_15s" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/ETOPO_2022_v1_15s</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="ETOPO_2022_v1_30s" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/ETOPO_2022_v1_30s</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="ETOPO_2022_v1_60s" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/ETOPO_2022_v1_60s</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="aqua_chla_8d_2018_0" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/aqua_chla_8d_2018_0</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="aqua_chla_climatology_2018_0" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/aqua_chla_climatology_2018_0</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="aqua_chla_1d_2018_0" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/aqua_chla_1d_2018_0</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="aqua_chla_monthly_2018_0" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/aqua_chla_monthly_2018_0</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="esa-cci-chla-8d-v6-0" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/esa-cci-chla-8d-v6-0</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="esa-cci-chla-1998-2009-clim-v6-0" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/esa-cci-chla-1998-2009-clim-v6-0</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="esa-cci-chla-2024-clim_v6-0" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/esa-cci-chla-2024-clim_v6-0</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="esa-cci-chla-monthly-v6-0" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/esa-cci-chla-monthly-v6-0</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="noaa_snpp_chla_daily" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/noaa_snpp_chla_daily</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="noaa_snpp_chla_monthly" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/noaa_snpp_chla_monthly</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="noaa_snpp_chla_weekly" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/noaa_snpp_chla_weekly</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="noaa_snpp_chla_monthly_750m_v2023" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/noaa_snpp_chla_monthly_750m_v2023</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="noaa_snpp_chla_weekly_750m_v2023" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/noaa_snpp_chla_weekly_750m_v2023</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="sw_chla_8d_2018_0" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/sw_chla_8d_2018_0</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="sw_chla_1d_2018_0" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/sw_chla_1d_2018_0</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="sw_chla_monthly_2018_0" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/sw_chla_monthly_2018_0</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="CRW_baa_max_7d_v1_0" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/CRW_baa_max_7d_v1_0</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="CRW_hs_v1_0" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/CRW_hs_v1_0</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="CRW_dhw_v1_0" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/CRW_dhw_v1_0</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="md50_exp-1998-2009-clim" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/md50_exp-1998-2009-clim</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="md50_exp-2024-clim" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/md50_exp-2024-clim</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="md50_exp" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/md50_exp</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="aqua_kd490_8d_2018_0" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/aqua_kd490_8d_2018_0</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="aqua_kd490_1d_2018_0" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/aqua_kd490_1d_2018_0</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="aqua_kd490_monthly_2018_0" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/aqua_kd490_monthly_2018_0</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="esa-cci-kd-8d-v6-0" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/esa-cci-kd-8d-v6-0</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="esa-cci-kd-monthly-v6-0" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/esa-cci-kd-monthly-v6-0</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="noaa_snpp_kd490_daily" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/noaa_snpp_kd490_daily</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="noaa_snpp_kd490_monthly" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/noaa_snpp_kd490_monthly</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="noaa_snpp_kd490_weekly" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/noaa_snpp_kd490_weekly</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="noaa_snpp_kd490_weekly_750m_v2023" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/noaa_snpp_kd490_weekly_750m_v2023</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="sw_kd490_8d_2018_0" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/sw_kd490_8d_2018_0</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="sw_kd490_1d_2018_0" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/sw_kd490_1d_2018_0</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="sw_kd490_monthly_2018_0" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/sw_kd490_monthly_2018_0</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="noaa_snpp_kdpar_weekly_750m_v2023" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/noaa_snpp_kdpar_weekly_750m_v2023</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="yearly_336c_0b32_9cd3" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/yearly_336c_0b32_9cd3</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="ccmp-daily-v2-1-NRT" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/ccmp-daily-v2-1-NRT</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="ccmp-daily-v2-0" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/ccmp-daily-v2-0</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="ccmp-monthly-v2-0" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/ccmp-monthly-v2-0</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="ascat_daily_apdrc" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/ascat_daily_apdrc</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="OceanWatch_qscat_wind_3day" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/OceanWatch_qscat_wind_3day</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="OceanWacth_qscat_wind_monthly" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/OceanWacth_qscat_wind_monthly</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="OceanWatch_qscat_wind_weekly" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/OceanWatch_qscat_wind_weekly</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="aqua_par_8d_2018_0" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/aqua_par_8d_2018_0</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="aqua_par_1d_2018_0" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/aqua_par_1d_2018_0</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="aqua_par_monthly_2018_0" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/aqua_par_monthly_2018_0</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="sw_par_8d_2018_0" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/sw_par_8d_2018_0</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="sw_par_1d_2018_0" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/sw_par_1d_2018_0</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="sw_par_monthly_2018_0" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/sw_par_monthly_2018_0</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CTD_PIFSC" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/tabledap/CTD_PIFSC</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="hawaii_soest_5687_3d16_a6d4" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/hawaii_soest_5687_3d16_a6d4</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="hawaii_soest_50a9_7762_f9ce" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/hawaii_soest_50a9_7762_f9ce</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="noaa_sla_dt" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/noaa_sla_dt</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="OceanWatch_aquarius_sss_monthly" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/OceanWatch_aquarius_sss_monthly</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="OceanWatch_aquarius_sss_weekly" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/OceanWatch_aquarius_sss_weekly</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="smos_3day" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/smos_3day</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="CRW_sst_anom_v1_0" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/CRW_sst_anom_v1_0</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="CRW_sst_v1_0" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/CRW_sst_v1_0</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="CRW_sst_v3_1_1985-2009-clim" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/CRW_sst_v3_1_1985-2009-clim</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="CRW_sst_v3_1_2024-clim" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/CRW_sst_v3_1_2024-clim</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="CRW_sst_v3_1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/CRW_sst_v3_1</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="CRW_sst_v3_1_monthly" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/CRW_sst_v3_1_monthly</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="goes-poes-8day-ghrsst-RAN" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/goes-poes-8day-ghrsst-RAN</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="goes-poes-ghrsst-RAN-2003-2017-clim" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/goes-poes-ghrsst-RAN-2003-2017-clim</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="goes-poes-ghrsst-RAN-2018-clim" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/goes-poes-ghrsst-RAN-2018-clim</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="goes-poes-1d-ghrsst-RAN" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/goes-poes-1d-ghrsst-RAN</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="goes-poes-monthly-ghrsst-RAN" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/goes-poes-monthly-ghrsst-RAN</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="pf5-3-weekly" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/pf5-3-weekly</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="pf5-3-monthly" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/pf5-3-monthly</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="pf5-3-1982-2017-mean" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/pf5-3-1982-2017-mean</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="pf5-3-2018-mean" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/pf5-3-2018-mean</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="ACSPO_LEO_L3S" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/ACSPO_LEO_L3S</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="ACSPO_LEO_L3S_nrt" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/ACSPO_LEO_L3S_nrt</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="noaacwBLENDEDsstDaily" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/noaacwBLENDEDsstDaily</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="grid_access-esm1-5" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/grid_access-esm1-5</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="grid_cesm2" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/grid_cesm2</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="access-esm1-5_3d_ssp245" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/access-esm1-5_3d_ssp245</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="access-esm1-5_3d_ssp370" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/access-esm1-5_3d_ssp370</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="access-esm1-5_3d_ssp585" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/access-esm1-5_3d_ssp585</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="cesm2_3d_ssp245" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/cesm2_3d_ssp245</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="cesm2_3d_ssp370" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/cesm2_3d_ssp370</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="cesm2_3d_ssp585" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/cesm2_3d_ssp585</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="access-esm1-5_3d_hist" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/access-esm1-5_3d_hist</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="cesm2_3d_hist" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/cesm2_3d_hist</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="cesm2_4d_hist_bio" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/cesm2_4d_hist_bio</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="cesm2_4d_ssp245_bio" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/cesm2_4d_ssp245_bio</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="cesm2_4d_ssp370_bio" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/cesm2_4d_ssp370_bio</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="cesm2_4d_ssp585_bio" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/cesm2_4d_ssp585_bio</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="cesm2_4d_hist_ocn" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/cesm2_4d_hist_ocn</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="access-esm1-5_4d_hist" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/access-esm1-5_4d_hist</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="access-esm1-5_4d_ssp245" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/access-esm1-5_4d_ssp245</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="access-esm1-5_4d_ssp370" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/access-esm1-5_4d_ssp370</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="access-esm1-5_4d_ssp585" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/access-esm1-5_4d_ssp585</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="cesm2_4d_ssp245_ocn" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/cesm2_4d_ssp245_ocn</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="cesm2_4d_ssp370_ocn" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/cesm2_4d_ssp370_ocn</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="cesm2_4d_ssp585_ocn" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/cesm2_4d_ssp585_ocn</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="esa-cci-chla-8day" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/esa-cci-chla-8day</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="esa-cci-chla-8d-v4-1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/esa-cci-chla-8d-v4-1</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="esa-cci-chla-8d-v4-2" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/esa-cci-chla-8d-v4-2</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="esa-cci-chla-8d-v5-0" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/esa-cci-chla-8d-v5-0</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="esa-cci-chla-1998-2008-clim-v4-1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/esa-cci-chla-1998-2008-clim-v4-1</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="esa-cci-chla-1998-2008-clim-v4-2" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/esa-cci-chla-1998-2008-clim-v4-2</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="esa-cci-chla-1998-2018-clim-v4-2" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/esa-cci-chla-1998-2018-clim-v4-2</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="esa-cci-chla-1998-2019-clim-v5-0" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/esa-cci-chla-1998-2019-clim-v5-0</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="esa-cci-chla-1998-2020-clim-v5-0" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/esa-cci-chla-1998-2020-clim-v5-0</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="esa-cci-chla-1998-2021-clim-v6-0" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/esa-cci-chla-1998-2021-clim-v6-0</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="esa-cci-chla-2009-2018-clim-v4-1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/esa-cci-chla-2009-2018-clim-v4-1</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="esa-cci-chla-2009-2018-clim-v4-2" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/esa-cci-chla-2009-2018-clim-v4-2</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="esa-cci-chla-2019-clim-v4-2" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/esa-cci-chla-2019-clim-v4-2</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="esa-cci-chla-2020-clim-v5-0" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/esa-cci-chla-2020-clim-v5-0</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="esa-cci-chla-2021-clim-v5-0" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/esa-cci-chla-2021-clim-v5-0</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="esa-cci-chla-1998-2017-clim" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/esa-cci-chla-1998-2017-clim</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="esa-cci-chla-2008-2018-clim" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/esa-cci-chla-2008-2018-clim</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="esa-cci-chla-2017-2018-clim" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/esa-cci-chla-2017-2018-clim</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="esa-cci-chla-2022-clim_v6-0" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/esa-cci-chla-2022-clim_v6-0</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="esa-cci-chla-monthly" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/esa-cci-chla-monthly</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="esa-cci-chla-monthly-v4-1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/esa-cci-chla-monthly-v4-1</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="esa-cci-chla-monthly-v4-2" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/esa-cci-chla-monthly-v4-2</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="esa-cci-chla-monthly-v5-0" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/esa-cci-chla-monthly-v5-0</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="noaa_snpp_chla_monthly_750m" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/noaa_snpp_chla_monthly_750m</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="noaa_snpp_chla_weekly_750m" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/noaa_snpp_chla_weekly_750m</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="md50_exp-1998-2021-clim" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/md50_exp-1998-2021-clim</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="md50_exp-2022-clim" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/md50_exp-2022-clim</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="esa-kd-8d" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/esa-kd-8d</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="esa-cci-kd-8d-v4-1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/esa-cci-kd-8d-v4-1</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="esa-cci-kd-8d-v4-2" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/esa-cci-kd-8d-v4-2</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="esa-cci-kd-8d-v5-0" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/esa-cci-kd-8d-v5-0</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="esa-cci-kd-monthly" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/esa-cci-kd-monthly</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="esa-cci-kd-monthly-v4-1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/esa-cci-kd-monthly-v4-1</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="esa-cci-kd-monthly-v4-2" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/esa-cci-kd-monthly-v4-2</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="esa-cci-kd-monthly-v5-0" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/esa-cci-kd-monthly-v5-0</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="noaa_snpp_kd490_monthly_750m" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/noaa_snpp_kd490_monthly_750m</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="hawaii_soest_9150_1726_5f1b" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/hawaii_soest_9150_1726_5f1b</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="ccmp-daily-v2-0-NRT" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/ccmp-daily-v2-0-NRT</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="OceanWatch_aqua_chla_daily" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/OceanWatch_aqua_chla_daily</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="OceanWatch_aqua_chla_monthly" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/OceanWatch_aqua_chla_monthly</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="OceanWatch_aqua_chla_weekly" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/OceanWatch_aqua_chla_weekly</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="OceanWatch_nasa-viirs_chla_monthly" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/OceanWatch_nasa-viirs_chla_monthly</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="OceanWatch_nasa-viirs_chla_weekly" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/OceanWatch_nasa-viirs_chla_weekly</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="OceanWatch_seawifs_chla_monthly" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/OceanWatch_seawifs_chla_monthly</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="OceanWatch_seawifs_chla_weekly" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/OceanWatch_seawifs_chla_weekly</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="OceanWatch_aqua_par_monthly" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/OceanWatch_aqua_par_monthly</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="OceanWatch_pfgac_sst_monthly" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/OceanWatch_pfgac_sst_monthly</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="OceanWatch_pfgac_sst_weekly" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/OceanWatch_pfgac_sst_weekly</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="OceanWatch_pf5_sst_monthly" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/OceanWatch_pf5_sst_monthly</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="OceanWatch_pf5_sst_weekly" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/OceanWatch_pf5_sst_weekly</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="OceanWatch_goes-poes_sst_2day" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/OceanWatch_goes-poes_sst_2day</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="OceanWatch_goes-poes_sst_monthly" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/OceanWatch_goes-poes_sst_monthly</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="OceanWatch_goes-poes_sst_weekly" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/OceanWatch_goes-poes_sst_weekly</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="CRW_sst_v1_0_8day" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/CRW_sst_v1_0_8day</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="CRW_sst_v1_0_1985-2008-clim" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/CRW_sst_v1_0_1985-2008-clim</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="CRW_sst_v1_0_1985-2018-clim" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/CRW_sst_v1_0_1985-2018-clim</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="CRW_sst_v1_0_2009-2018-clim" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/CRW_sst_v1_0_2009-2018-clim</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="CRW_sst_v1_0_2019-clim" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/CRW_sst_v1_0_2019-clim</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="CRW_sst_v1_0_monthly" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/CRW_sst_v1_0_monthly</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="CRW_sst_v3_1_1985-2019-clim" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/CRW_sst_v3_1_1985-2019-clim</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="CRW_sst_v3_1_2020-clim" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/CRW_sst_v3_1_2020-clim</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="CRW_sst_v3_1_2022-clim" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/CRW_sst_v3_1_2022-clim</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="CRW_sst_v3_1_1985-2020-clim" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/CRW_sst_v3_1_1985-2020-clim</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="CRW_sst_v3_1_1985-2021-clim" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/CRW_sst_v3_1_1985-2021-clim</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="CRW_sst_v3_1_2021-clim" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/CRW_sst_v3_1_2021-clim</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="noaa_pifsc_1690_ba7c_a22e" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://oceanwatch.pifsc.noaa.gov/erddap/erddap/griddap/noaa_pifsc_1690_ba7c_a22e</sourceUrl>
+</dataset>
+
+<!--  end pifsc -->
+

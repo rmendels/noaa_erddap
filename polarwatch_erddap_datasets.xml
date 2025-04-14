@@ -1,0 +1,1384 @@
+<!--  start polarwatch -->
+
+<dataset type="EDDTableFromErddap" datasetID="amlr01-20181216T0641-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/amlr01-20181216T0641-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="amlr01-20191206T0452-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/amlr01-20191206T0452-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="amlr02-20181211T1233-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/amlr02-20181211T1233-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="amlr02-20191206T1236-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/amlr02-20191206T1236-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="amlr03-20191206T0529-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/amlr03-20191206T0529-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="Argo_BGC_NRT" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/Argo_BGC_NRT</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="SOCCOM_BGC_Argo_Snapshot_Archive" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/SOCCOM_BGC_Argo_Snapshot_Archive</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="SOCCOM_BGC_Argo" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/SOCCOM_BGC_Argo</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ce_381-20171208T1841-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/ce_381-20171208T1841-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nesdisNPPN20S3ASCIDINEOFDaily" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nesdisNPPN20S3ASCIDINEOFDaily</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nesdisVHNnoaaSNPPnoaa20NRTchlaGapfilledDaily" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nesdisVHNnoaaSNPPnoaa20NRTchlaGapfilledDaily</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="afsc_chlorophyll" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/afsc_chlorophyll</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nesdisVHNchlaDaily" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nesdisVHNchlaDaily</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nesdisVHNchlaWeekly" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nesdisVHNchlaWeekly</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nesdisVHNSQchlaDaily" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nesdisVHNSQchlaDaily</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nesdisVHNSQchlaMonthly" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nesdisVHNSQchlaMonthly</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nesdisVHNSQchlaWeekly" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nesdisVHNSQchlaWeekly</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="erdMH1chla1day" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/erdMH1chla1day</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="erdMH1chla8day" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/erdMH1chla8day</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="erdMH1chlamday" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/erdMH1chlamday</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cp_389-20161011T2040-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/cp_389-20161011T2040-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="wcn_log_crosswalk" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/wcn_log_crosswalk</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="dfo-marvin1003-20221129T1938" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/dfo-marvin1003-20221129T1938</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="dfo-mike579-20210704T1828-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/dfo-mike579-20210704T1828-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="erdMH1kd4901day" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/erdMH1kd4901day</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="erdMH1kd4908day" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/erdMH1kd4908day</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="erdMH1kd490mday" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/erdMH1kd490mday</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="pmlEsaCCI50OceanColor8Day" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/pmlEsaCCI50OceanColor8Day</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="pmlEsaCCI50OceanColorMonthly" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/pmlEsaCCI50OceanColorMonthly</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="pmlEsaCCI60OceanColor5Day" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/pmlEsaCCI60OceanColor5Day</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="pmlEsaCCI60OceanColor8Day" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/pmlEsaCCI60OceanColor8Day</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="pmlEsaCCI60OceanColorDaily" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/pmlEsaCCI60OceanColorDaily</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="pmlEsaCCI60OceanColorMonthly" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/pmlEsaCCI60OceanColorMonthly</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="erdMH1cflh1day" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/erdMH1cflh1day</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="erdMH1cflh8day" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/erdMH1cflh8day</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="erdMH1cflhmday" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/erdMH1cflhmday</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="gi_363-20180609T1949-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/gi_363-20180609T1949-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="gi_365-20200825T0829" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/gi_365-20200825T0829</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="gi_469-20210811T0404" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/gi_469-20210811T0404</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="gi_477-20140910T2300" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/gi_477-20140910T2300</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="gi_484-20150817T1025" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/gi_484-20150817T1025</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="gi_484-20160709T1032" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/gi_484-20160709T1032</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="gi_485-20150817T1036" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/gi_485-20150817T1036</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="gi_493-20170809T1222" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/gi_493-20170809T1222</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="gi_495-20150817T1402" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/gi_495-20150817T1402</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="gi_515-20200815T1437" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/gi_515-20200815T1437</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="gi_515-20200815T1437-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/gi_515-20200815T1437-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="gi_525-20190806T1723-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/gi_525-20190806T1723-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="gi_525-20220628T1658" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/gi_525-20220628T1658</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="gi_528-20150817T1428-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/gi_528-20150817T1428-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="gi_537-20210811T0410" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/gi_537-20210811T0410</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="gi_538-20220628T1727" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/gi_538-20220628T1727</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="gi_559-20160709T1012-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/gi_559-20160709T1012-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="gi_560-20190806T1805" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/gi_560-20190806T1805</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="gi_565-20210811T0311" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/gi_565-20210811T0311</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="gi_575-20220628T1724-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/gi_575-20220628T1724-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="erdGtsppBest" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/erdGtsppBest</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="gp_276-20140615T0533-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/gp_276-20140615T0533-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="gp_276-20180723T0633-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/gp_276-20180723T0633-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="gp_361-20140220T2049" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/gp_361-20140220T2049</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="gp_362-20140830T0240" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/gp_362-20140830T0240</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="gp_363-20130719T2300-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/gp_363-20130719T2300-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="gp_363-20160630T0230-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/gp_363-20160630T0230-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="gp_363-20220703T1913" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/gp_363-20220703T1913</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="gp_364-20130719T2033-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/gp_364-20130719T2033-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="gp_365-20130719T2017-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/gp_365-20130719T2017-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="gp_365-20160627T1535-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/gp_365-20160627T1535-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="gp_453-20140830T0051" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/gp_453-20140830T0051</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="gp_469-20180821T1804-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/gp_469-20180821T1804-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="gp_514-20150602T1000-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/gp_514-20150602T1000-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="gp_515-20150602T0955-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/gp_515-20150602T0955-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="gp_523-20150602T0440-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/gp_523-20150602T0440-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="gp_525-20150602T1125-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/gp_525-20150602T1125-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="gp_537-20150602T1105-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/gp_537-20150602T1105-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="gp_537-20190930T0140-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/gp_537-20190930T0140-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="gp_566-20201002T1245" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/gp_566-20201002T1245</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="gp_566-20201002T1245-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/gp_566-20201002T1245-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="gp_575-20160627T1858-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/gp_575-20160627T1858-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="gp_575-20190930T0147-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/gp_575-20190930T0147-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="gs_484-20150220T2015" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/gs_484-20150220T2015</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="gs_485-20150221T1628" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/gs_485-20150221T1628</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="gs_486-20150221T1620-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/gs_486-20150221T1620-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="gs_524-20151220T1950" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/gs_524-20151220T1950</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="gs_560-20151220T1920-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/gs_560-20151220T1920-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="gs_561-20151225T2141" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/gs_561-20151225T2141</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="gs_565-20151220T1746-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/gs_565-20151220T1746-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="gs_566-20151220T1716-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/gs_566-20151220T1716-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="noaacwSARciceclassnpoleDaily" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/noaacwSARciceclassnpoleDaily</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="noaacwAMSR2gw1IceConcDailySP06" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/noaacwAMSR2gw1IceConcDailySP06</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="noaacwAMSR2gw1IceConcDailyNP06" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/noaacwAMSR2gw1IceConcDailyNP06</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="noaacwVIIRSnppiceconcNP06Daily" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/noaacwVIIRSnppiceconcNP06Daily</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="noaacwVIIRSnppiceconcNP06Daily4Day" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/noaacwVIIRSnppiceconcNP06Daily4Day</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="noaacwVIIRSnppiceconcSP06Daily" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/noaacwVIIRSnppiceconcSP06Daily</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="noaacwVIIRSnppiceconcSP06Daily4Day" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/noaacwVIIRSnppiceconcSP06Daily4Day</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="noaacwVIIRSn20iceconcNP06Daily" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/noaacwVIIRSn20iceconcNP06Daily</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="noaacwVIIRSn20iceconcNP06Daily4Day" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/noaacwVIIRSn20iceconcNP06Daily4Day</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="noaacwVIIRSn20iceconcSP06Daily" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/noaacwVIIRSn20iceconcSP06Daily</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="noaacwVIIRSn20iceconcSP06Daily4Day" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/noaacwVIIRSn20iceconcSP06Daily4Day</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="noaacwVIIRSnppicesrftempNP06Daily" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/noaacwVIIRSnppicesrftempNP06Daily</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="noaacwVIIRSnppicesrftempNP06Daily4Day" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/noaacwVIIRSnppicesrftempNP06Daily4Day</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="noaacwVIIRSnppicesrftempSP06Daily" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/noaacwVIIRSnppicesrftempSP06Daily</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="noaacwVIIRSnppicesrftempSP06Daily4Day" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/noaacwVIIRSnppicesrftempSP06Daily4Day</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="noaacwVIIRSn20icesrftempNP06Daily" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/noaacwVIIRSn20icesrftempNP06Daily</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="noaacwVIIRSn20icesrftempNP06Daily4Day" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/noaacwVIIRSn20icesrftempNP06Daily4Day</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="noaacwVIIRSn20icesrftempSP06Daily" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/noaacwVIIRSn20icesrftempSP06Daily</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="noaacwVIIRSn20icesrftempSP06Daily4Day" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/noaacwVIIRSn20icesrftempSP06Daily4Day</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="noaacwVIIRSnppicethickNP06Daily" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/noaacwVIIRSnppicethickNP06Daily</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="noaacwVIIRSnppicethickNP06Daily4Day" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/noaacwVIIRSnppicethickNP06Daily4Day</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="noaacwVIIRSnppicethickSP06Daily" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/noaacwVIIRSnppicethickSP06Daily</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="noaacwVIIRSnppicethickSP06Daily4Day" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/noaacwVIIRSnppicethickSP06Daily4Day</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="noaacwVIIRSn20icethickNP06Daily" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/noaacwVIIRSn20icethickNP06Daily</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="noaacwVIIRSn20icethickNP06Daily4Day" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/noaacwVIIRSn20icethickNP06Daily4Day</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="noaacwVIIRSn20icethickSP06Daily" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/noaacwVIIRSn20icethickSP06Daily</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="noaacwVIIRSn20icethickSP06Daily4Day" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/noaacwVIIRSn20icethickSP06Daily4Day</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="usnic_weekly_iceberg" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/usnic_weekly_iceberg</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="usnic_ims_4km" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/usnic_ims_4km</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="iabpv2_buoys" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/iabpv2_buoys</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nesdisNPPN20S3AkdSCIDINEOFDaily" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nesdisNPPN20S3AkdSCIDINEOFDaily</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nesdisVHNSQkd490Daily" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nesdisVHNSQkd490Daily</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nesdisVHNSQkd490Monthly" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nesdisVHNSQkd490Monthly</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nesdisVHNSQkd490Weekly" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nesdisVHNSQkd490Weekly</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nesdisVHNSQkdparDaily" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nesdisVHNSQkdparDaily</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nesdisVHNSQkdparMonthly" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nesdisVHNSQkdparMonthly</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nesdisVHNSQkdparWeekly" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nesdisVHNSQkdparWeekly</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="ncei_polarAPPX20_nhem_grid" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/ncei_polarAPPX20_nhem_grid</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="noaacwVIIRSn20icethickNP06Daily4Day_pw" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/noaacwVIIRSn20icethickNP06Daily4Day_pw</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nesdis_ease2_latlon_nhem_1k" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nesdis_ease2_latlon_nhem_1k</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nesdis_ease2_latlon_shem_1k" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nesdis_ease2_latlon_shem_1k</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="jplMURSST41anom1day" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/jplMURSST41anom1day</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="jplMURSST41anommday" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/jplMURSST41anommday</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="jplMURSST41" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/jplMURSST41</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="jplMURSST41mday" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/jplMURSST41mday</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="erdNavgem05D10mWind_LonPM180" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/erdNavgem05D10mWind_LonPM180</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="erdNavgem05D20mWind_LonPM180" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/erdNavgem05D20mWind_LonPM180</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="erdNavgem05D500mb_LonPM180" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/erdNavgem05D500mb_LonPM180</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="erdNavgem05DPres_LonPM180" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/erdNavgem05DPres_LonPM180</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cwwcNDBCMet" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/cwwcNDBCMet</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nesdisVHNSQnLw410Daily" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nesdisVHNSQnLw410Daily</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nesdisVHNSQnLw410Monthly" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nesdisVHNSQnLw410Monthly</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nesdisVHNSQnLw410Weekly" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nesdisVHNSQnLw410Weekly</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nesdisVHNSQnLw443Daily" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nesdisVHNSQnLw443Daily</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nesdisVHNSQnLw443Monthly" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nesdisVHNSQnLw443Monthly</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nesdisVHNSQnLw443Weekly" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nesdisVHNSQnLw443Weekly</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nesdisVHNSQnLw486Daily" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nesdisVHNSQnLw486Daily</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nesdisVHNSQnLw486Monthly" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nesdisVHNSQnLw486Monthly</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nesdisVHNSQnLw486Weekly" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nesdisVHNSQnLw486Weekly</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nesdisVHNSQnLw551Daily" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nesdisVHNSQnLw551Daily</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nesdisVHNSQnLw551Monthly" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nesdisVHNSQnLw551Monthly</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nesdisVHNSQnLw551Weekly" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nesdisVHNSQnLw551Weekly</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nesdisVHNSQnLw671Daily" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nesdisVHNSQnLw671Daily</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nesdisVHNSQnLw671Monthly" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nesdisVHNSQnLw671Monthly</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nesdisVHNSQnLw671Weekly" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nesdisVHNSQnLw671Weekly</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nesdisSSH1day" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nesdisSSH1day</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="noaacwSARnrcsnpoleDaily" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/noaacwSARnrcsnpoleDaily</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="aadcArgos" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/aadcArgos</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="otn200-20220912T1200" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/otn200-20220912T1200</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="erdMH1par01day" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/erdMH1par01day</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="erdMH1par08day" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/erdMH1par08day</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="erdMH1par0mday" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/erdMH1par0mday</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="pstere_gridcell_N25k" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/pstere_gridcell_N25k</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="pstere_gridcell_S25k" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/pstere_gridcell_S25k</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="polarwatch_datause_monthly" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/polarwatch_datause_monthly</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="fsuResearchShipNEPP" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/fsuResearchShipNEPP</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="fsuResearchShipWCX7445nrt" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/fsuResearchShipWCX7445nrt</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru01-20140104T1621" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/ru01-20140104T1621</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru01-20140120T1444" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/ru01-20140120T1444</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru05-20150105T1600" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/ru05-20150105T1600</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru05-20150115T1443" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/ru05-20150115T1443</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru05-20150201T2130" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/ru05-20150201T2130</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru05-20160202T2023" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/ru05-20160202T2023</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru24-20130122T1943" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/ru24-20130122T1943</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru24-20140104T1300" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/ru24-20140104T1300</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru24-20150105T1441" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/ru24-20150105T1441</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru24-20150126T1315" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/ru24-20150126T1315</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru24-20160201T1252" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/ru24-20160201T1252</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru24-20170117T1705" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/ru24-20170117T1705</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru25d-20140104T1705" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/ru25d-20140104T1705</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru25d-20160121T0606" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/ru25d-20160121T0606</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru25d-20171222T1251" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/ru25d-20171222T1251</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru26d-20141225T1450" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/ru26d-20141225T1450</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru26d-20160201T1313" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/ru26d-20160201T1313</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru26d-20171211T0920" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/ru26d-20171211T0920</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru26d-20220714T2322" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/ru26d-20220714T2322</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru26d-20220714T2322-delayed" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/ru26d-20220714T2322-delayed</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru32-20180109T0531" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/ru32-20180109T0531</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru32-20190102T1317" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/ru32-20190102T1317</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru32-20200111T1444" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/ru32-20200111T1444</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ru33-20230122T1352" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/ru33-20230122T1352</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nsidcCDRice_nh_grid" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nsidcCDRice_nh_grid</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nsidcCDRice_sh_grid" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nsidcCDRice_sh_grid</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nesdis_blendedsic_shem_daily" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nesdis_blendedsic_shem_daily</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nesdis_blendedsic_nhem_daily" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nesdis_blendedsic_nhem_daily</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nsidcG02202v4nh1day" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nsidcG02202v4nh1day</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nsidcG02202v4nhmday" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nsidcG02202v4nhmday</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nsidcG02202v4sh1day" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nsidcG02202v4sh1day</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nsidcG02202v4shmday" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nsidcG02202v4shmday</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nsidcG02202v5nh1day" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nsidcG02202v5nh1day</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nsidcG02202v5nhmday" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nsidcG02202v5nhmday</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nsidcG02202v5shmday" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nsidcG02202v5shmday</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nsidcG02202v5sh1day" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nsidcG02202v5sh1day</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nsidcG10016v2nh1day" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nsidcG10016v2nh1day</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nsidcG10016v2nhmday" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nsidcG10016v2nhmday</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nsidcG10016v2sh1day" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nsidcG10016v2sh1day</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nsidcG10016v2shmday" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nsidcG10016v2shmday</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nsidcG10016v3nh1day" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nsidcG10016v3nh1day</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nsidcG10016v3nhmday" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nsidcG10016v3nhmday</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nsidcG10016v3sh1day" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nsidcG10016v3sh1day</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nsidcG10016v3shmday" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nsidcG10016v3shmday</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="noaacwAMSR2gw1IceSP06_Grid" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/noaacwAMSR2gw1IceSP06_Grid</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="noaacwAMSR2gw1IceNP06_Grid" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/noaacwAMSR2gw1IceNP06_Grid</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="eumetsat_osisaf_grid_sh_ps" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/eumetsat_osisaf_grid_sh_ps</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="eumetsat_osisaf_grid_nh_ps" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/eumetsat_osisaf_grid_nh_ps</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="noaa_lsa_sail_height_icebridge" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/noaa_lsa_sail_height_icebridge</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="noaa_lsa_surface_elevation_icebridge" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/noaa_lsa_surface_elevation_icebridge</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="noaa_lsa_surface_roughness_icebridge" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/noaa_lsa_surface_roughness_icebridge</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="ncei_polarAPPX20_nhem" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/ncei_polarAPPX20_nhem</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="erdTAsshmday" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/erdTAsshmday</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="erdTAsshmday_LonPM180" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/erdTAsshmday_LonPM180</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="erdTAssh1day_LonPM180" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/erdTAssh1day_LonPM180</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="erdTAssh1day" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/erdTAssh1day</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="coastwatchSMOSv662SSS3day" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/coastwatchSMOSv662SSS3day</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="coastwatchSMOSv662SSS3day_Lon0360" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/coastwatchSMOSv662SSS3day_Lon0360</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="coastwatchSMOSv662SSS1day" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/coastwatchSMOSv662SSS1day</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="coastwatchSMOSv662SSS1day_Lon0360" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/coastwatchSMOSv662SSS1day_Lon0360</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="afsc_sst" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/afsc_sst</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nesdisL3Collatedn20C" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nesdisL3Collatedn20C</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nesdisL3CollatednppC" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nesdisL3CollatednppC</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nesdisGeoPolarSSTN5NRT" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nesdisGeoPolarSSTN5NRT</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="silbo-20160413T1534" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/silbo-20160413T1534</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="sp022-20180422T1229" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/sp022-20180422T1229</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="erdPH2ssta8day" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/erdPH2ssta8day</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="erdPH2ssta1day" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/erdPH2ssta1day</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="erdPH2sstamday" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/erdPH2sstamday</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="erdPH53sstd8day" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/erdPH53sstd8day</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="erdPH53sstdmday" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/erdPH53sstdmday</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="erdPH53sstn8day" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/erdPH53sstn8day</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="erdPH53sstnmday" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/erdPH53sstnmday</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="viirs_noaa20_ak_750m_daily" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/viirs_noaa20_ak_750m_daily</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nesdisNPPN20S3AspmSCIDINEOFDaily" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nesdisNPPN20S3AspmSCIDINEOFDaily</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="etopo180" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/etopo180</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="etopo360" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/etopo360</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ud_134-20150105T1601" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/ud_134-20150105T1601</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ud_134-20150122T1955" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/ud_134-20150122T1955</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ud_476-20230113T1454" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/ud_476-20230113T1454</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="unit_167-20130911T0027" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/unit_167-20130911T0027</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="unit_191-20150105T1443" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/unit_191-20150105T1443</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="unit_191-20150711T2000" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/unit_191-20150711T2000</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="unit_191-20160710T2018" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/unit_191-20160710T2018</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="unit_191-20210125T1200" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/unit_191-20210125T1200</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="unit_191-20210323T0000" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/unit_191-20210323T0000</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="unit_191-20210429T0000" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/unit_191-20210429T0000</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="unit_191-20220526T0000" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/unit_191-20220526T0000</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="unit_191-20230215T0000" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/unit_191-20230215T0000</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="afsc_wind" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/afsc_wind</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="erdQMwindmday_LonPM180" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/erdQMwindmday_LonPM180</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="erdQBwind1day_LonPM180" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/erdQBwind1day_LonPM180</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="erdQBwind3day_LonPM180" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/erdQBwind3day_LonPM180</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="erdQBwind8day_LonPM180" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/erdQBwind8day_LonPM180</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="erdQBwindmday_LonPM180" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/erdQBwindmday_LonPM180</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="lara_snowdepth_5yrs_awi_nh" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/lara_snowdepth_5yrs_awi_nh</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="lara_snowdepth_5yrs_esa_nh" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/lara_snowdepth_5yrs_esa_nh</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="snowfox_miz2_daily" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/snowfox_miz2_daily</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="daily_seaice_drift_buoy" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/tabledap/daily_seaice_drift_buoy</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="modis_month_poc2022" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/modis_month_poc2022</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="seawifs_month_poc2022" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/seawifs_month_poc2022</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="viirs_month_poc2022" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/viirs_month_poc2022</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="jpss_chl_alaska" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/jpss_chl_alaska</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="rrs_far_red_alaska" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/rrs_far_red_alaska</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="noaa_snpp_poc" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/noaa_snpp_poc</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="jpss_rrs_alaska" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/jpss_rrs_alaska</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nsidcCDRiceSQsh1day" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nsidcCDRiceSQsh1day</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nsidcCDRiceSQshmday" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nsidcCDRiceSQshmday</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nsidcCDRiceSQnh1day" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nsidcCDRiceSQnh1day</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nsidcCDRiceSQnhmday" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nsidcCDRiceSQnhmday</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nsidcCDRiceNRTshmday" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nsidcCDRiceNRTshmday</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nsidcCDRiceNRTnhmday" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://polarwatch.noaa.gov/erddap/erddap/griddap/nsidcCDRiceNRTnhmday</sourceUrl>
+</dataset>
+
+<!--  end polarwatch -->
+

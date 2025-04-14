@@ -1,0 +1,1018 @@
+<!--  start ncei -->
+
+<dataset type="EDDGridFromErddap" datasetID="AEC_gomex_satellite_climo" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/AEC_gomex_satellite_climo</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="AEC_gomex_model_climo_2d" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/AEC_gomex_model_climo_2d</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="AEC_gomex_model_climo_3d" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/AEC_gomex_model_climo_3d</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="AEC_useast_satellite_climo" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/AEC_useast_satellite_climo</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="AEC_uswest_satellite_climo" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/AEC_uswest_satellite_climo</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="bedi_F029" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/bedi_F029</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="bedi_F030" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/bedi_F030</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="bedi_F049" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/bedi_F049</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="bedi_F100" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/bedi_F100</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="bedi_F123" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/bedi_F123</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="bedi_F127" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/bedi_F127</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="bedi_F132" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/bedi_F132</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="bedi_F144" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/bedi_F144</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="cdr_lai_fapar_by_time_latitude_longitude" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/cdr_lai_fapar_by_time_latitude_longitude</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="cfs_reanl_mm_ipvh_by_time12_isentrope_lat_lon" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/cfs_reanl_mm_ipvh_by_time12_isentrope_lat_lon</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="cfs_reanl_mm_ipvh_by_time12_lat_lon" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/cfs_reanl_mm_ipvh_by_time12_lat_lon</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="cfs_reanl_mm_egyh_by_time12_isobaric_lat_lon" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/cfs_reanl_mm_egyh_by_time12_isobaric_lat_lon</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="cfs_reanl_mm_egyh_by_time12_lat_lon" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/cfs_reanl_mm_egyh_by_time12_lat_lon</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="cfs_reanl_mm_ocnh_by_time16_depth_below_sea_lat_lon" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/cfs_reanl_mm_ocnh_by_time16_depth_below_sea_lat_lon</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="cfs_reanl_mm_ocnh_by_time16_lat_lon" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/cfs_reanl_mm_ocnh_by_time16_lat_lon</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="cfs_reanl_mm_ocnh_by_time16_bottom_of_ocean_isothermal_layer_lat_lon" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/cfs_reanl_mm_ocnh_by_time16_bottom_of_ocean_isothermal_layer_lat_lon</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="cfs_reanl_mm_ocnh_by_time16_bottom_of_ocean_mixed_layer_lat_lon" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/cfs_reanl_mm_ocnh_by_time16_bottom_of_ocean_mixed_layer_lat_lon</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CRCP_ARMS_Cryptic_Reef_Diversity_Pacific" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/CRCP_ARMS_Cryptic_Reef_Diversity_Pacific</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CRCP_Benthic_Complexity_Urchin_Abundance_Pacific" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/CRCP_Benthic_Complexity_Urchin_Abundance_Pacific</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CRCP_Benthic_Cover_American_Samoa" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/CRCP_Benthic_Cover_American_Samoa</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CRCP_Benthic_Cover_Climate_Stations_Pacific" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/CRCP_Benthic_Cover_Climate_Stations_Pacific</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CRCP_Benthic_Cover_CNMI_Guam" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/CRCP_Benthic_Cover_CNMI_Guam</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CRCP_Benthic_Cover_Florida" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/CRCP_Benthic_Cover_Florida</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CRCP_Benthic_Cover_Flower_Gardens" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/CRCP_Benthic_Cover_Flower_Gardens</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CRCP_Benthic_Cover_Hawaii" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/CRCP_Benthic_Cover_Hawaii</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CRCP_Benthic_Cover_PRIAs" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/CRCP_Benthic_Cover_PRIAs</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CRCP_Benthic_Cover_Puerto_Rico" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/CRCP_Benthic_Cover_Puerto_Rico</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CRCP_Benthic_Cover_USVI" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/CRCP_Benthic_Cover_USVI</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CRCP_Benthic_Habitat_Towed_Survey_American_Samoa" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/CRCP_Benthic_Habitat_Towed_Survey_American_Samoa</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CRCP_Benthic_Habitat_Towed_Survey_CNMI_Guam" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/CRCP_Benthic_Habitat_Towed_Survey_CNMI_Guam</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CRCP_Benthic_Habitat_Towed_Survey_Hawaii" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/CRCP_Benthic_Habitat_Towed_Survey_Hawaii</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CRCP_Benthic_Habitat_Towed_Survey_PRIAs" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/CRCP_Benthic_Habitat_Towed_Survey_PRIAs</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CRCP_BMU_Erosion_Data_Coral_Sites_Atlantic" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/CRCP_BMU_Erosion_Data_Coral_Sites_Atlantic</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CRCP_BMU_Erosion_Data_Coral_Sites_Pacific" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/CRCP_BMU_Erosion_Data_Coral_Sites_Pacific</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CRCP_Carbonate_Chemistry_Atlantic" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/CRCP_Carbonate_Chemistry_Atlantic</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CRCP_Carbonate_Chemistry_Pacific" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/CRCP_Carbonate_Chemistry_Pacific</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CRCP_CAU_Calcification_Rate_CCA_Atlantic" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/CRCP_CAU_Calcification_Rate_CCA_Atlantic</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CRCP_CAU_Calcification_Rate_CCA_Pacific" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/CRCP_CAU_Calcification_Rate_CCA_Pacific</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CRCP_Coral_Demographic_Survey_Adult_American_Samoa" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/CRCP_Coral_Demographic_Survey_Adult_American_Samoa</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CRCP_Coral_Demographic_Survey_Adult_CNMI_Guam" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/CRCP_Coral_Demographic_Survey_Adult_CNMI_Guam</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CRCP_Coral_Demographic_Survey_Adult_Hawaii" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/CRCP_Coral_Demographic_Survey_Adult_Hawaii</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CRCP_Coral_Demographic_Survey_Adult_PRIAs" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/CRCP_Coral_Demographic_Survey_Adult_PRIAs</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CRCP_Coral_Demographic_Survey_Florida" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/CRCP_Coral_Demographic_Survey_Florida</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CRCP_Coral_Demographic_Survey_Flower_Gardens" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/CRCP_Coral_Demographic_Survey_Flower_Gardens</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CRCP_Coral_Demographic_Survey_Juvenile_American_Samoa" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/CRCP_Coral_Demographic_Survey_Juvenile_American_Samoa</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CRCP_Coral_Demographic_Survey_Juvenile_CNMI_Guam" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/CRCP_Coral_Demographic_Survey_Juvenile_CNMI_Guam</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CRCP_Coral_Demographic_Survey_Juvenile_Hawaii" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/CRCP_Coral_Demographic_Survey_Juvenile_Hawaii</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CRCP_Coral_Demographic_Survey_Juvenile_PRIAs" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/CRCP_Coral_Demographic_Survey_Juvenile_PRIAs</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CRCP_Coral_Demographic_Survey_Puerto_Rico" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/CRCP_Coral_Demographic_Survey_Puerto_Rico</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CRCP_Coral_Demographic_Survey_USVI" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/CRCP_Coral_Demographic_Survey_USVI</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CRCP_Fish_Towed_Survey_American_Samoa" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/CRCP_Fish_Towed_Survey_American_Samoa</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CRCP_Fish_Towed_Survey_CNMI_Guam" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/CRCP_Fish_Towed_Survey_CNMI_Guam</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CRCP_Fish_Towed_Survey_Hawaii" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/CRCP_Fish_Towed_Survey_Hawaii</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CRCP_Fish_Towed_Survey_PRIAs" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/CRCP_Fish_Towed_Survey_PRIAs</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CRCP_Invertebrates_ESACorals_Florida" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/CRCP_Invertebrates_ESACorals_Florida</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CRCP_Invertebrates_ESACorals_Flower_Gardens" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/CRCP_Invertebrates_ESACorals_Flower_Gardens</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CRCP_Invertebrates_ESACorals_Puerto_Rico" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/CRCP_Invertebrates_ESACorals_Puerto_Rico</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CRCP_Invertebrates_ESACorals_USVI" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/CRCP_Invertebrates_ESACorals_USVI</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CRCP_Reef_Fish_Surveys_American_Samoa" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/CRCP_Reef_Fish_Surveys_American_Samoa</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CRCP_Reef_Fish_Surveys_CNMI_Guam" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/CRCP_Reef_Fish_Surveys_CNMI_Guam</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CRCP_Reef_Fish_Surveys_Florida" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/CRCP_Reef_Fish_Surveys_Florida</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CRCP_Reef_Fish_Surveys_Flower_Gardens" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/CRCP_Reef_Fish_Surveys_Flower_Gardens</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CRCP_Reef_Fish_Surveys_Hawaii" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/CRCP_Reef_Fish_Surveys_Hawaii</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CRCP_Reef_Fish_Surveys_PRIAs" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/CRCP_Reef_Fish_Surveys_PRIAs</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CRCP_Reef_Fish_Surveys_Puerto_Rico" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/CRCP_Reef_Fish_Surveys_Puerto_Rico</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CRCP_Reef_Fish_Surveys_USVI" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/CRCP_Reef_Fish_Surveys_USVI</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CRCP_Socioeconomic_Secondary_Data_All_Jurisdictions" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/CRCP_Socioeconomic_Secondary_Data_All_Jurisdictions</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CRCP_Subsurface_Temp_American_Samoa" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/CRCP_Subsurface_Temp_American_Samoa</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CRCP_Subsurface_Temp_CNMI" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/CRCP_Subsurface_Temp_CNMI</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CRCP_Subsurface_Temp_Florida" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/CRCP_Subsurface_Temp_Florida</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CRCP_Subsurface_Temp_Flower_Gardens" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/CRCP_Subsurface_Temp_Flower_Gardens</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CRCP_Subsurface_Temp_Hawaii" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/CRCP_Subsurface_Temp_Hawaii</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CRCP_Subsurface_Temp_PRIAs" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/CRCP_Subsurface_Temp_PRIAs</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CRCP_Subsurface_Temp_Puerto_Rico" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/CRCP_Subsurface_Temp_Puerto_Rico</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CRCP_Subsurface_Temp_USVI" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/CRCP_Subsurface_Temp_USVI</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="deep_sea_corals" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/deep_sea_corals</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="Hycom_sfc_2d" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/Hycom_sfc_2d</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="Hycom_sfc_3d" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/Hycom_sfc_3d</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="NCOM_Region1_2D_agg" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/NCOM_Region1_2D_agg</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="NCOM_Region1_3D_agg" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/NCOM_Region1_3D_agg</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="NCOM_Region2_2D_agg" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/NCOM_Region2_2D_agg</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="NCOM_Region2_3D_agg" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/NCOM_Region2_3D_agg</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="NCOM_Region5_2D_agg" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/NCOM_Region5_2D_agg</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="NCOM_Region5_3D_agg" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/NCOM_Region5_3D_agg</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="NCOM_Region6_2D_agg" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/NCOM_Region6_2D_agg</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="NCOM_Region6_3D_agg" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/NCOM_Region6_3D_agg</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="NCOM_Region7_2D_agg" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/NCOM_Region7_2D_agg</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="NCOM_Region7_3D_agg" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/NCOM_Region7_3D_agg</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="NCOM_Region10_2D_agg" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/NCOM_Region10_2D_agg</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="NCOM_Region10_3D_agg" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/NCOM_Region10_3D_agg</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="NCOM_sfc8_agg" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/NCOM_sfc8_agg</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="areaveg_hh_by_latitude_longitude" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/areaveg_hh_by_latitude_longitude</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="areaveg_hh_by_time_latitude_longitude" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/areaveg_hh_by_time_latitude_longitude</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="areaveg_hh_by_latitude_bounds" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/areaveg_hh_by_latitude_bounds</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="areaveg_hh_by_longitude_bounds" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/areaveg_hh_by_longitude_bounds</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="areaveg_hh_by_time_bounds_dim" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/areaveg_hh_by_time_bounds_dim</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="areaveg_hyde_by_latitude_longitude" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/areaveg_hyde_by_latitude_longitude</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="areaveg_hyde_by_time_latitude_longitude" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/areaveg_hyde_by_time_latitude_longitude</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="areaveg_hyde_by_latitude_bounds" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/areaveg_hyde_by_latitude_bounds</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="areaveg_hyde_by_longitude_bounds" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/areaveg_hyde_by_longitude_bounds</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="areaveg_hyde_by_time_bounds_dim" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/areaveg_hyde_by_time_bounds_dim</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="areaveg_rf_by_latitude_longitude" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/areaveg_rf_by_latitude_longitude</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="areaveg_rf_by_time_latitude_longitude" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/areaveg_rf_by_time_latitude_longitude</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="areaveg_rf_by_latitude_bounds" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/areaveg_rf_by_latitude_bounds</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="areaveg_rf_by_longitude_bounds" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/areaveg_rf_by_longitude_bounds</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="areaveg_rf_by_time_bounds_dim" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/areaveg_rf_by_time_bounds_dim</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="HYCOM_reg1_latest2d" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/HYCOM_reg1_latest2d</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="HYCOM_reg1_latest3d" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/HYCOM_reg1_latest3d</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="HYCOM_reg17_latest2d" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/HYCOM_reg17_latest2d</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="HYCOM_reg17_latest3d" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/HYCOM_reg17_latest3d</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="HYCOM_reg6_latest2d" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/HYCOM_reg6_latest2d</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="HYCOM_reg6_latest3d" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/HYCOM_reg6_latest3d</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="HYCOM_reg7_latest2d" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/HYCOM_reg7_latest2d</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="HYCOM_reg7_latest3d" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/HYCOM_reg7_latest3d</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="iscpp_hgg_by_satpos" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/iscpp_hgg_by_satpos</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="iscpp_hgg_by_time_lat_lon" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/iscpp_hgg_by_time_lat_lon</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="iscpp_hgg_by_time_levpc_lat_lon" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/iscpp_hgg_by_time_levpc_lat_lon</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="iscpp_hgg_by_cloud_irtype" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/iscpp_hgg_by_cloud_irtype</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="iscpp_hgg_by_cloud_type" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/iscpp_hgg_by_cloud_type</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="iscpp_hgh_by_satpos" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/iscpp_hgh_by_satpos</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="iscpp_hgh_by_time_lat_lon" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/iscpp_hgh_by_time_lat_lon</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="iscpp_hgh_by_cloud_irtype" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/iscpp_hgh_by_cloud_irtype</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="iscpp_hgh_by_cloud_type" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/iscpp_hgh_by_cloud_type</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="iscpp_hgm_by_satpos" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/iscpp_hgm_by_satpos</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="iscpp_hgm_by_time_lat_lon" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/iscpp_hgm_by_time_lat_lon</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="iscpp_hgm_by_cloud_irtype" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/iscpp_hgm_by_cloud_irtype</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="iscpp_hgm_by_cloud_type" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/iscpp_hgm_by_cloud_type</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="nccos_bedi_nst" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/nccos_bedi_nst</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="bedi_PMN" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/bedi_PMN</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="NCCOS_Benthic_Surveys_AbioticQuadMeans_Caribbean_Gulf_of_Mexico" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/NCCOS_Benthic_Surveys_AbioticQuadMeans_Caribbean_Gulf_of_Mexico</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="NCCOS_Benthic_Surveys_BioticQuadMeans_Caribbean_Gulf_of_Mexico" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/NCCOS_Benthic_Surveys_BioticQuadMeans_Caribbean_Gulf_of_Mexico</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="NCCOS_Benthic_Surveys_Macroinvertebrates_Carribean_Gulf_of_Mexico" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/NCCOS_Benthic_Surveys_Macroinvertebrates_Carribean_Gulf_of_Mexico</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="NCCOS_Benthic_Surveys_Rapid_Habitat_Assessment_Caribbean_Gulf_of_Mexico" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/NCCOS_Benthic_Surveys_Rapid_Habitat_Assessment_Caribbean_Gulf_of_Mexico</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="NCCOS_Reef_Fish_Surveys_Caribbean_Gulf_of_Mexico" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/NCCOS_Reef_Fish_Surveys_Caribbean_Gulf_of_Mexico</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nmme_ccsm4_g500_day_r01_by_time_LAT_LON" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/nmme_ccsm4_g500_day_r01_by_time_LAT_LON</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nmme_ccsm4_g500_day_r02_by_time_LAT_LON" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/nmme_ccsm4_g500_day_r02_by_time_LAT_LON</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nmme_ccsm4_tasmax_day_r01_by_time_LAT_LON" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/nmme_ccsm4_tasmax_day_r01_by_time_LAT_LON</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nmme_ccsm4_tasmax_day_r02_by_time_LAT_LON" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/nmme_ccsm4_tasmax_day_r02_by_time_LAT_LON</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nmme_ccsm4_tasmin_day_r01_by_time_LAT_LON" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/nmme_ccsm4_tasmin_day_r01_by_time_LAT_LON</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nmme_ccsm4_tasmin_day_r02_by_time_LAT_LON" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/nmme_ccsm4_tasmin_day_r02_by_time_LAT_LON</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nmme_ccsm4_psl_day_r01_by_time_LAT_LON" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/nmme_ccsm4_psl_day_r01_by_time_LAT_LON</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nmme_ccsm4_psl_day_r02_by_time_LAT_LON" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/nmme_ccsm4_psl_day_r02_by_time_LAT_LON</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nmme_ccsm4_hus_day_r01_by_time_LAT_LON" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/nmme_ccsm4_hus_day_r01_by_time_LAT_LON</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nmme_ccsm4_hus_day_r02_by_time_LAT_LON" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/nmme_ccsm4_hus_day_r02_by_time_LAT_LON</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nmme_ccsm4_ts_day_r01_by_time_LAT_LON" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/nmme_ccsm4_ts_day_r01_by_time_LAT_LON</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nmme_ccsm4_ts_day_r02_by_time_LAT_LON" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/nmme_ccsm4_ts_day_r02_by_time_LAT_LON</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nmme_ccsm4_ua200_day_r01_by_time_LAT_LON" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/nmme_ccsm4_ua200_day_r01_by_time_LAT_LON</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nmme_ccsm4_ua200_day_r02_by_time_LAT_LON" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/nmme_ccsm4_ua200_day_r02_by_time_LAT_LON</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nmme_ccsm4_ua850_day_r01_by_time_LAT_LON" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/nmme_ccsm4_ua850_day_r01_by_time_LAT_LON</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nmme_ccsm4_ua850_day_r02_by_time_LAT_LON" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/nmme_ccsm4_ua850_day_r02_by_time_LAT_LON</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nmme_ccsm4_va200_day_r01_by_time_LAT_LON" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/nmme_ccsm4_va200_day_r01_by_time_LAT_LON</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nmme_ccsm4_va200_day_r02_by_time_LAT_LON" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/nmme_ccsm4_va200_day_r02_by_time_LAT_LON</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nmme_ccsm4_va850_day_r01_by_time_LAT_LON" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/nmme_ccsm4_va850_day_r01_by_time_LAT_LON</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nmme_ccsm4_va850_day_r02_by_time_LAT_LON" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/nmme_ccsm4_va850_day_r02_by_time_LAT_LON</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nmme_ccsm4_stx_day_r01_by_time_LAT_LON" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/nmme_ccsm4_stx_day_r01_by_time_LAT_LON</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nmme_ccsm4_stx_day_r02_by_time_LAT_LON" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/nmme_ccsm4_stx_day_r02_by_time_LAT_LON</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nmme_ccsm4_sty_day_r01_by_time_LAT_LON" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/nmme_ccsm4_sty_day_r01_by_time_LAT_LON</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nmme_ccsm4_sty_day_r02_by_time_LAT_LON" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/nmme_ccsm4_sty_day_r02_by_time_LAT_LON</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nmme_cfs_v2_g500_6h_by_time_lat_lon" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/nmme_cfs_v2_g500_6h_by_time_lat_lon</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nmme_cfs_v2_tasmax_6h_by_time_lat_lon" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/nmme_cfs_v2_tasmax_6h_by_time_lat_lon</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nmme_cfs_v2_va200_by_time_lat_lon" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/nmme_cfs_v2_va200_by_time_lat_lon</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nmme_cfs_v2_va850_by_time_lat_lon" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/nmme_cfs_v2_va850_by_time_lat_lon</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nmme_cfs_v2_tasmin_6h_by_time_lat_lon" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/nmme_cfs_v2_tasmin_6h_by_time_lat_lon</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nmme_cfs_v2_pr_6h_by_time_lat_lon" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/nmme_cfs_v2_pr_6h_by_time_lat_lon</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nmme_cfs_v2_psl_6h_by_time_lat_lon" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/nmme_cfs_v2_psl_6h_by_time_lat_lon</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nmme_cfs_v2_hus850_6h_by_time_lat_lon" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/nmme_cfs_v2_hus850_6h_by_time_lat_lon</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nmme_cfs_v2_sty_by_time_lat_lon" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/nmme_cfs_v2_sty_by_time_lat_lon</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nmme_cfs_v2_stx_6h_by_time_lat_lon" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/nmme_cfs_v2_stx_6h_by_time_lat_lon</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nmme_cfs_v2_ts_6h_by_time_lat_lon" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/nmme_cfs_v2_ts_6h_by_time_lat_lon</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nmme_cfs_v2_ua200_by_time_lat_lon" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/nmme_cfs_v2_ua200_by_time_lat_lon</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="nmme_cfs_v2_ua850_by_time_lat_lon" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/nmme_cfs_v2_ua850_by_time_lat_lon</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="cdr_persiann_by_lat_nv" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/cdr_persiann_by_lat_nv</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="cdr_persiann_by_lon_nv" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/cdr_persiann_by_lon_nv</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="cdr_persiann_by_time_lon_lat" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/cdr_persiann_by_time_lon_lat</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="ncdc_oisst_v2_avhrr_by_time_zlev_lat_lon" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/ncdc_oisst_v2_avhrr_by_time_zlev_lat_lon</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="ncdc_oisst_v2_avhrr_prelim_by_time_zlev_lat_lon" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/ncdc_oisst_v2_avhrr_prelim_by_time_zlev_lat_lon</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="ncdc_oisst_v2_avhrr_amsr_by_time_zlev_lat_lon" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/ncdc_oisst_v2_avhrr_amsr_by_time_zlev_lat_lon</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="NCOM_alaska_20150412_to_20201216_2d" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/NCOM_alaska_20150412_to_20201216_2d</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="NCOM_alaska_latest2d" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/NCOM_alaska_latest2d</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="NCOM_alaska_20150412_to_20201216_3d" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/NCOM_alaska_20150412_to_20201216_3d</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="NCOM_alaska_latest3d" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/NCOM_alaska_latest3d</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="NCOM_amseas_20130405_to_20201216_2d" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/NCOM_amseas_20130405_to_20201216_2d</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="NCOM_amseas_latest2d" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/NCOM_amseas_latest2d</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="NCOM_amseas_20100509_to_20130404_2d" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/NCOM_amseas_20100509_to_20130404_2d</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="NCOM_amseas_20130405_to_20201216_3d" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/NCOM_amseas_20130405_to_20201216_3d</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="NCOM_amseas_latest3d" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/NCOM_amseas_latest3d</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="NCOM_amseas_20100509_to_20130404_3d" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/NCOM_amseas_20100509_to_20130404_3d</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="NCOM_us_east_20130405_to_20201216_2d" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/NCOM_us_east_20130405_to_20201216_2d</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="NCOM_us_east_before_change_2d" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/NCOM_us_east_before_change_2d</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="NCOM_us_east_latest2d" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/NCOM_us_east_latest2d</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="NCOM_us_east_20091119_to_20130404_2d" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/NCOM_us_east_20091119_to_20130404_2d</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="NCOM_us_east_20130405_to_20201216_3d" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/NCOM_us_east_20130405_to_20201216_3d</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="NCOM_us_east_before_change_3d" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/NCOM_us_east_before_change_3d</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="NCOM_us_east_latest3d" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/NCOM_us_east_latest3d</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="NCOM_us_east_20091119_to_20130404_3d" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/NCOM_us_east_20091119_to_20130404_3d</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="IMLGS_Marine_Geology" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/tabledap/IMLGS_Marine_Geology</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="USM_AMSEAS_DAP" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/USM_AMSEAS_DAP</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="USM_VIIRS_DAP" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://www.ncei.noaa.gov/erddap/erddap/griddap/USM_VIIRS_DAP</sourceUrl>
+</dataset>
+
+<!--  end ncei -->

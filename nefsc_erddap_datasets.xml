@@ -1,0 +1,93 @@
+<!--  start nefsc -->
+
+<dataset type="EDDTableFromErddap" datasetID="cfrf_temps" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://comet.nefsc.noaa.gov/erddap/erddap/tabledap/cfrf_temps</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="drifters" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://comet.nefsc.noaa.gov/erddap/erddap/tabledap/drifters</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="eMOLT_realtime_bottom_temps_and_profiles" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://comet.nefsc.noaa.gov/erddap/erddap/tabledap/eMOLT_realtime_bottom_temps_and_profiles</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="eMOLT_historic_non-realtime_bottom_temperatures" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://comet.nefsc.noaa.gov/erddap/erddap/tabledap/eMOLT_historic_non-realtime_bottom_temperatures</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="ocdbs_v_erddap1" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://comet.nefsc.noaa.gov/erddap/erddap/tabledap/ocdbs_v_erddap1</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="occci_V6_8day_4km" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://comet.nefsc.noaa.gov/erddap/erddap/griddap/occci_V6_8day_4km</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="occci_v6_daily_4km" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://comet.nefsc.noaa.gov/erddap/erddap/griddap/occci_v6_daily_4km</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="occci_V6_monthly_4km" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://comet.nefsc.noaa.gov/erddap/erddap/griddap/occci_V6_monthly_4km</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="noaa_psl_e13b_3d70_1b62" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://comet.nefsc.noaa.gov/erddap/erddap/griddap/noaa_psl_e13b_3d70_1b62</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="noaa_psl_bfc9_4037_36fb" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://comet.nefsc.noaa.gov/erddap/erddap/griddap/noaa_psl_bfc9_4037_36fb</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="noaa_psl_4e02_3713_6583" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://comet.nefsc.noaa.gov/erddap/erddap/griddap/noaa_psl_4e02_3713_6583</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="noaa_psl_55a2_880b_1f29" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://comet.nefsc.noaa.gov/erddap/erddap/griddap/noaa_psl_55a2_880b_1f29</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="noaa_psl_2d74_d418_a6fb" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://comet.nefsc.noaa.gov/erddap/erddap/griddap/noaa_psl_2d74_d418_a6fb</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="noaa_psl_62b6_f192_98f7" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://comet.nefsc.noaa.gov/erddap/erddap/griddap/noaa_psl_62b6_f192_98f7</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="noaa_coastwatch_acspo_v2_reanalysis" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://comet.nefsc.noaa.gov/erddap/erddap/griddap/noaa_coastwatch_acspo_v2_reanalysis</sourceUrl>
+</dataset>
+
+<dataset type="EDDGridFromErddap" datasetID="noaa_coastwatch_acspo_v2_nrt" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://comet.nefsc.noaa.gov/erddap/erddap/griddap/noaa_coastwatch_acspo_v2_nrt</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="Study_Fleet_TDR" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://comet.nefsc.noaa.gov/erddap/erddap/tabledap/Study_Fleet_TDR</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="turtle_temp_depth" active="true">
+    <reloadEveryNMinutes>180</reloadEveryNMinutes>
+    <sourceUrl>https://comet.nefsc.noaa.gov/erddap/erddap/tabledap/turtle_temp_depth</sourceUrl>
+</dataset>
+
+<!--  end nefsc -->
