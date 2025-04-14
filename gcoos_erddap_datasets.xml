@@ -2,867 +2,867 @@
 
 <dataset type="EDDTableFromErddap" datasetID="CBI_042" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/CBI_042</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/CBI_042</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="CBI_069" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/CBI_069</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/CBI_069</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="CBI_072" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/CBI_072</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/CBI_072</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="CBI_074" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/CBI_074</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/CBI_074</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="CBI_076" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/CBI_076</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/CBI_076</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="CBI_127" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/CBI_127</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/CBI_127</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="CBI_130" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/CBI_130</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/CBI_130</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="CBI_138" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/CBI_138</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/CBI_138</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="CBI_170" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/CBI_170</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/CBI_170</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="CBI_171" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/CBI_171</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/CBI_171</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="CBI_185" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/CBI_185</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/CBI_185</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="CBI_236" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/CBI_236</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/CBI_236</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="CBI_242" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/CBI_242</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/CBI_242</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="CBI_243" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/CBI_243</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/CBI_243</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="CBI_244" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/CBI_244</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/CBI_244</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="CBI_256" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/CBI_256</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/CBI_256</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="CBI_275" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/CBI_275</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/CBI_275</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="CBI_276" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/CBI_276</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/CBI_276</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="CBI_277" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/CBI_277</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/CBI_277</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="CBI_278" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/CBI_278</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/CBI_278</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="CBI_279" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/CBI_279</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/CBI_279</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="COAPS_N7" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/COAPS_N7</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/COAPS_N7</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="DISL_BSCA" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/DISL_BSCA</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/DISL_BSCA</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="DISL_BSPA" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/DISL_BSPA</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/DISL_BSPA</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="DISL_CATA" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/DISL_CATA</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/DISL_CATA</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="DISL_DISL" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/DISL_DISL</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/DISL_DISL</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="DISL_KATA" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/DISL_KATA</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/DISL_KATA</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="DISL_MBLA" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/DISL_MBLA</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/DISL_MBLA</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="DISL_MHPA" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/DISL_MHPA</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/DISL_MHPA</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="DISL_PPTA" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/DISL_PPTA</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/DISL_PPTA</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="DISL_WECP" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/DISL_WECP</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/DISL_WECP</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="FWRI_NPD" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/FWRI_NPD</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/FWRI_NPD</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="FWRI_OTB" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/FWRI_OTB</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/FWRI_OTB</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="gcoos_42G01" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/gcoos_42G01</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/gcoos_42G01</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="gcoos_42G02" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/gcoos_42G02</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/gcoos_42G02</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="gcoos_42G03" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/gcoos_42G03</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/gcoos_42G03</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="gcoos_42G05" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/gcoos_42G05</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/gcoos_42G05</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="gcoos_42G06" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/gcoos_42G06</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/gcoos_42G06</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="gcoos_42G07" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/gcoos_42G07</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/gcoos_42G07</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="gcoos_42G08" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/gcoos_42G08</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/gcoos_42G08</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="LUMCON_101" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/LUMCON_101</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/LUMCON_101</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="LUMCON_102" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/LUMCON_102</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/LUMCON_102</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="LUMCON_103" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/LUMCON_103</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/LUMCON_103</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="LUMCON_104" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/LUMCON_104</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/LUMCON_104</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="LUMCON_105" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/LUMCON_105</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/LUMCON_105</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="LUMCON_wisl1" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/LUMCON_wisl1</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/LUMCON_wisl1</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="SCCF_11" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/SCCF_11</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/SCCF_11</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="SCCF_12" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/SCCF_12</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/SCCF_12</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="SCCF_13" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/SCCF_13</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/SCCF_13</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="SCCF_16" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/SCCF_16</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/SCCF_16</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="SCCF_18" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/SCCF_18</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/SCCF_18</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="SCCF_51" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/SCCF_51</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/SCCF_51</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="SCCF_53" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/SCCF_53</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/SCCF_53</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="SCCF_56" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/SCCF_56</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/SCCF_56</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="TABS_A" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/TABS_A</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/TABS_A</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="TABS_C" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/TABS_C</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/TABS_C</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="TABS_E" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/TABS_E</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/TABS_E</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="TABS_G" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/TABS_G</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/TABS_G</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="TABS_H" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/TABS_H</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/TABS_H</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="TABS_L" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/TABS_L</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/TABS_L</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="TABS_M" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/TABS_M</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/TABS_M</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="TABS_P" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/TABS_P</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/TABS_P</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="TABS_X" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/TABS_X</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/TABS_X</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="USF_COMPS_ANC" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/USF_COMPS_ANC</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/USF_COMPS_ANC</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="USF_COMPS_ANM" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/USF_COMPS_ANM</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/USF_COMPS_ANM</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="USF_COMPS_ARP" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/USF_COMPS_ARP</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/USF_COMPS_ARP</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="USF_COMPS_BGC" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/USF_COMPS_BGC</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/USF_COMPS_BGC</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="USF_COMPS_C10" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/USF_COMPS_C10</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/USF_COMPS_C10</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="USF_COMPS_C12" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/USF_COMPS_C12</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/USF_COMPS_C12</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="USF_COMPS_C13" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/USF_COMPS_C13</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/USF_COMPS_C13</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="USF_COMPS_CAM" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/USF_COMPS_CAM</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/USF_COMPS_CAM</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="USF_COMPS_EGK" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/USF_COMPS_EGK</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/USF_COMPS_EGK</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="USF_COMPS_FHP" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/USF_COMPS_FHP</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/USF_COMPS_FHP</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="USF_COMPS_NFB" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/USF_COMPS_NFB</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/USF_COMPS_NFB</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="USF_COMPS_SHP" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/USF_COMPS_SHP</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/USF_COMPS_SHP</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="USF_COMPS_TAR" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/USF_COMPS_TAR</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/USF_COMPS_TAR</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="WAVCIS_CSI03" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/WAVCIS_CSI03</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/WAVCIS_CSI03</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="WAVCIS_CSI05" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/WAVCIS_CSI05</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/WAVCIS_CSI05</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="WAVCIS_CSI06" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/WAVCIS_CSI06</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/WAVCIS_CSI06</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="WAVCIS_CSI09" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/WAVCIS_CSI09</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/WAVCIS_CSI09</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="WAVCIS_CSI10A" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/WAVCIS_CSI10A</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/WAVCIS_CSI10A</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="WAVCIS_CSI15" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/WAVCIS_CSI15</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/WAVCIS_CSI15</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="WAVCIS_CSI16" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/WAVCIS_CSI16</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/WAVCIS_CSI16</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42043" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42043</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42043</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42044" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42044</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42044</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42045" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42045</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42045</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42046" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42046</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42046</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42047" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42047</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42047</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42048" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42048</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42048</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42049" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42049</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42049</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42050" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42050</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42050</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42051" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42051</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42051</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42052" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42052</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42052</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42067" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42067</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42067</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42069" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42069</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42069</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42072" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42072</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42072</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42084" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42084</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42084</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42091" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42091</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42091</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42093" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42093</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42093</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42095" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42095</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42095</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42097" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42097</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42097</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42098" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42098</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42098</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42099" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42099</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42099</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42354" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42354</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42354</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42360" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42360</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42360</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42361" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42361</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42361</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42362" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42362</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42362</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42363" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42363</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42363</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42364" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42364</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42364</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42365" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42365</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42365</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42369" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42369</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42369</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42370" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42370</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42370</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42372" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42372</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42372</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42373" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42373</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42373</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42374" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42374</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42374</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42375" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42375</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42375</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42377" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42377</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42377</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42379" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42379</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42379</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42382" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42382</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42382</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42383" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42383</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42383</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42384" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42384</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42384</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42385" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42385</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42385</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42386" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42386</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42386</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42388" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42388</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42388</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42390" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42390</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42390</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42394" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42394</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42394</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42395" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42395</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42395</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42397" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42397</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42397</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42398" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42398</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42398</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42399" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42399</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42399</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42400" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42400</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42400</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42401" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42401</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42401</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42402" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42402</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42402</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42403" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42403</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42403</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42851" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42851</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42851</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42858" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42858</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42858</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42864" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42864</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42864</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42865" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42865</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42865</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42866" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42866</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42866</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42869" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42869</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42869</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42873" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42873</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42873</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42874" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42874</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42874</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42876" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42876</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42876</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42877" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42877</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42877</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42879" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42879</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42879</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42880" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42880</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42880</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42881" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42881</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42881</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42882" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42882</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42882</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42884" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42884</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42884</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42887" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42887</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42887</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42888" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42888</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42888</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42889" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42889</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42889</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42891" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42891</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42891</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42892" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42892</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42892</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42896" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42896</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42896</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42901" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42901</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42901</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42902" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42902</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42902</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42903" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42903</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42903</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42906" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42906</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42906</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42907" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42907</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42907</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42917" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42917</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42917</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42924" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42924</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42924</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42925" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42925</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42925</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42928" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42928</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42928</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42932" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42932</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42932</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42934" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42934</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42934</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42935" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42935</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42935</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42936" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42936</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42936</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_42940" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_42940</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_42940</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_mtbf1" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_mtbf1</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_mtbf1</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_SIPF1" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_SIPF1</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_SIPF1</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NOAA-FGBNMS-Bob" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/NOAA-FGBNMS-Bob</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/NOAA-FGBNMS-Bob</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wmo_lopl1" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.gcoos.org/erddap/erddap/tabledap/wmo_lopl1</sourceUrl>
+    <sourceUrl>https://erddap.gcoos.org/erddap/tabledap/wmo_lopl1</sourceUrl>
 </dataset>
 
 <!--  end gcoos -->

@@ -2,112 +2,112 @@
 
 <dataset type="EDDTableFromErddap" datasetID="socat_v2019_fulldata" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/socat/erddap/erddap/tabledap/socat_v2019_fulldata</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/socat/erddap/tabledap/socat_v2019_fulldata</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="socat_v2019_decimated" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/socat/erddap/erddap/tabledap/socat_v2019_decimated</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/socat/erddap/tabledap/socat_v2019_decimated</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="socat_v2020_fulldata" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/socat/erddap/erddap/tabledap/socat_v2020_fulldata</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/socat/erddap/tabledap/socat_v2020_fulldata</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="socat_v2020_decimated" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/socat/erddap/erddap/tabledap/socat_v2020_decimated</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/socat/erddap/tabledap/socat_v2020_decimated</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="socat_v2021_fulldata" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/socat/erddap/erddap/tabledap/socat_v2021_fulldata</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/socat/erddap/tabledap/socat_v2021_fulldata</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="socat_v2021_decimated" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/socat/erddap/erddap/tabledap/socat_v2021_decimated</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/socat/erddap/tabledap/socat_v2021_decimated</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="socat_v2022_fulldata" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/socat/erddap/erddap/tabledap/socat_v2022_fulldata</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/socat/erddap/tabledap/socat_v2022_fulldata</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="socat_v2022_decimated" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/socat/erddap/erddap/tabledap/socat_v2022_decimated</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/socat/erddap/tabledap/socat_v2022_decimated</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="socat_v2023_fulldata" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/socat/erddap/erddap/tabledap/socat_v2023_fulldata</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/socat/erddap/tabledap/socat_v2023_fulldata</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="socat_v2023_decimated" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/socat/erddap/erddap/tabledap/socat_v2023_decimated</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/socat/erddap/tabledap/socat_v2023_decimated</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="socat_v2024_fulldata" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/socat/erddap/erddap/tabledap/socat_v2024_fulldata</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/socat/erddap/tabledap/socat_v2024_fulldata</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="socat_v2024_decimated" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/socat/erddap/erddap/tabledap/socat_v2024_decimated</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/socat/erddap/tabledap/socat_v2024_decimated</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="socat_v3_fulldata" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/socat/erddap/erddap/tabledap/socat_v3_fulldata</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/socat/erddap/tabledap/socat_v3_fulldata</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="socat_v3_decimated" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/socat/erddap/erddap/tabledap/socat_v3_decimated</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/socat/erddap/tabledap/socat_v3_decimated</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="socat_v4_fulldata" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/socat/erddap/erddap/tabledap/socat_v4_fulldata</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/socat/erddap/tabledap/socat_v4_fulldata</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="socat_v4_decimated" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/socat/erddap/erddap/tabledap/socat_v4_decimated</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/socat/erddap/tabledap/socat_v4_decimated</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="socat_v5_fulldata" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/socat/erddap/erddap/tabledap/socat_v5_fulldata</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/socat/erddap/tabledap/socat_v5_fulldata</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="socat_v5_decimated" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/socat/erddap/erddap/tabledap/socat_v5_decimated</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/socat/erddap/tabledap/socat_v5_decimated</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="socat_v6_fulldata" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/socat/erddap/erddap/tabledap/socat_v6_fulldata</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/socat/erddap/tabledap/socat_v6_fulldata</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="socat_v6_decimated" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/socat/erddap/erddap/tabledap/socat_v6_decimated</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/socat/erddap/tabledap/socat_v6_decimated</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="etopo180" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/socat/erddap/erddap/griddap/etopo180</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/socat/erddap/griddap/etopo180</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="etopo360" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/socat/erddap/erddap/griddap/etopo360</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/socat/erddap/griddap/etopo360</sourceUrl>
 </dataset>
 
 <!--  end pmel_socat -->

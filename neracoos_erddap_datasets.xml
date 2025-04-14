@@ -2,1027 +2,1027 @@
 
 <dataset type="EDDTableFromErddap" datasetID="A01_waves" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/A01_waves</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/A01_waves</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="A01_met" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/A01_met</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/A01_met</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="A01_ocean_001m" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/A01_ocean_001m</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/A01_ocean_001m</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="A01_ocean_010m" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/A01_ocean_010m</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/A01_ocean_010m</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="A01_ocean_002m" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/A01_ocean_002m</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/A01_ocean_002m</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="A01_ocean_020m" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/A01_ocean_020m</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/A01_ocean_020m</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="A01_ocean_003m" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/A01_ocean_003m</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/A01_ocean_003m</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="A01_ocean_050m" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/A01_ocean_050m</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/A01_ocean_050m</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="A01_ocean_agg" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/A01_ocean_agg</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/A01_ocean_agg</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="A01_position" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/A01_position</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/A01_position</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="A01_doppler_currents" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/A01_doppler_currents</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/A01_doppler_currents</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="A01_surface_currents" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/A01_surface_currents</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/A01_surface_currents</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="Hohonu_tide_Adams_Point_NH" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/Hohonu_tide_Adams_Point_NH</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/Hohonu_tide_Adams_Point_NH</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="B01_waves" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/B01_waves</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/B01_waves</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="B01_met" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/B01_met</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/B01_met</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="B01_ocean_001m" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/B01_ocean_001m</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/B01_ocean_001m</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="B01_ocean_010m" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/B01_ocean_010m</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/B01_ocean_010m</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="B01_ocean_002m" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/B01_ocean_002m</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/B01_ocean_002m</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="B01_ocean_020m" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/B01_ocean_020m</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/B01_ocean_020m</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="B01_ocean_003m" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/B01_ocean_003m</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/B01_ocean_003m</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="B01_ocean_050m" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/B01_ocean_050m</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/B01_ocean_050m</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="B01_ocean_agg" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/B01_ocean_agg</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/B01_ocean_agg</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="B01_position" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/B01_position</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/B01_position</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="B01_doppler_currents" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/B01_doppler_currents</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/B01_doppler_currents</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="B01_surface_currents" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/B01_surface_currents</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/B01_surface_currents</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="brown_tide_brown_geochem" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/brown_tide_brown_geochem</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/brown_tide_brown_geochem</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="brown_tide_charles_st_bridge" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/brown_tide_charles_st_bridge</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/brown_tide_charles_st_bridge</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="Hohonu_tide_Chebague_Island_ME" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/Hohonu_tide_Chebague_Island_ME</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/Hohonu_tide_Chebague_Island_ME</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="brown_tide_delaine_st_bridge" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/brown_tide_delaine_st_bridge</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/brown_tide_delaine_st_bridge</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="Hohonu_tide_Boothbay_Harbor_ME" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/Hohonu_tide_Boothbay_Harbor_ME</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/Hohonu_tide_Boothbay_Harbor_ME</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="E01_waves" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/E01_waves</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/E01_waves</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="E01_met" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/E01_met</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/E01_met</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="E01_ocean_001m" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/E01_ocean_001m</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/E01_ocean_001m</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="E01_ocean_010m" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/E01_ocean_010m</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/E01_ocean_010m</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="E01_ocean_002m" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/E01_ocean_002m</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/E01_ocean_002m</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="E01_ocean_020m" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/E01_ocean_020m</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/E01_ocean_020m</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="E01_ocean_003m" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/E01_ocean_003m</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/E01_ocean_003m</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="E01_ocean_050m" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/E01_ocean_050m</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/E01_ocean_050m</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="E01_ocean_agg" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/E01_ocean_agg</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/E01_ocean_agg</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="E01_position" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/E01_position</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/E01_position</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="E01_doppler_currents" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/E01_doppler_currents</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/E01_doppler_currents</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="E01_surface_currents" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/E01_surface_currents</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/E01_surface_currents</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="nefsc_emolt_trawl_temp" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/nefsc_emolt_trawl_temp</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/nefsc_emolt_trawl_temp</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="F01_waves" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/F01_waves</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/F01_waves</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="F01_met" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/F01_met</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/F01_met</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="F01_ocean_001m" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/F01_ocean_001m</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/F01_ocean_001m</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="F01_ocean_010m" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/F01_ocean_010m</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/F01_ocean_010m</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="F01_ocean_002m" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/F01_ocean_002m</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/F01_ocean_002m</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="F01_ocean_020m" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/F01_ocean_020m</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/F01_ocean_020m</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="F01_ocean_003m" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/F01_ocean_003m</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/F01_ocean_003m</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="F01_ocean_050m" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/F01_ocean_050m</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/F01_ocean_050m</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="F01_ocean_agg" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/F01_ocean_agg</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/F01_ocean_agg</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="F01_position" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/F01_position</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/F01_position</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="F01_doppler_currents" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/F01_doppler_currents</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/F01_doppler_currents</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="F01_surface_currents" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/F01_surface_currents</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/F01_surface_currents</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="Hohonu_tide_Fore_River_Portland_ME" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/Hohonu_tide_Fore_River_Portland_ME</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/Hohonu_tide_Fore_River_Portland_ME</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="brown_tide_fox_point_downstream" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/brown_tide_fox_point_downstream</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/brown_tide_fox_point_downstream</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="brown_tide_fox_point_upstream" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/brown_tide_fox_point_upstream</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/brown_tide_fox_point_upstream</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="brown_tide_RI_UDGH" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/brown_tide_RI_UDGH</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/brown_tide_RI_UDGH</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="ONSET_gloucester_hourly_water_level" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/ONSET_gloucester_hourly_water_level</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/ONSET_gloucester_hourly_water_level</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="Hohonu_tide_GMRI_Pier_Portland_ME" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/Hohonu_tide_GMRI_Pier_Portland_ME</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/Hohonu_tide_GMRI_Pier_Portland_ME</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="CMTS_CFIN_start_2020" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/CMTS_CFIN_start_2020</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/CMTS_CFIN_start_2020</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="CMTS_CFIN_2007_2017" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/CMTS_CFIN_2007_2017</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/CMTS_CFIN_2007_2017</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="gom_cpr_phytoplankton_full" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/gom_cpr_phytoplankton_full</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/gom_cpr_phytoplankton_full</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="gom_cpr_zooplankton_full" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/gom_cpr_zooplankton_full</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/gom_cpr_zooplankton_full</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="WBTS_CFIN_2004_2017" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/WBTS_CFIN_2004_2017</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/WBTS_CFIN_2004_2017</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="WBTS_CFIN_start_2020" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/WBTS_CFIN_start_2020</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/WBTS_CFIN_start_2020</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="WBTS_CTD" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/WBTS_CTD</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/WBTS_CTD</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="ONSET_hamptonbay_hourly_water_level" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/ONSET_hamptonbay_hourly_water_level</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/ONSET_hamptonbay_hourly_water_level</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="I01_waves" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/I01_waves</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/I01_waves</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="I01_met" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/I01_met</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/I01_met</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="I01_ocean_001m" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/I01_ocean_001m</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/I01_ocean_001m</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="I01_ocean_010m" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/I01_ocean_010m</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/I01_ocean_010m</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="I01_ocean_002m" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/I01_ocean_002m</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/I01_ocean_002m</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="I01_ocean_020m" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/I01_ocean_020m</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/I01_ocean_020m</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="I01_ocean_003m" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/I01_ocean_003m</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/I01_ocean_003m</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="I01_ocean_050m" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/I01_ocean_050m</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/I01_ocean_050m</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="I01_ocean_agg" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/I01_ocean_agg</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/I01_ocean_agg</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="I01_position" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/I01_position</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/I01_position</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="I01_doppler_currents" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/I01_doppler_currents</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/I01_doppler_currents</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="I01_surface_currents" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/I01_surface_currents</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/I01_surface_currents</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="M01_waves" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/M01_waves</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/M01_waves</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="M01_met" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/M01_met</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/M01_met</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="M01_ocean_001m" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/M01_ocean_001m</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/M01_ocean_001m</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="M01_ocean_010m" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/M01_ocean_010m</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/M01_ocean_010m</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="M01_ocean_100m" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/M01_ocean_100m</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/M01_ocean_100m</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="M01_ocean_150m" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/M01_ocean_150m</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/M01_ocean_150m</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="M01_ocean_002m" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/M01_ocean_002m</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/M01_ocean_002m</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="M01_ocean_020m" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/M01_ocean_020m</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/M01_ocean_020m</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="M01_ocean_200m" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/M01_ocean_200m</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/M01_ocean_200m</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="M01_ocean_250m" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/M01_ocean_250m</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/M01_ocean_250m</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="M01_ocean_003m" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/M01_ocean_003m</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/M01_ocean_003m</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="M01_ocean_050m" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/M01_ocean_050m</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/M01_ocean_050m</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="M01_ocean_agg" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/M01_ocean_agg</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/M01_ocean_agg</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="M01_position" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/M01_position</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/M01_position</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="M01_doppler_currents" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/M01_doppler_currents</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/M01_doppler_currents</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="M01_surface_currents" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/M01_surface_currents</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/M01_surface_currents</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="Hohonu_tide_Machias_radar" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/Hohonu_tide_Machias_radar</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/Hohonu_tide_Machias_radar</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="Hohonu_tide_Machias_ultrasonic" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/Hohonu_tide_Machias_ultrasonic</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/Hohonu_tide_Machias_ultrasonic</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="Hohonu_tide_Bath_ME" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/Hohonu_tide_Bath_ME</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/Hohonu_tide_Bath_ME</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="N01_waves" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/N01_waves</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/N01_waves</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="N01_ocean_001m" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/N01_ocean_001m</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/N01_ocean_001m</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="N01_ocean_002m" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/N01_ocean_002m</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/N01_ocean_002m</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="N01_ocean_020m" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/N01_ocean_020m</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/N01_ocean_020m</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="N01_ocean_003m" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/N01_ocean_003m</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/N01_ocean_003m</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="N01_ocean_050m" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/N01_ocean_050m</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/N01_ocean_050m</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="N01_ocean_agg" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/N01_ocean_agg</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/N01_ocean_agg</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="N01_position" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/N01_position</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/N01_position</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="N01_doppler_currents" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/N01_doppler_currents</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/N01_doppler_currents</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="N01_surface_currents" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/N01_surface_currents</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/N01_surface_currents</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NDBC_44005" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NDBC_44005</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NDBC_44005</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NDBC_44007" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NDBC_44007</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NDBC_44007</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NDBC_44008" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NDBC_44008</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NDBC_44008</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NDBC_44011" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NDBC_44011</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NDBC_44011</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NDBC_44013" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NDBC_44013</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NDBC_44013</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NDBC_44018" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NDBC_44018</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NDBC_44018</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NDBC_44020" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NDBC_44020</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NDBC_44020</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NDBC_44025" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NDBC_44025</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NDBC_44025</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NDBC_44027" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NDBC_44027</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NDBC_44027</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NDBC_44065" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NDBC_44065</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NDBC_44065</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NDBC_44069" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NDBC_44069</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NDBC_44069</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NDBC_44090" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NDBC_44090</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NDBC_44090</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NDBC_BLTM3" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NDBC_BLTM3</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NDBC_BLTM3</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NDBC_BZBM3" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NDBC_BZBM3</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NDBC_BZBM3</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NDBC_C-MAN_BUZM3" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NDBC_C-MAN_BUZM3</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NDBC_C-MAN_BUZM3</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NDBC_C-MAN_DBLN6" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NDBC_C-MAN_DBLN6</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NDBC_C-MAN_DBLN6</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NDBC_C-MAN_IOSN3" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NDBC_C-MAN_IOSN3</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NDBC_C-MAN_IOSN3</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NDBC_C-MAN_MDRM1" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NDBC_C-MAN_MDRM1</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NDBC_C-MAN_MDRM1</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NDBC_C-MAN_MISM1" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NDBC_C-MAN_MISM1</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NDBC_C-MAN_MISM1</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NDBC_CASM1" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NDBC_CASM1</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NDBC_CASM1</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NDBC_CFWM1" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NDBC_CFWM1</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NDBC_CFWM1</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NDBC_CHTM3" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NDBC_CHTM3</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NDBC_CHTM3</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NDBC_CPTR1" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NDBC_CPTR1</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NDBC_CPTR1</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NDBC_FOXR1" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NDBC_FOXR1</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NDBC_FOXR1</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NDBC_FRVM3" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NDBC_FRVM3</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NDBC_FRVM3</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NDBC_KPTN6" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NDBC_KPTN6</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NDBC_KPTN6</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NDBC_MTKN6" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NDBC_MTKN6</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NDBC_MTKN6</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NDBC_NBGM3" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NDBC_NBGM3</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NDBC_NBGM3</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NDBC_NERRS_BGXN3" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NDBC_NERRS_BGXN3</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NDBC_NERRS_BGXN3</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NDBC_NERRS_GBQN3_WQ" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NDBC_NERRS_GBQN3_WQ</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NDBC_NERRS_GBQN3_WQ</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NDBC_NERRS_NAQR1_WQ" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NDBC_NERRS_NAQR1_WQ</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NDBC_NERRS_NAQR1_WQ</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NDBC_NERRS_NAXR1" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NDBC_NERRS_NAXR1</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NDBC_NERRS_NAXR1</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NDBC_NERRS_WAQM3_WQ" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NDBC_NERRS_WAQM3_WQ</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NDBC_NERRS_WAQM3_WQ</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NDBC_NERRS_WAXM3" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NDBC_NERRS_WAXM3</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NDBC_NERRS_WAXM3</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NDBC_NERRS_WEBM1_WQ" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NDBC_NERRS_WEBM1_WQ</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NDBC_NERRS_WEBM1_WQ</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NDBC_NERRS_WEQM1_WQ" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NDBC_NERRS_WEQM1_WQ</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NDBC_NERRS_WEQM1_WQ</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NDBC_NERRS_WEXM1" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NDBC_NERRS_WEXM1</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NDBC_NERRS_WEXM1</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NDBC_NWHC3" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NDBC_NWHC3</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NDBC_NWHC3</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NDBC_PDVR1" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NDBC_PDVR1</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NDBC_PDVR1</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NDBC_QPTR1" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NDBC_QPTR1</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NDBC_QPTR1</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NDBC_SEIM1" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NDBC_SEIM1</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NDBC_SEIM1</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NWS_Hydromet_BOX" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NWS_Hydromet_BOX</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NWS_Hydromet_BOX</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NWS_Hydromet_CAR" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NWS_Hydromet_CAR</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NWS_Hydromet_CAR</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NWS_Hydromet_GYX" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NWS_Hydromet_GYX</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NWS_Hydromet_GYX</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NWS_Hydromet_OKX" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NWS_Hydromet_OKX</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NWS_Hydromet_OKX</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NOS_ATGM1_WLTP6" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NOS_ATGM1_WLTP6</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NOS_ATGM1_WLTP6</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NOS_BHBM3_WLTP6" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NOS_BHBM3_WLTP6</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NOS_BHBM3_WLTP6</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NOS_BZBM3_WLTP6" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NOS_BZBM3_WLTP6</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NOS_BZBM3_WLTP6</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NOS_CASM1_WLTP6" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NOS_CASM1_WLTP6</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NOS_CASM1_WLTP6</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NOS_CFWM1_WLTP6" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NOS_CFWM1_WLTP6</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NOS_CFWM1_WLTP6</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NOS_CHTM3_WLTP6" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NOS_CHTM3_WLTP6</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NOS_CHTM3_WLTP6</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="PORTS_CC_realtime" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/PORTS_CC_realtime</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/PORTS_CC_realtime</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="nosCoopsWLTP6" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/nosCoopsWLTP6</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/nosCoopsWLTP6</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NOS_FOXR1_WLTP6" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NOS_FOXR1_WLTP6</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NOS_FOXR1_WLTP6</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NOS_FRVM3_WLTP6" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NOS_FRVM3_WLTP6</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NOS_FRVM3_WLTP6</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NOS_NBGM3_WLTP6" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NOS_NBGM3_WLTP6</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NOS_NBGM3_WLTP6</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NOS_NLHC3_WLTP6" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NOS_NLHC3_WLTP6</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NOS_NLHC3_WLTP6</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NOS_NTKM3_WLTP6" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NOS_NTKM3_WLTP6</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NOS_NTKM3_WLTP6</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NOS_NWHC3_WLTP6" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NOS_NWHC3_WLTP6</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NOS_NWHC3_WLTP6</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NOS_NWPR1_WLTP6" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NOS_NWPR1_WLTP6</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NOS_NWPR1_WLTP6</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NOS_PSBM1_WLTP6" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NOS_PSBM1_WLTP6</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NOS_PSBM1_WLTP6</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NOS_SEIM1_WLTP6" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NOS_SEIM1_WLTP6</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NOS_SEIM1_WLTP6</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NWLON_8518750" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NWLON_8518750</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NWLON_8518750</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NWLON_8443970" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NWLON_8443970</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NWLON_8443970</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NWLON_8467150" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NWLON_8467150</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NWLON_8467150</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NWLON_8447930" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NWLON_8447930</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NWLON_8447930</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NWLON_8418150" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NWLON_8418150</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NWLON_8418150</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NWLON_8411060" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NWLON_8411060</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NWLON_8411060</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NWLON_8447435" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NWLON_8447435</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NWLON_8447435</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NWLON_8452944" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NWLON_8452944</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NWLON_8452944</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NWLON_8454000" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NWLON_8454000</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NWLON_8454000</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NWLON_8447386" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NWLON_8447386</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NWLON_8447386</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NWLON_8510560" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NWLON_8510560</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NWLON_8510560</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NWLON_8447636" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NWLON_8447636</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NWLON_8447636</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NWLON_8449130" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NWLON_8449130</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NWLON_8449130</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NWLON_8465705" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NWLON_8465705</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NWLON_8465705</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NWLON_8410140" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NWLON_8410140</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NWLON_8410140</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NWLON_8419870" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/NWLON_8419870</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/NWLON_8419870</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="brown_tide_pleasant_valley_and_academy" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/brown_tide_pleasant_valley_and_academy</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/brown_tide_pleasant_valley_and_academy</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="Hohonu_tide_Port_Clyde_ME" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/Hohonu_tide_Port_Clyde_ME</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/Hohonu_tide_Port_Clyde_ME</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="Hohonu_tide_Route_286_Bridge_Seabrook_NH" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/Hohonu_tide_Route_286_Bridge_Seabrook_NH</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/Hohonu_tide_Route_286_Bridge_Seabrook_NH</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="Hohonu_tide_Scarborough_ME" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/Hohonu_tide_Scarborough_ME</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/Hohonu_tide_Scarborough_ME</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="ONSET_scituate_hourly_water_level" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/ONSET_scituate_hourly_water_level</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/ONSET_scituate_hourly_water_level</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="SFW01_Current" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/SFW01_Current</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/SFW01_Current</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="SFW01_Wave" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/SFW01_Wave</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/SFW01_Wave</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="Hohonu_tide_St_George_ME" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/Hohonu_tide_St_George_ME</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/Hohonu_tide_St_George_ME</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="Hohonu_tide_Squamscott_River_Mouth_NH" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/Hohonu_tide_Squamscott_River_Mouth_NH</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/Hohonu_tide_Squamscott_River_Mouth_NH</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="Hohonu_tide_Durham_NH" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/Hohonu_tide_Durham_NH</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/Hohonu_tide_Durham_NH</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="UNH_WBD" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/UNH_WBD</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/UNH_WBD</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="UNH_CML" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/UNH_CML</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/UNH_CML</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="UNH_GBB" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/UNH_GBB</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/UNH_GBB</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="UNH_JEL" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/UNH_JEL</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/UNH_JEL</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="UNH_SPOT_1469" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/UNH_SPOT_1469</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/UNH_SPOT_1469</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="brown_tide_valley_and_amherst" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/brown_tide_valley_and_amherst</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/brown_tide_valley_and_amherst</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="brown_tide_wanskuck_mill_bridge" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://data.neracoos.org/erddap/erddap/tabledap/brown_tide_wanskuck_mill_bridge</sourceUrl>
+    <sourceUrl>https://data.neracoos.org/erddap/tabledap/brown_tide_wanskuck_mill_bridge</sourceUrl>
 </dataset>
 
 <!--  end nercoos -->

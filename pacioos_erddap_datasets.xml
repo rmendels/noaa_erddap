@@ -2,1437 +2,1437 @@
 
 <dataset type="EDDTableFromErddap" datasetID="cdip_cat4_agg" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/cdip_cat4_agg</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/cdip_cat4_agg</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="cdip_sst_agg" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/cdip_sst_agg</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/cdip_sst_agg</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="cdip_acm_agg" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/cdip_acm_agg</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/cdip_acm_agg</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="cdip_wave_agg" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/cdip_wave_agg</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/cdip_wave_agg</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="ais_hi_20112012" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/ais_hi_20112012</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/ais_hi_20112012</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="ais_john_20112012" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/ais_john_20112012</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/ais_john_20112012</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="ais_mari_20112012" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/ais_mari_20112012</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/ais_mari_20112012</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="ais_rose_20112012" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/ais_rose_20112012</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/ais_rose_20112012</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="aco_adcp_temp" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/aco_adcp_temp</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/aco_adcp_temp</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="aco_adcp_vel" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/aco_adcp_vel</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/aco_adcp_vel</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="aco_bpr_archive" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/aco_bpr_archive</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/aco_bpr_archive</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="aco_bpr" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/aco_bpr</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/aco_bpr</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="aco_acoustic" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/aco_acoustic</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/aco_acoustic</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="backyardbuoys_faleasao_harbor" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/backyardbuoys_faleasao_harbor</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/backyardbuoys_faleasao_harbor</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="backyardbuoys_majuro" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/backyardbuoys_majuro</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/backyardbuoys_majuro</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="backyardbuoys_pehlung" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/backyardbuoys_pehlung</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/backyardbuoys_pehlung</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="backyardbuoys_tau_harbor" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/backyardbuoys_tau_harbor</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/backyardbuoys_tau_harbor</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="bosz_westmaui" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/bosz_westmaui</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/bosz_westmaui</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="aws_crrf" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/aws_crrf</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/aws_crrf</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="dist2coast_1deg" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/dist2coast_1deg</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/dist2coast_1deg</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="dist2coast_1deg_lon360" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/dist2coast_1deg_lon360</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/dist2coast_1deg_lon360</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="dist2coast_1deg_land" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/dist2coast_1deg_land</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/dist2coast_1deg_land</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="dist2coast_1deg_land_lon360" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/dist2coast_1deg_land_lon360</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/dist2coast_1deg_land_lon360</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="dist2coast_1deg_ocean" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/dist2coast_1deg_ocean</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/dist2coast_1deg_ocean</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="dist2coast_1deg_ocean_lon360" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/dist2coast_1deg_ocean_lon360</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/dist2coast_1deg_ocean_lon360</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="dist2coast_4deg" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/dist2coast_4deg</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/dist2coast_4deg</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="dist2coast_4deg_lon360" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/dist2coast_4deg_lon360</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/dist2coast_4deg_lon360</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="dist2coast_4deg_land" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/dist2coast_4deg_land</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/dist2coast_4deg_land</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="dist2coast_4deg_land_lon360" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/dist2coast_4deg_land_lon360</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/dist2coast_4deg_land_lon360</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="dist2coast_4deg_ocean" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/dist2coast_4deg_ocean</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/dist2coast_4deg_ocean</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="dist2coast_4deg_ocean_lon360" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/dist2coast_4deg_ocean_lon360</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/dist2coast_4deg_ocean_lon360</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="etopo1_bedrock" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/etopo1_bedrock</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/etopo1_bedrock</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="etopo1_bedrock_lon360" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/etopo1_bedrock_lon360</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/etopo1_bedrock_lon360</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="etopo1_ice" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/etopo1_ice</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/etopo1_ice</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="etopo1_ice_lon360" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/etopo1_ice_lon360</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/etopo1_ice_lon360</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="etopo5" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/etopo5</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/etopo5</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="etopo5_lon180" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/etopo5_lon180</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/etopo5_lon180</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="cwb_water_quality" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/cwb_water_quality</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/cwb_water_quality</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="aws_himb" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/aws_himb</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/aws_himb</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="hui_water_quality" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/hui_water_quality</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/hui_water_quality</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="uhslc_global_daily_rqds" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/uhslc_global_daily_rqds</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/uhslc_global_daily_rqds</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="uhslc_global_hourly_rqds" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/uhslc_global_hourly_rqds</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/uhslc_global_hourly_rqds</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="hmrg_bathytopo_1km_mhi" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/hmrg_bathytopo_1km_mhi</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/hmrg_bathytopo_1km_mhi</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="hmrg_bathy_50m_mhi" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/hmrg_bathy_50m_mhi</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/hmrg_bathy_50m_mhi</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="hmrg_bathytopo_50m_mhi" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/hmrg_bathytopo_50m_mhi</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/hmrg_bathytopo_50m_mhi</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="maui_water_quality" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/maui_water_quality</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/maui_water_quality</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="neowave_auasi_aunuu" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/neowave_auasi_aunuu</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/neowave_auasi_aunuu</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="neowave_pago_pago" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/neowave_pago_pago</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/neowave_pago_pago</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="neowave_agana_tumon" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/neowave_agana_tumon</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/neowave_agana_tumon</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="neowave_agat_bay" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/neowave_agat_bay</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/neowave_agat_bay</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="neowave_agat_marina" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/neowave_agat_marina</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/neowave_agat_marina</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="neowave_apra" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/neowave_apra</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/neowave_apra</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="neowave_inarajan" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/neowave_inarajan</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/neowave_inarajan</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="neowave_merizo" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/neowave_merizo</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/neowave_merizo</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="neowave_nawiliwili" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/neowave_nawiliwili</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/neowave_nawiliwili</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="neowave_port_allen" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/neowave_port_allen</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/neowave_port_allen</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="neowave_kaumalapau" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/neowave_kaumalapau</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/neowave_kaumalapau</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="neowave_kaunakakai" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/neowave_kaunakakai</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/neowave_kaunakakai</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="neowave_pearl_harbor" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/neowave_pearl_harbor</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/neowave_pearl_harbor</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="neowave_kalapana1975_bigi" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/neowave_kalapana1975_bigi</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/neowave_kalapana1975_bigi</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="neowave_kalapana1975_halape" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/neowave_kalapana1975_halape</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/neowave_kalapana1975_halape</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="neowave_kalapana1975_kapoho" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/neowave_kalapana1975_kapoho</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/neowave_kalapana1975_kapoho</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="neowave_kalapana1975_punaluu" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/neowave_kalapana1975_punaluu</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/neowave_kalapana1975_punaluu</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="neowave_kalapana1975_spoint" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/neowave_kalapana1975_spoint</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/neowave_kalapana1975_spoint</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="neowave_kalapana1975_kauai" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/neowave_kalapana1975_kauai</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/neowave_kalapana1975_kauai</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="neowave_kalapana1975_maui" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/neowave_kalapana1975_maui</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/neowave_kalapana1975_maui</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="neowave_kalapana1975_oahu" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/neowave_kalapana1975_oahu</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/neowave_kalapana1975_oahu</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="neowave_shawaiipmt_bigi" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/neowave_shawaiipmt_bigi</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/neowave_shawaiipmt_bigi</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="neowave_shawaiipmt_halape" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/neowave_shawaiipmt_halape</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/neowave_shawaiipmt_halape</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="neowave_shawaiipmt_kapoho" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/neowave_shawaiipmt_kapoho</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/neowave_shawaiipmt_kapoho</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="neowave_shawaiipmt_punaluu" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/neowave_shawaiipmt_punaluu</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/neowave_shawaiipmt_punaluu</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="neowave_shawaiipmt_spoint" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/neowave_shawaiipmt_spoint</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/neowave_shawaiipmt_spoint</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="neowave_shawaiipmt_kauai" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/neowave_shawaiipmt_kauai</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/neowave_shawaiipmt_kauai</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="neowave_shawaiipmt_maui" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/neowave_shawaiipmt_maui</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/neowave_shawaiipmt_maui</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="neowave_shawaiipmt_oahu" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/neowave_shawaiipmt_oahu</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/neowave_shawaiipmt_oahu</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="mhw_5km" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/mhw_5km</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/mhw_5km</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="mhw_5km_lon360" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/mhw_5km_lon360</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/mhw_5km_lon360</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="dhw_5km" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/dhw_5km</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/dhw_5km</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="dhw_5km_lon360" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/dhw_5km_lon360</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/dhw_5km_lon360</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="ngdc_bathy_10m_tutuila" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/ngdc_bathy_10m_tutuila</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/ngdc_bathy_10m_tutuila</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="ngdc_bathy_10m_guam" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/ngdc_bathy_10m_guam</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/ngdc_bathy_10m_guam</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="ngdc_bathy_10m_wake" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/ngdc_bathy_10m_wake</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/ngdc_bathy_10m_wake</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="ngdc_bathy_180m_mariana" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/ngdc_bathy_180m_mariana</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/ngdc_bathy_180m_mariana</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="ngdc_bathy_90m_amsamoa" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/ngdc_bathy_90m_amsamoa</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/ngdc_bathy_90m_amsamoa</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="ncep_global" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/ncep_global</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/ncep_global</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="ncep_global_lon180" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/ncep_global_lon180</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/ncep_global_lon180</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="ncep_pac" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/ncep_pac</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/ncep_pac</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="ncep_pac_lon180" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/ncep_pac_lon180</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/ncep_pac_lon180</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="pibhmc_bathy_1m_apra" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/pibhmc_bathy_1m_apra</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/pibhmc_bathy_1m_apra</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="pibhmc_bathy_10m_swains" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/pibhmc_bathy_10m_swains</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/pibhmc_bathy_10m_swains</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="pibhmc_bathy_10m_agrihan" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/pibhmc_bathy_10m_agrihan</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/pibhmc_bathy_10m_agrihan</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="pibhmc_bathy_10m_alamagan" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/pibhmc_bathy_10m_alamagan</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/pibhmc_bathy_10m_alamagan</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="pibhmc_bathy_10m_asuncion" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/pibhmc_bathy_10m_asuncion</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/pibhmc_bathy_10m_asuncion</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="pibhmc_bathy_10m_pajaros" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/pibhmc_bathy_10m_pajaros</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/pibhmc_bathy_10m_pajaros</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="pibhmc_bathy_10m_guguan" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/pibhmc_bathy_10m_guguan</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/pibhmc_bathy_10m_guguan</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="pibhmc_bathy_10m_maug" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/pibhmc_bathy_10m_maug</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/pibhmc_bathy_10m_maug</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="pibhmc_bathy_10m_pagan" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/pibhmc_bathy_10m_pagan</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/pibhmc_bathy_10m_pagan</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="pibhmc_bathy_10m_sarigan" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/pibhmc_bathy_10m_sarigan</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/pibhmc_bathy_10m_sarigan</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="pibhmc_bathy_10m_supply" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/pibhmc_bathy_10m_supply</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/pibhmc_bathy_10m_supply</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="pibhmc_bathy_2m_agrihan" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/pibhmc_bathy_2m_agrihan</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/pibhmc_bathy_2m_agrihan</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="pibhmc_bathy_20m_nebank" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/pibhmc_bathy_20m_nebank</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/pibhmc_bathy_20m_nebank</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="pibhmc_bathy_20m_jarvis" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/pibhmc_bathy_20m_jarvis</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/pibhmc_bathy_20m_jarvis</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="pibhmc_bathy_20m_johnston" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/pibhmc_bathy_20m_johnston</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/pibhmc_bathy_20m_johnston</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="pibhmc_bathy_20m_kingman" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/pibhmc_bathy_20m_kingman</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/pibhmc_bathy_20m_kingman</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="pibhmc_bathy_40m_rose" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/pibhmc_bathy_40m_rose</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/pibhmc_bathy_40m_rose</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="pibhmc_bathy_40m_swains" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/pibhmc_bathy_40m_swains</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/pibhmc_bathy_40m_swains</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="pibhmc_bathy_40m_twoperbank" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/pibhmc_bathy_40m_twoperbank</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/pibhmc_bathy_40m_twoperbank</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="pibhmc_bathy_40m_vailuluu" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/pibhmc_bathy_40m_vailuluu</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/pibhmc_bathy_40m_vailuluu</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="pibhmc_bathy_40m_baker" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/pibhmc_bathy_40m_baker</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/pibhmc_bathy_40m_baker</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="pibhmc_bathy_40m_howland" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/pibhmc_bathy_40m_howland</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/pibhmc_bathy_40m_howland</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="pibhmc_bathy_40m_palmyra" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/pibhmc_bathy_40m_palmyra</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/pibhmc_bathy_40m_palmyra</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="pibhmc_bathy_5m_nebank" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/pibhmc_bathy_5m_nebank</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/pibhmc_bathy_5m_nebank</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="pibhmc_bathy_5m_ofuolosega" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/pibhmc_bathy_5m_ofuolosega</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/pibhmc_bathy_5m_ofuolosega</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="pibhmc_bathy_5m_rose" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/pibhmc_bathy_5m_rose</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/pibhmc_bathy_5m_rose</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="pibhmc_bathy_5m_swains" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/pibhmc_bathy_5m_swains</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/pibhmc_bathy_5m_swains</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="pibhmc_bathy_5m_tau" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/pibhmc_bathy_5m_tau</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/pibhmc_bathy_5m_tau</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="pibhmc_bathy_5m_tutuila" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/pibhmc_bathy_5m_tutuila</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/pibhmc_bathy_5m_tutuila</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="pibhmc_bathy_5m_alamagan" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/pibhmc_bathy_5m_alamagan</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/pibhmc_bathy_5m_alamagan</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="pibhmc_bathy_5m_asuncion" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/pibhmc_bathy_5m_asuncion</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/pibhmc_bathy_5m_asuncion</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="pibhmc_bathy_5m_medinilla" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/pibhmc_bathy_5m_medinilla</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/pibhmc_bathy_5m_medinilla</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="pibhmc_bathy_5m_marpi" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/pibhmc_bathy_5m_marpi</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/pibhmc_bathy_5m_marpi</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="pibhmc_bathy_5m_maug" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/pibhmc_bathy_5m_maug</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/pibhmc_bathy_5m_maug</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="pibhmc_bathy_5m_rota" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/pibhmc_bathy_5m_rota</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/pibhmc_bathy_5m_rota</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="pibhmc_bathy_5m_saipan" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/pibhmc_bathy_5m_saipan</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/pibhmc_bathy_5m_saipan</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="pibhmc_bathy_5m_tinian" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/pibhmc_bathy_5m_tinian</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/pibhmc_bathy_5m_tinian</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="pibhmc_bathy_5m_guam" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/pibhmc_bathy_5m_guam</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/pibhmc_bathy_5m_guam</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="pibhmc_bathy_5m_baker" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/pibhmc_bathy_5m_baker</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/pibhmc_bathy_5m_baker</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="pibhmc_bathy_5m_howland" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/pibhmc_bathy_5m_howland</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/pibhmc_bathy_5m_howland</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="pibhmc_bathy_5m_jarvis" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/pibhmc_bathy_5m_jarvis</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/pibhmc_bathy_5m_jarvis</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="pibhmc_bathy_5m_johnston" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/pibhmc_bathy_5m_johnston</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/pibhmc_bathy_5m_johnston</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="pibhmc_bathy_5m_kingman" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/pibhmc_bathy_5m_kingman</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/pibhmc_bathy_5m_kingman</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="pibhmc_bathy_5m_palmyra" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/pibhmc_bathy_5m_palmyra</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/pibhmc_bathy_5m_palmyra</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="pibhmc_bathy_60m_rota" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/pibhmc_bathy_60m_rota</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/pibhmc_bathy_60m_rota</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="pibhmc_bathy_60m_guam" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/pibhmc_bathy_60m_guam</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/pibhmc_bathy_60m_guam</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="hurl_bathy_60m_nwhi" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/hurl_bathy_60m_nwhi</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/hurl_bathy_60m_nwhi</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="beachcam_001" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/beachcam_001</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/beachcam_001</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="beachcam_002" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/beachcam_002</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/beachcam_002</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="beachcam_003" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/beachcam_003</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/beachcam_003</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="beachcam_004" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/beachcam_004</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/beachcam_004</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="nss_001" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/nss_001</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/nss_001</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="nss_002" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/nss_002</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/nss_002</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="nss_003" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/nss_003</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/nss_003</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="nss_004" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/nss_004</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/nss_004</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="nss_005" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/nss_005</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/nss_005</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="nss_006" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/nss_006</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/nss_006</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="nss_007" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/nss_007</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/nss_007</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="nss_008" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/nss_008</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/nss_008</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="nss_009" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/nss_009</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/nss_009</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="nss_010" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/nss_010</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/nss_010</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="nss_011" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/nss_011</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/nss_011</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="nss_012" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/nss_012</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/nss_012</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="nss_013" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/nss_013</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/nss_013</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="nss_015" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/nss_015</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/nss_015</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="nss_016" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/nss_016</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/nss_016</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="nss_cwb_001" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/nss_cwb_001</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/nss_cwb_001</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="nss_cwb_002" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/nss_cwb_002</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/nss_cwb_002</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="nss_cwb_003" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/nss_cwb_003</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/nss_cwb_003</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="nss_cwb_004" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/nss_cwb_004</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/nss_cwb_004</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sg_114_003" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/sg_114_003</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/sg_114_003</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sg_114_004" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/sg_114_004</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/sg_114_004</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sg_139_001" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/sg_139_001</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/sg_139_001</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sg_139_002" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/sg_139_002</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/sg_139_002</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sg_139_003" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/sg_139_003</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/sg_139_003</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sg_139_006" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/sg_139_006</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/sg_139_006</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sg_139_007" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/sg_139_007</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/sg_139_007</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sg_139_008" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/sg_139_008</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/sg_139_008</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sg_139_009" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/sg_139_009</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/sg_139_009</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sg_148_017" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/sg_148_017</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/sg_148_017</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sg_512_011" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/sg_512_011</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/sg_512_011</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sg_523_001" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/sg_523_001</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/sg_523_001</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sg_523_003" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/sg_523_003</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/sg_523_003</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sg_523_004" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/sg_523_004</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/sg_523_004</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sg_523_006" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/sg_523_006</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/sg_523_006</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wqb_04" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/wqb_04</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/wqb_04</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="wqb_05" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/wqb_05</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/wqb_05</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="nss_wqspp_002" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/nss_wqspp_002</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/nss_wqspp_002</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="nss_wqspp_003" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/nss_wqspp_003</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/nss_wqspp_003</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="nss_wqspp_004" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/nss_wqspp_004</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/nss_wqspp_004</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="nss_wqspp_005" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/nss_wqspp_005</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/nss_wqspp_005</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="nss_wqspp_006" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/nss_wqspp_006</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/nss_wqspp_006</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="nss_wqspp_007" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/nss_wqspp_007</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/nss_wqspp_007</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="nss_wqspp_008" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/nss_wqspp_008</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/nss_wqspp_008</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="nss_wqspp_009" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/nss_wqspp_009</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/nss_wqspp_009</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="aws_hnlpier1" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/aws_hnlpier1</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/aws_hnlpier1</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="roms_marig_ssh" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/roms_marig_ssh</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/roms_marig_ssh</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="roms_marig" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/roms_marig</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/roms_marig</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="roms_hiig_ssh" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/roms_hiig_ssh</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/roms_hiig_ssh</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="roms_hiig" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/roms_hiig</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/roms_hiig</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="roms_hiig_assim_ssh" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/roms_hiig_assim_ssh</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/roms_hiig_assim_ssh</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="roms_hiig_assim" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/roms_hiig_assim</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/roms_hiig_assim</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="roms_hiig_reanalysis_ssh" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/roms_hiig_reanalysis_ssh</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/roms_hiig_reanalysis_ssh</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="roms_hiig_reanalysis" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/roms_hiig_reanalysis</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/roms_hiig_reanalysis</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="roms_hiomsg_ssh" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/roms_hiomsg_ssh</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/roms_hiomsg_ssh</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="roms_hiomsg" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/roms_hiomsg</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/roms_hiomsg</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="roms_samoa_ssh" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/roms_samoa_ssh</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/roms_samoa_ssh</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="roms_samoa" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/roms_samoa</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/roms_samoa</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="roms_samoa_assim_ssh" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/roms_samoa_assim_ssh</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/roms_samoa_assim_ssh</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="roms_samoa_assim" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/roms_samoa_assim</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/roms_samoa_assim</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="roms_wpac_ssh" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/roms_wpac_ssh</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/roms_wpac_ssh</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="roms_wpac" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/roms_wpac</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/roms_wpac</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="roms_wpac_assim_ssh" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/roms_wpac_assim_ssh</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/roms_wpac_assim_ssh</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="roms_wpac_assim" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/roms_wpac_assim</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/roms_wpac_assim</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="infinite_float_00001_ctd" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/infinite_float_00001_ctd</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/infinite_float_00001_ctd</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="himb_shark_profiles_171406" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/himb_shark_profiles_171406</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/himb_shark_profiles_171406</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="himb_shark_profiles_171409" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/himb_shark_profiles_171409</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/himb_shark_profiles_171409</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="himb_shark_profiles_176025" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/himb_shark_profiles_176025</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/himb_shark_profiles_176025</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="himb_shark_profiles_176027" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/himb_shark_profiles_176027</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/himb_shark_profiles_176027</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="himb_shark_profiles_176028" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/himb_shark_profiles_176028</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/himb_shark_profiles_176028</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="himb_shark_profiles_176029" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/himb_shark_profiles_176029</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/himb_shark_profiles_176029</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="himb_shark_profiles_204412" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/himb_shark_profiles_204412</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/himb_shark_profiles_204412</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="himb_shark_profiles_204413" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/himb_shark_profiles_204413</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/himb_shark_profiles_204413</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="himb_shark_profiles_204414" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/himb_shark_profiles_204414</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/himb_shark_profiles_204414</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="himb_shark_profiles_204416" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/himb_shark_profiles_204416</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/himb_shark_profiles_204416</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="himb_shark_profiles_244397" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/himb_shark_profiles_244397</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/himb_shark_profiles_244397</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="himb_shark_profiles_244399" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/himb_shark_profiles_244399</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/himb_shark_profiles_244399</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="himb_shark_profiles_244400" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/himb_shark_profiles_244400</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/himb_shark_profiles_244400</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="swan_bigi" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/swan_bigi</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/swan_bigi</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="swan_bigi_lon180" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/swan_bigi_lon180</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/swan_bigi_lon180</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="swan_guam" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/swan_guam</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/swan_guam</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="swan_apra" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/swan_apra</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/swan_apra</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="swan_kauai" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/swan_kauai</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/swan_kauai</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="swan_kauai_lon180" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/swan_kauai_lon180</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/swan_kauai_lon180</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="swan_manua" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/swan_manua</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/swan_manua</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="swan_manua_lon180" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/swan_manua_lon180</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/swan_manua_lon180</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="swan_maui" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/swan_maui</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/swan_maui</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="swan_maui_lon180" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/swan_maui_lon180</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/swan_maui_lon180</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="swan_oahu" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/swan_oahu</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/swan_oahu</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="swan_oahu_lon180" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/swan_oahu_lon180</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/swan_oahu_lon180</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="swan_rota" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/swan_rota</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/swan_rota</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="swan_saipan" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/swan_saipan</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/swan_saipan</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="swan_tutuila" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/swan_tutuila</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/swan_tutuila</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="swan_tutuila_lon180" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/swan_tutuila_lon180</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/swan_tutuila_lon180</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="sopac_bathy_5m_majuro_lagoon" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/sopac_bathy_5m_majuro_lagoon</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/sopac_bathy_5m_majuro_lagoon</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="sopac_bathy_50m_majuro_reef" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/sopac_bathy_50m_majuro_reef</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/sopac_bathy_50m_majuro_reef</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="srtm30plus_v11_bathy" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/srtm30plus_v11_bathy</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/srtm30plus_v11_bathy</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="srtm30plus_v11_bathy_lon360" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/srtm30plus_v11_bathy_lon360</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/srtm30plus_v11_bathy_lon360</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="srtm30plus_v11_land" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/srtm30plus_v11_land</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/srtm30plus_v11_land</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="srtm30plus_v11_land_lon360" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/srtm30plus_v11_land_lon360</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/srtm30plus_v11_land_lon360</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="scud_pac" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/scud_pac</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/scud_pac</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="scud_pac_lon180" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/scud_pac_lon180</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/scud_pac_lon180</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="tide_pac" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/tide_pac</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/tide_pac</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="tide_pac_lon180" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/tide_pac_lon180</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/tide_pac_lon180</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="tide_pac_vel" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/tide_pac_vel</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/tide_pac_vel</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="tide_pac_vel_lon180" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/tide_pac_vel_lon180</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/tide_pac_vel_lon180</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="tide_bi" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/tide_bi</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/tide_bi</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="tide_bi_vel" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/tide_bi_vel</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/tide_bi_vel</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="tide_mhi" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/tide_mhi</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/tide_mhi</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="tide_mhi_vel" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/tide_mhi_vel</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/tide_mhi_vel</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="usgsCeSS111" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/usgsCeSS111</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/usgsCeSS111</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="usgsCeSS111_lon360" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/usgsCeSS111_lon360</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/usgsCeSS111_lon360</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="uhslc_global_daily_fast" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/uhslc_global_daily_fast</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/uhslc_global_daily_fast</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="uhslc_global_hourly_fast" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/tabledap/uhslc_global_hourly_fast</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/tabledap/uhslc_global_hourly_fast</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="usgs_dem_10m_ofuolosega" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/usgs_dem_10m_ofuolosega</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/usgs_dem_10m_ofuolosega</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="usgs_dem_10m_tau" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/usgs_dem_10m_tau</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/usgs_dem_10m_tau</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="usgs_dem_10m_tutuila" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/usgs_dem_10m_tutuila</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/usgs_dem_10m_tutuila</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="usgs_dem_10m_aguijan" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/usgs_dem_10m_aguijan</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/usgs_dem_10m_aguijan</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="usgs_dem_10m_rota" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/usgs_dem_10m_rota</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/usgs_dem_10m_rota</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="usgs_dem_10m_saipan" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/usgs_dem_10m_saipan</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/usgs_dem_10m_saipan</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="usgs_dem_10m_tinian" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/usgs_dem_10m_tinian</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/usgs_dem_10m_tinian</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="usgs_dem_10m_chuuk" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/usgs_dem_10m_chuuk</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/usgs_dem_10m_chuuk</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="usgs_dem_10m_kosrae" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/usgs_dem_10m_kosrae</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/usgs_dem_10m_kosrae</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="usgs_dem_10m_pohnpei" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/usgs_dem_10m_pohnpei</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/usgs_dem_10m_pohnpei</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="usgs_dem_10m_guam" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/usgs_dem_10m_guam</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/usgs_dem_10m_guam</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="usgs_dem_10m_bigisland" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/usgs_dem_10m_bigisland</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/usgs_dem_10m_bigisland</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="usgs_dem_10m_kahoolawe" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/usgs_dem_10m_kahoolawe</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/usgs_dem_10m_kahoolawe</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="usgs_dem_10m_kauai" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/usgs_dem_10m_kauai</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/usgs_dem_10m_kauai</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="usgs_dem_10m_lanai" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/usgs_dem_10m_lanai</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/usgs_dem_10m_lanai</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="usgs_dem_10m_maui" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/usgs_dem_10m_maui</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/usgs_dem_10m_maui</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="usgs_dem_10m_molokai" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/usgs_dem_10m_molokai</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/usgs_dem_10m_molokai</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="usgs_dem_10m_niihau" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/usgs_dem_10m_niihau</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/usgs_dem_10m_niihau</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="usgs_dem_10m_oahu" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/usgs_dem_10m_oahu</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/usgs_dem_10m_oahu</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="usgs_dem_10m_palau" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/usgs_dem_10m_palau</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/usgs_dem_10m_palau</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="ww3_global" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/ww3_global</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/ww3_global</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="ww3_global_lon180" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/ww3_global_lon180</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/ww3_global_lon180</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="ww3_hawaii" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/ww3_hawaii</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/ww3_hawaii</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="ww3_hawaii_lon180" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/ww3_hawaii_lon180</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/ww3_hawaii_lon180</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="ww3_mariana" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/ww3_mariana</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/ww3_mariana</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="ww3_nwhi" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/ww3_nwhi</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/ww3_nwhi</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="ww3_nwhi_lon180" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/ww3_nwhi_lon180</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/ww3_nwhi_lon180</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="ww3_samoa" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/ww3_samoa</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/ww3_samoa</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="ww3_samoa_lon180" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/ww3_samoa_lon180</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/ww3_samoa_lon180</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="wrf_cnmi" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/wrf_cnmi</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/wrf_cnmi</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="wrf_guam" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/wrf_guam</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/wrf_guam</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="wrf_hi" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/wrf_hi</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/wrf_hi</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="wrf_mo" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/wrf_mo</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/wrf_mo</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="wrf_oa" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/wrf_oa</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/wrf_oa</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="wrf_samoa" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/erddap/griddap/wrf_samoa</sourceUrl>
+    <sourceUrl>https://pae-paha.pacioos.hawaii.edu/erddap/griddap/wrf_samoa</sourceUrl>
 </dataset>
 
 <!--  end pacioos -->

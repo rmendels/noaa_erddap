@@ -2,472 +2,472 @@
 
 <dataset type="EDDGridFromErddap" datasetID="noaa_aoml_atlantic_oceanwatch_AFAI_1D" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/noaa_aoml_atlantic_oceanwatch_AFAI_1D</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/noaa_aoml_atlantic_oceanwatch_AFAI_1D</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="3DayGoMModisAquaK490" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/3DayGoMModisAquaK490</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/3DayGoMModisAquaK490</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="3DayGoMModisAquaRrs667" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/3DayGoMModisAquaRrs667</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/3DayGoMModisAquaRrs667</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="3DayGoMModisTerraK490" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/3DayGoMModisTerraK490</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/3DayGoMModisTerraK490</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="3DayGoMModisTerraRrs667" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/3DayGoMModisTerraRrs667</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/3DayGoMModisTerraRrs667</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="noaa_aoml_atlantic_oceanwatch_AFAI_3D" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/noaa_aoml_atlantic_oceanwatch_AFAI_3D</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/noaa_aoml_atlantic_oceanwatch_AFAI_3D</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="noaa_aoml_atlantic_oceanwatch_AFAI_7D" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/noaa_aoml_atlantic_oceanwatch_AFAI_7D</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/noaa_aoml_atlantic_oceanwatch_AFAI_7D</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="noaa_aoml_seascapes_8day" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/noaa_aoml_seascapes_8day</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/noaa_aoml_seascapes_8day</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="noaa_aoml_seascapes_8day_360" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/noaa_aoml_seascapes_8day_360</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/noaa_aoml_seascapes_8day_360</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="noaa_aoml_seascapes_8day_viirs_olci" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/noaa_aoml_seascapes_8day_viirs_olci</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/noaa_aoml_seascapes_8day_viirs_olci</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="RSS_AMSR2_AOML" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/RSS_AMSR2_AOML</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/RSS_AMSR2_AOML</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="miamiacidification" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/miamiacidification</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/miamiacidification</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="DATA_5c67_4238_ecaf" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/tabledap/DATA_5c67_4238_ecaf</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/tabledap/DATA_5c67_4238_ecaf</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="DATA_5c67_4238_ecag" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/tabledap/DATA_5c67_4238_ecag</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/tabledap/DATA_5c67_4238_ecag</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="DATA_5c67_4238_ecah" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/tabledap/DATA_5c67_4238_ecah</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/tabledap/DATA_5c67_4238_ecah</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="DATA_5c67_4238_ecal" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/tabledap/DATA_5c67_4238_ecal</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/tabledap/DATA_5c67_4238_ecal</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="ARGO_LAST_10_DAYS_LOCATIONS" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/tabledap/ARGO_LAST_10_DAYS_LOCATIONS</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/tabledap/ARGO_LAST_10_DAYS_LOCATIONS</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="miamiSSTAnomaly" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/miamiSSTAnomaly</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/miamiSSTAnomaly</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="miamiSST" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/miamiSST</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/miamiSST</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="noaacwNPPVIIRSchlaSectorVYDaily" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/noaacwNPPVIIRSchlaSectorVYDaily</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/noaacwNPPVIIRSchlaSectorVYDaily</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="CO2_SHIPS_ALL_f85d_e282_9405" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/tabledap/CO2_SHIPS_ALL_f85d_e282_9405</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/tabledap/CO2_SHIPS_ALL_f85d_e282_9405</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="noaa_aoml_7041_a3e0_5c73" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/noaa_aoml_7041_a3e0_5c73</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/noaa_aoml_7041_a3e0_5c73</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="GoMModisAquaRrs667" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/GoMModisAquaRrs667</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/GoMModisAquaRrs667</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="GoMModisTerraK490" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/GoMModisTerraK490</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/GoMModisTerraK490</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="GoMModisTerraRrs667" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/GoMModisTerraRrs667</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/GoMModisTerraRrs667</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="miamiModisAquaChlor" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/miamiModisAquaChlor</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/miamiModisAquaChlor</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="DRIFTERS_LAST_10_DAYS_LOCATIONS" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/tabledap/DRIFTERS_LAST_10_DAYS_LOCATIONS</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/tabledap/DRIFTERS_LAST_10_DAYS_LOCATIONS</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="DRIFTERS_LAST_10_DAYS_LOCATIONS_TYPE" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/tabledap/DRIFTERS_LAST_10_DAYS_LOCATIONS_TYPE</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/tabledap/DRIFTERS_LAST_10_DAYS_LOCATIONS_TYPE</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="VIIRS_SST_NRT" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/VIIRS_SST_NRT</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/VIIRS_SST_NRT</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="VIIRS_OC_NRT" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/VIIRS_OC_NRT</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/VIIRS_OC_NRT</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="VIIRS_OC_NRT_30D" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/VIIRS_OC_NRT_30D</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/VIIRS_OC_NRT_30D</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="VIIRS_OC_NRT_7D" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/VIIRS_OC_NRT_7D</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/VIIRS_OC_NRT_7D</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="aomlcarbonfluxes" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/aomlcarbonfluxes</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/aomlcarbonfluxes</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="aomlcarbonfluxes_season" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/aomlcarbonfluxes_season</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/aomlcarbonfluxes_season</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="RSS_F15SSMI_AOML" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/RSS_F15SSMI_AOML</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/RSS_F15SSMI_AOML</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="RSS_F16SSMIS_AOML" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/RSS_F16SSMIS_AOML</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/RSS_F16SSMIS_AOML</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="RSS_F17SSMIS_AOML" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/RSS_F17SSMIS_AOML</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/RSS_F17SSMIS_AOML</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="RSS_F18SSMIS_AOML" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/RSS_F18SSMIS_AOML</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/RSS_F18SSMIS_AOML</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="GLIDER_IOOS_e3be_9d42_5e92" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/tabledap/GLIDER_IOOS_e3be_9d42_5e92</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/tabledap/GLIDER_IOOS_e3be_9d42_5e92</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="GLIDERS_LAST_10_DAYS_LOCATIONS" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/tabledap/GLIDERS_LAST_10_DAYS_LOCATIONS</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/tabledap/GLIDERS_LAST_10_DAYS_LOCATIONS</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="RSS_GMI_AOML" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/RSS_GMI_AOML</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/RSS_GMI_AOML</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="goesSST" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/goesSST</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/goesSST</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="goesmsgSST" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/goesmsgSST</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/goesmsgSST</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="goes16SSThourly" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/goes16SSThourly</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/goes16SSThourly</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="noaacwNPPVIIRSkd490SectorVYDaily" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/noaacwNPPVIIRSkd490SectorVYDaily</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/noaacwNPPVIIRSkd490SectorVYDaily</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="noaacwNPPVIIRSSCIkd490SectorVYDaily" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/noaacwNPPVIIRSSCIkd490SectorVYDaily</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/noaacwNPPVIIRSSCIkd490SectorVYDaily</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="noaacwNPPVIIRSkdPARSectorVYDaily" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/noaacwNPPVIIRSkdPARSectorVYDaily</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/noaacwNPPVIIRSkdPARSectorVYDaily</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="noaacwNPPVIIRSSCIkdPARSectorVYDaily" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/noaacwNPPVIIRSSCIkdPARSectorVYDaily</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/noaacwNPPVIIRSSCIkdPARSectorVYDaily</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="ASCAT_WINDS_METOP_A_AOML" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/ASCAT_WINDS_METOP_A_AOML</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/ASCAT_WINDS_METOP_A_AOML</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="ASCAT_WINDS_METOP_B_AOML" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/ASCAT_WINDS_METOP_B_AOML</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/ASCAT_WINDS_METOP_B_AOML</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="ASCAT_WINDS_METOP_C_AOML" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/ASCAT_WINDS_METOP_C_AOML</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/ASCAT_WINDS_METOP_C_AOML</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="GoMModisAquaMonthlyClimCDOM" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/GoMModisAquaMonthlyClimCDOM</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/GoMModisAquaMonthlyClimCDOM</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="GoMModisAquaMonthlyClimCHLOR" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/GoMModisAquaMonthlyClimCHLOR</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/GoMModisAquaMonthlyClimCHLOR</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="noaa_aoml_4729_9ee6_ab54" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/noaa_aoml_4729_9ee6_ab54</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/noaa_aoml_4729_9ee6_ab54</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="noaa_aoml_4729_9ee6_ab54_360" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/noaa_aoml_4729_9ee6_ab54_360</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/noaa_aoml_4729_9ee6_ab54_360</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="noaa_aoml_4729_9ee6_ab55" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/noaa_aoml_4729_9ee6_ab55</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/noaa_aoml_4729_9ee6_ab55</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="miamidynamicheight" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/miamidynamicheight</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/miamidynamicheight</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="miamicurrents" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/miamicurrents</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/miamicurrents</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="aadcArgos" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/tabledap/aadcArgos</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/tabledap/aadcArgos</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="fishbaseObis" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/tabledap/fishbaseObis</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/tabledap/fishbaseObis</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="rutgersGombis" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/tabledap/rutgersGombis</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/tabledap/rutgersGombis</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="rutgersGhmp" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/tabledap/rutgersGhmp</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/tabledap/rutgersGhmp</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="rutgersSeamap" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/tabledap/rutgersSeamap</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/tabledap/rutgersSeamap</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="noaacwLEOACSPOSSTL3SCDaily" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/noaacwLEOACSPOSSTL3SCDaily</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/noaacwLEOACSPOSSTL3SCDaily</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="noaacwLEOACSPOSSTL3SnrtCDaily" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/noaacwLEOACSPOSSTL3SnrtCDaily</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/noaacwLEOACSPOSSTL3SnrtCDaily</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="CO2_SHIPS_ALoS" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/tabledap/CO2_SHIPS_ALoS</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/tabledap/CO2_SHIPS_ALoS</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="CO2_SHIPS_ALoS_HR" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/tabledap/CO2_SHIPS_ALoS_HR</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/tabledap/CO2_SHIPS_ALoS_HR</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="CO2_SHIPS_Flora" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/tabledap/CO2_SHIPS_Flora</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/tabledap/CO2_SHIPS_Flora</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="CO2_SHIPS_Flora_HR" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/tabledap/CO2_SHIPS_Flora_HR</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/tabledap/CO2_SHIPS_Flora_HR</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="CO2_SHIPS_EQNX" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/tabledap/CO2_SHIPS_EQNX</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/tabledap/CO2_SHIPS_EQNX</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="CO2_SHIPS_EQNX_HR" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/tabledap/CO2_SHIPS_EQNX_HR</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/tabledap/CO2_SHIPS_EQNX_HR</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="CO2_SHIPS_Sko" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/tabledap/CO2_SHIPS_Sko</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/tabledap/CO2_SHIPS_Sko</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="CO2_SHIPS_Sko_HR" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/tabledap/CO2_SHIPS_Sko_HR</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/tabledap/CO2_SHIPS_Sko_HR</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="CO2_SHIPS_Gunter" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/tabledap/CO2_SHIPS_Gunter</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/tabledap/CO2_SHIPS_Gunter</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="CO2_SHIPS_Gunter_HR" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/tabledap/CO2_SHIPS_Gunter_HR</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/tabledap/CO2_SHIPS_Gunter_HR</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="CO2_SHIPS_HBig" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/tabledap/CO2_SHIPS_HBig</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/tabledap/CO2_SHIPS_HBig</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="CO2_SHIPS_HBig_HR" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/tabledap/CO2_SHIPS_HBig_HR</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/tabledap/CO2_SHIPS_HBig_HR</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="CO2_SHIPS_RBrown" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/tabledap/CO2_SHIPS_RBrown</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/tabledap/CO2_SHIPS_RBrown</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="CO2_SHIPS_RBrown_HR" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/tabledap/CO2_SHIPS_RBrown_HR</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/tabledap/CO2_SHIPS_RBrown_HR</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="CO2_SHIPS_WSmith" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/tabledap/CO2_SHIPS_WSmith</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/tabledap/CO2_SHIPS_WSmith</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="CO2_SHIPS_WSmith_HR" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/tabledap/CO2_SHIPS_WSmith_HR</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/tabledap/CO2_SHIPS_WSmith_HR</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="ROMSMETEO" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/ROMSMETEO</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/ROMSMETEO</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="IOOSTCHPEMILY" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/IOOSTCHPEMILY</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/IOOSTCHPEMILY</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="IOOSTCHPRITA" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/IOOSTCHPRITA</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/IOOSTCHPRITA</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="IOOSTCHPWILMA" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/IOOSTCHPWILMA</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/IOOSTCHPWILMA</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="aomlTCHP" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/aomlTCHP</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/aomlTCHP</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="etopo180" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/etopo180</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/etopo180</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="etopo360" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/etopo360</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/etopo360</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="vibriorisk" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/vibriorisk</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/vibriorisk</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="cumulativevibriorisk" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/cumulativevibriorisk</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/cumulativevibriorisk</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="vibrioriskforecast" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/vibrioriskforecast</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/vibrioriskforecast</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="WOA_SAL_873e_726a_1b4d" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/WOA_SAL_873e_726a_1b4d</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/WOA_SAL_873e_726a_1b4d</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="WOA_TEMP_d48d_916b_3478" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/griddap/WOA_TEMP_d48d_916b_3478</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/griddap/WOA_TEMP_d48d_916b_3478</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="XBT_LAST_10_DAYS_LOCATIONS" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/erddap/tabledap/XBT_LAST_10_DAYS_LOCATIONS</sourceUrl>
+    <sourceUrl>https://cwcgom.aoml.noaa.gov/erddap/tabledap/XBT_LAST_10_DAYS_LOCATIONS</sourceUrl>
 </dataset>
 
 <!--  end carib gulf -->

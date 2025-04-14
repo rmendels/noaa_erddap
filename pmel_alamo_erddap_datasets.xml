@@ -2,177 +2,177 @@
 
 <dataset type="EDDTableFromErddap" datasetID="arctic_heat_alamo_profiles_11010" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/erddap/tabledap/arctic_heat_alamo_profiles_11010</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/tabledap/arctic_heat_alamo_profiles_11010</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="arctic_heat_alamo_profiles_11012" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/erddap/tabledap/arctic_heat_alamo_profiles_11012</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/tabledap/arctic_heat_alamo_profiles_11012</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="arctic_heat_alamo_profiles_11014" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/erddap/tabledap/arctic_heat_alamo_profiles_11014</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/tabledap/arctic_heat_alamo_profiles_11014</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="arctic_heat_alamo_profiles_11015" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/erddap/tabledap/arctic_heat_alamo_profiles_11015</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/tabledap/arctic_heat_alamo_profiles_11015</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="arctic_heat_alamo_profiles_11016" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/erddap/tabledap/arctic_heat_alamo_profiles_11016</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/tabledap/arctic_heat_alamo_profiles_11016</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="arctic_heat_alamo_profiles_11018" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/erddap/tabledap/arctic_heat_alamo_profiles_11018</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/tabledap/arctic_heat_alamo_profiles_11018</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="arctic_heat_alamo_profiles_9058" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/erddap/tabledap/arctic_heat_alamo_profiles_9058</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/tabledap/arctic_heat_alamo_profiles_9058</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="arctic_heat_alamo_profiles_9076" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/erddap/tabledap/arctic_heat_alamo_profiles_9076</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/tabledap/arctic_heat_alamo_profiles_9076</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="arctic_heat_alamo_profiles_9085" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/erddap/tabledap/arctic_heat_alamo_profiles_9085</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/tabledap/arctic_heat_alamo_profiles_9085</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="arctic_heat_alamo_profiles_9115" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/erddap/tabledap/arctic_heat_alamo_profiles_9115</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/tabledap/arctic_heat_alamo_profiles_9115</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="arctic_heat_alamo_profiles_9116" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/erddap/tabledap/arctic_heat_alamo_profiles_9116</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/tabledap/arctic_heat_alamo_profiles_9116</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="arctic_heat_alamo_profiles_9117" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/erddap/tabledap/arctic_heat_alamo_profiles_9117</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/tabledap/arctic_heat_alamo_profiles_9117</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="arctic_heat_alamo_profiles_9119" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/erddap/tabledap/arctic_heat_alamo_profiles_9119</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/tabledap/arctic_heat_alamo_profiles_9119</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="arctic_heat_alamo_profiles_9121" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/erddap/tabledap/arctic_heat_alamo_profiles_9121</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/tabledap/arctic_heat_alamo_profiles_9121</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="arctic_heat_alamo_profiles_9150" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/erddap/tabledap/arctic_heat_alamo_profiles_9150</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/tabledap/arctic_heat_alamo_profiles_9150</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="arctic_heat_alamo_profiles_9152" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/erddap/tabledap/arctic_heat_alamo_profiles_9152</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/tabledap/arctic_heat_alamo_profiles_9152</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="arctic_heat_alamo_profiles_9153" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/erddap/tabledap/arctic_heat_alamo_profiles_9153</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/tabledap/arctic_heat_alamo_profiles_9153</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="arctic_heat_alamo_profiles_9154" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/erddap/tabledap/arctic_heat_alamo_profiles_9154</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/tabledap/arctic_heat_alamo_profiles_9154</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="arctic_heat_alamo_profiles_9155" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/erddap/tabledap/arctic_heat_alamo_profiles_9155</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/tabledap/arctic_heat_alamo_profiles_9155</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="arctic_heat_alamo_profiles_9158" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/erddap/tabledap/arctic_heat_alamo_profiles_9158</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/tabledap/arctic_heat_alamo_profiles_9158</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="arctic_heat_alamo_profiles_9164" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/erddap/tabledap/arctic_heat_alamo_profiles_9164</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/tabledap/arctic_heat_alamo_profiles_9164</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="arctic_heat_alamo_profiles_9165" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/erddap/tabledap/arctic_heat_alamo_profiles_9165</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/tabledap/arctic_heat_alamo_profiles_9165</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="arctic_heat_alamo_profiles_9167" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/erddap/tabledap/arctic_heat_alamo_profiles_9167</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/tabledap/arctic_heat_alamo_profiles_9167</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="arctic_heat_alamo_profiles_9168" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/erddap/tabledap/arctic_heat_alamo_profiles_9168</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/tabledap/arctic_heat_alamo_profiles_9168</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="arctic_heat_alamo_profiles_9169" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/erddap/tabledap/arctic_heat_alamo_profiles_9169</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/tabledap/arctic_heat_alamo_profiles_9169</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="arctic_heat_alamo_profiles_9170" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/erddap/tabledap/arctic_heat_alamo_profiles_9170</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/tabledap/arctic_heat_alamo_profiles_9170</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="arctic_heat_alamo_profiles_9172" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/erddap/tabledap/arctic_heat_alamo_profiles_9172</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/tabledap/arctic_heat_alamo_profiles_9172</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="arctic_heat_alamo_profiles_9174" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/erddap/tabledap/arctic_heat_alamo_profiles_9174</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/tabledap/arctic_heat_alamo_profiles_9174</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="arctic_heat_alamo_profiles_9176" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/erddap/tabledap/arctic_heat_alamo_profiles_9176</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/tabledap/arctic_heat_alamo_profiles_9176</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="arctic_heat_alamo_profiles_9197" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/erddap/tabledap/arctic_heat_alamo_profiles_9197</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/tabledap/arctic_heat_alamo_profiles_9197</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="arctic_heat_alamo_profiles_9199" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/erddap/tabledap/arctic_heat_alamo_profiles_9199</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/tabledap/arctic_heat_alamo_profiles_9199</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="arctic_heat_alamo_profiles_9234" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/erddap/tabledap/arctic_heat_alamo_profiles_9234</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/tabledap/arctic_heat_alamo_profiles_9234</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="arctic_heat_alamo_profiles_9235" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/erddap/tabledap/arctic_heat_alamo_profiles_9235</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/tabledap/arctic_heat_alamo_profiles_9235</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="arctic_heat_alamo_profiles_9276" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/erddap/tabledap/arctic_heat_alamo_profiles_9276</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/tabledap/arctic_heat_alamo_profiles_9276</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="arctic_heat_alamo_profiles_9277" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/erddap/tabledap/arctic_heat_alamo_profiles_9277</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/alamo/erddap/tabledap/arctic_heat_alamo_profiles_9277</sourceUrl>
 </dataset>
 
 <!--  end pmel_alamo -->

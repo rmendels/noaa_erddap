@@ -2,1602 +2,1602 @@
 
 <dataset type="EDDTableFromErddap" datasetID="pmel_co2_moorings_e8f3_34cc_72d0" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmel_co2_moorings_e8f3_34cc_72d0</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmel_co2_moorings_e8f3_34cc_72d0</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="all_pmel_co2_moorings" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/all_pmel_co2_moorings</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/all_pmel_co2_moorings</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="arctic_heat_alamo_collection" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/arctic_heat_alamo_collection</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/arctic_heat_alamo_collection</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="argo_ohca_error" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/griddap/argo_ohca_error</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/griddap/argo_ohca_error</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="argo_ohca_rfrom" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/griddap/argo_ohca_rfrom</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/griddap/argo_ohca_rfrom</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="argo_ohca_nocycle" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/griddap/argo_ohca_nocycle</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/griddap/argo_ohca_nocycle</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="argo_rfromv21_temp" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/griddap/argo_rfromv21_temp</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/griddap/argo_rfromv21_temp</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="argo_rfromv22" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/griddap/argo_rfromv22</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/griddap/argo_rfromv22</sourceUrl>
 </dataset>
 
 <dataset type="EDDGridFromErddap" datasetID="argo_rfromv22_realtime" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/griddap/argo_rfromv22_realtime</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/griddap/argo_rfromv22_realtime</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmel_co2_moorings_ee12_e5fb_4537" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmel_co2_moorings_ee12_e5fb_4537</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmel_co2_moorings_ee12_e5fb_4537</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmel_co2_moorings_939b_fc25_57be" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmel_co2_moorings_939b_fc25_57be</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmel_co2_moorings_939b_fc25_57be</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmel_co2_moorings_e27b_9478_5078" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmel_co2_moorings_e27b_9478_5078</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmel_co2_moorings_e27b_9478_5078</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmel_co2_moorings_299e_e649_3487" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmel_co2_moorings_299e_e649_3487</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmel_co2_moorings_299e_e649_3487</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmel_co2_moorings_cb2d_135a_c444" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmel_co2_moorings_cb2d_135a_c444</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmel_co2_moorings_cb2d_135a_c444</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmel_co2_moorings_9675_b3d3_c1c1" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmel_co2_moorings_9675_b3d3_c1c1</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmel_co2_moorings_9675_b3d3_c1c1</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="CGBN_Canada" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/CGBN_Canada</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/CGBN_Canada</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="CGBN_US" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/CGBN_US</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/CGBN_US</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmel_co2_moorings_fad6_8193_8d89" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmel_co2_moorings_fad6_8193_8d89</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmel_co2_moorings_fad6_8193_8d89</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmel_co2_moorings_045c_c8bc_b1c6" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmel_co2_moorings_045c_c8bc_b1c6</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmel_co2_moorings_045c_c8bc_b1c6</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmel_co2_moorings_3e17_4ac9_c1f7" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmel_co2_moorings_3e17_4ac9_c1f7</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmel_co2_moorings_3e17_4ac9_c1f7</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmel_co2_moorings_0af7_8b89_77bd" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmel_co2_moorings_0af7_8b89_77bd</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmel_co2_moorings_0af7_8b89_77bd</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmel_co2_moorings_cf08_f32f_712a" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmel_co2_moorings_cf08_f32f_712a</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmel_co2_moorings_cf08_f32f_712a</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmel_co2_moorings_e1ef_470f_1fee" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmel_co2_moorings_e1ef_470f_1fee</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmel_co2_moorings_e1ef_470f_1fee</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmel_co2_moorings_0088_00e7_268c" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmel_co2_moorings_0088_00e7_268c</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmel_co2_moorings_0088_00e7_268c</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmel_co2_moorings_7c7e_d9cd_9495" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmel_co2_moorings_7c7e_d9cd_9495</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmel_co2_moorings_7c7e_d9cd_9495</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="weatherpak_m2" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/weatherpak_m2</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/weatherpak_m2</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="ecofoci_prawler" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/ecofoci_prawler</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/ecofoci_prawler</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="argo_eng_navis" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/argo_eng_navis</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/argo_eng_navis</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="dsg_25cb_7026_c17e" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/dsg_25cb_7026_c17e</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/dsg_25cb_7026_c17e</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmel_co2_moorings_c64b_e2bb_dc32" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmel_co2_moorings_c64b_e2bb_dc32</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmel_co2_moorings_c64b_e2bb_dc32</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="osmc_cones" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/osmc_cones</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/osmc_cones</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmel_co2_moorings_d18e_ee9f_4615" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmel_co2_moorings_d18e_ee9f_4615</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmel_co2_moorings_d18e_ee9f_4615</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="global_dms_database" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/global_dms_database</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/global_dms_database</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="glodap_arctic_v2-2021" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/glodap_arctic_v2-2021</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/glodap_arctic_v2-2021</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmel_co2_moorings_ab27_2faf_3aa1" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmel_co2_moorings_ab27_2faf_3aa1</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmel_co2_moorings_ab27_2faf_3aa1</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmel_co2_moorings_c2e7_ecb9_4565" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmel_co2_moorings_c2e7_ecb9_4565</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmel_co2_moorings_c2e7_ecb9_4565</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmel_co2_moorings_4e4c_1834_1204" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmel_co2_moorings_4e4c_1834_1204</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmel_co2_moorings_4e4c_1834_1204</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmel_co2_moorings_ba50_a09b_5565" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmel_co2_moorings_ba50_a09b_5565</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmel_co2_moorings_ba50_a09b_5565</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmel_co2_moorings_d8ff_e199_6ba0" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmel_co2_moorings_d8ff_e199_6ba0</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmel_co2_moorings_d8ff_e199_6ba0</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmel_co2_moorings_c24f_d404_46d8" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmel_co2_moorings_c24f_d404_46d8</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmel_co2_moorings_c24f_d404_46d8</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmel_co2_moorings_ec3a_a5d3_70e4" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmel_co2_moorings_ec3a_a5d3_70e4</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmel_co2_moorings_ec3a_a5d3_70e4</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmel_co2_moorings_991f_8201_6974" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmel_co2_moorings_991f_8201_6974</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmel_co2_moorings_991f_8201_6974</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmel_co2_moorings_c53b_4693_578a" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmel_co2_moorings_c53b_4693_578a</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmel_co2_moorings_c53b_4693_578a</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmel_co2_moorings_ab03_dbac_935b" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmel_co2_moorings_ab03_dbac_935b</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmel_co2_moorings_ab03_dbac_935b</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="station_barrow_submicron_chemistry" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/station_barrow_submicron_chemistry</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/station_barrow_submicron_chemistry</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="station_barrow_supermicron_chemistry" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/station_barrow_supermicron_chemistry</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/station_barrow_supermicron_chemistry</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmel_co2_moorings_87d0_7c04_27e0" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmel_co2_moorings_87d0_7c04_27e0</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmel_co2_moorings_87d0_7c04_27e0</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmel_co2_moorings_9bc0_7e75_7ae7" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmel_co2_moorings_9bc0_7e75_7ae7</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmel_co2_moorings_9bc0_7e75_7ae7</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmel_co2_moorings_47ca_cd17_f8f9" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmel_co2_moorings_47ca_cd17_f8f9</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmel_co2_moorings_47ca_cd17_f8f9</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="fisheries_2020_all" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/fisheries_2020_all</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/fisheries_2020_all</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1043" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1043</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1043</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1046" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1046</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1046</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1049" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1049</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1049</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1054" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1054</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1054</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1030_hurricane_2024" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1030_hurricane_2024</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1030_hurricane_2024</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1031_hurricane_2024" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1031_hurricane_2024</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1031_hurricane_2024</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1036_hurricane_2024" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1036_hurricane_2024</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1036_hurricane_2024</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1040_hurricane_2024" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1040_hurricane_2024</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1040_hurricane_2024</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1041_hurricane_2024" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1041_hurricane_2024</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1041_hurricane_2024</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1042_hurricane_2024" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1042_hurricane_2024</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1042_hurricane_2024</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1045_hurricane_2024" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1045_hurricane_2024</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1045_hurricane_2024</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1057_hurricane_2024" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1057_hurricane_2024</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1057_hurricane_2024</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1068_hurricane_2024" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1068_hurricane_2024</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1068_hurricane_2024</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1069_hurricane_2024" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1069_hurricane_2024</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1069_hurricane_2024</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1083_hurricane_2024" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1083_hurricane_2024</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1083_hurricane_2024</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1091_hurricane_2024" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1091_hurricane_2024</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1091_hurricane_2024</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="2020_arctic_nos_all" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/2020_arctic_nos_all</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/2020_arctic_nos_all</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1037" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1037</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1037</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1055" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1055</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1055</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1068" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1068</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1068</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1069" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1069</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1069</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1030_arctic_2021" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1030_arctic_2021</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1030_arctic_2021</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1033_arctic_2021" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1033_arctic_2021</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1033_arctic_2021</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1034_arctic_2021" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1034_arctic_2021</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1034_arctic_2021</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1067_arctic_2021" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1067_arctic_2021</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1067_arctic_2021</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1063_hake_2021" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1063_hake_2021</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1063_hake_2021</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1064_hake_2021" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1064_hake_2021</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1064_hake_2021</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="saildrone_west_coast_survey_2018" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/saildrone_west_coast_survey_2018</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/saildrone_west_coast_survey_2018</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1024_west_coast_survey_2018" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1024_west_coast_survey_2018</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1024_west_coast_survey_2018</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1025_west_coast_survey_2018" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1025_west_coast_survey_2018</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1025_west_coast_survey_2018</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1026_west_coast_survey_2018" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1026_west_coast_survey_2018</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1026_west_coast_survey_2018</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1027_west_coast_survey_2018" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1027_west_coast_survey_2018</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1027_west_coast_survey_2018</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1028_west_coast_survey_2018" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1028_west_coast_survey_2018</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1028_west_coast_survey_2018</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="saildrone_west_coast_survey_2019" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/saildrone_west_coast_survey_2019</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/saildrone_west_coast_survey_2019</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1038_west_coast_survey_2019" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1038_west_coast_survey_2019</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1038_west_coast_survey_2019</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1039_west_coast_survey_2019" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1039_west_coast_survey_2019</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1039_west_coast_survey_2019</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1040_west_coast_survey_2019" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1040_west_coast_survey_2019</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1040_west_coast_survey_2019</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1043_west_coast_survey_2019" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1043_west_coast_survey_2019</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1043_west_coast_survey_2019</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1044_west_coast_survey_2019" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1044_west_coast_survey_2019</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1044_west_coast_survey_2019</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1045_west_coast_survey_2019" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1045_west_coast_survey_2019</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1045_west_coast_survey_2019</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1046_west_coast_survey_2019" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1046_west_coast_survey_2019</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1046_west_coast_survey_2019</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1047_west_coast_survey_2019" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1047_west_coast_survey_2019</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1047_west_coast_survey_2019</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1005_2017" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1005_2017</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1005_2017</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1006_2017" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1006_2017</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1006_2017</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1005_2018" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1005_2018</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1005_2018</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1006_2018" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1006_2018</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1006_2018</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1029_2018" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1029_2018</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1029_2018</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1030_2018" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1030_2018</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1030_2018</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1066_2019" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1066_2019</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1066_2019</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1067_2019" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1067_2019</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1067_2019</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1068_2019" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1068_2019</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1068_2019</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1069_2019" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1069_2019</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1069_2019</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1065_tpos_2021" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1065_tpos_2021</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1065_tpos_2021</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1066_tpos_2021" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1066_tpos_2021</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1066_tpos_2021</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1033_tpos_2022" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1033_tpos_2022</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1033_tpos_2022</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1052_tpos_2022" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1052_tpos_2022</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1052_tpos_2022</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1030_tpos_2023" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1030_tpos_2023</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1030_tpos_2023</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1033_tpos_2023" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1033_tpos_2023</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1033_tpos_2023</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1079_tpos_2023" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1079_tpos_2023</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1079_tpos_2023</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1033_tpos_2024" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1033_tpos_2024</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1033_tpos_2024</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1090_tpos_2024" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1090_tpos_2024</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1090_tpos_2024</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="all_swfsc_2021" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/all_swfsc_2021</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/all_swfsc_2021</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1055_swfsc_2021" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1055_swfsc_2021</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1055_swfsc_2021</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1059_swfsc_2021" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1059_swfsc_2021</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1059_swfsc_2021</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="all_swfsc_2022" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/all_swfsc_2022</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/all_swfsc_2022</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1076_swfsc_2022" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1076_swfsc_2022</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1076_swfsc_2022</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1077_swfsc_2022" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1077_swfsc_2022</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1077_swfsc_2022</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="all_swfsc_2023" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/all_swfsc_2023</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/all_swfsc_2023</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1048_swfsc_2023" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1048_swfsc_2023</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1048_swfsc_2023</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1060_swfsc_2023" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1060_swfsc_2023</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1060_swfsc_2023</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1096_swfsc_2023" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1096_swfsc_2023</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1096_swfsc_2023</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1033_2019" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1033_2019</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1033_2019</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1034_2019" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1034_2019</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1034_2019</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1035_2019" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1035_2019</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1035_2019</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1036_2019" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1036_2019</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1036_2019</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1037_2019" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1037_2019</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1037_2019</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1041_2019" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1041_2019</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1041_2019</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="EC1_deepTS" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/EC1_deepTS</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/EC1_deepTS</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="IMOS_EAC_deepTS" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/IMOS_EAC_deepTS</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/IMOS_EAC_deepTS</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="IRMINGSEA1_deepTS" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/IRMINGSEA1_deepTS</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/IRMINGSEA1_deepTS</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="IRMINGSEA2_deepTS" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/IRMINGSEA2_deepTS</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/IRMINGSEA2_deepTS</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="ocs_keo_flux" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/ocs_keo_flux</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/ocs_keo_flux</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="keo_hourly" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/keo_hourly</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/keo_hourly</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="MOVE1_deepTS" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/MOVE1_deepTS</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/MOVE1_deepTS</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="MOVE2_deepTS" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/MOVE2_deepTS</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/MOVE2_deepTS</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="MOVE3_deepTS" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/MOVE3_deepTS</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/MOVE3_deepTS</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="LOCO_MOZCHANNEL_deepTS" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/LOCO_MOZCHANNEL_deepTS</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/LOCO_MOZCHANNEL_deepTS</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NOG_deepTS" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/NOG_deepTS</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/NOG_deepTS</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="NTAS_deepTS" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/NTAS_deepTS</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/NTAS_deepTS</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="PAP_deepTS" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/PAP_deepTS</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/PAP_deepTS</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="PAPA_deepTS" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/PAPA_deepTS</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/PAPA_deepTS</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="ocs_papa_flux" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/ocs_papa_flux</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/ocs_papa_flux</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="papa_hourly_psal" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/papa_hourly_psal</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/papa_hourly_psal</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="papa_hourly_temp" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/papa_hourly_temp</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/papa_hourly_temp</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pirata_hourly_psal" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pirata_hourly_psal</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pirata_hourly_psal</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pirata_hourly_temp" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pirata_hourly_temp</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pirata_hourly_temp</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="rama_hourly_psal" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/rama_hourly_psal</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/rama_hourly_psal</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="rama_hourly_temp" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/rama_hourly_temp</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/rama_hourly_temp</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="KEO_deepTS" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/KEO_deepTS</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/KEO_deepTS</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="Stratus_deepTS" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/Stratus_deepTS</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/Stratus_deepTS</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="WHOTS_deepTS" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/WHOTS_deepTS</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/WHOTS_deepTS</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="osmc_rt_60" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/osmc_rt_60</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/osmc_rt_60</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmel_co2_moorings_cba8_5413_09f9" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmel_co2_moorings_cba8_5413_09f9</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmel_co2_moorings_cba8_5413_09f9</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="ThirtyMinute_fd49_7acb_ec76" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/ThirtyMinute_fd49_7acb_ec76</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/ThirtyMinute_fd49_7acb_ec76</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="SixtyMinute_9dfb_5efd_9f8b" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/SixtyMinute_9dfb_5efd_9f8b</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/SixtyMinute_9dfb_5efd_9f8b</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="IrregularTime1_bc93_10b1_a136" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/IrregularTime1_bc93_10b1_a136</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/IrregularTime1_bc93_10b1_a136</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="IrregularTime2_c844_be06_bb63" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/IrregularTime2_c844_be06_bb63</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/IrregularTime2_c844_be06_bb63</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="ThirtyMinute_a795_d71b_a985" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/ThirtyMinute_a795_d71b_a985</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/ThirtyMinute_a795_d71b_a985</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="IrregularTime1_50e9_f815_9048" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/IrregularTime1_50e9_f815_9048</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/IrregularTime1_50e9_f815_9048</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="IrregularTime2_4e5d_cc6b_0e23" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/IrregularTime2_4e5d_cc6b_0e23</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/IrregularTime2_4e5d_cc6b_0e23</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="ThirtyMinute_bf4e_fd3f_6ac6" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/ThirtyMinute_bf4e_fd3f_6ac6</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/ThirtyMinute_bf4e_fd3f_6ac6</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="IrregularTime1_a3a3_21af_9b53" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/IrregularTime1_a3a3_21af_9b53</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/IrregularTime1_a3a3_21af_9b53</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="IrregularTime2_f8a7_e2e3_40aa" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/IrregularTime2_f8a7_e2e3_40aa</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/IrregularTime2_f8a7_e2e3_40aa</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="IrregularTime3_5ff3_35a5_3813" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/IrregularTime3_5ff3_35a5_3813</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/IrregularTime3_5ff3_35a5_3813</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="IrregularTime4_bc62_c040_8498" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/IrregularTime4_bc62_c040_8498</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/IrregularTime4_bc62_c040_8498</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="IrregularTime5_df5b_8efc_ed1c" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/IrregularTime5_df5b_8efc_ed1c</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/IrregularTime5_df5b_8efc_ed1c</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="ThirtyMinute_7524_80b2_d2e6" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/ThirtyMinute_7524_80b2_d2e6</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/ThirtyMinute_7524_80b2_d2e6</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="IrregularTime_be1e_caee_e9a7" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/IrregularTime_be1e_caee_e9a7</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/IrregularTime_be1e_caee_e9a7</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="EUREC4A_ATOMIC_RonBrown_PMEL_AOD_v1" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/EUREC4A_ATOMIC_RonBrown_PMEL_AOD_v1</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/EUREC4A_ATOMIC_RonBrown_PMEL_AOD_v1</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="EUREC4A_ATOMIC_RonBrown_PMEL_CCN_v2" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/EUREC4A_ATOMIC_RonBrown_PMEL_CCN_v2</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/EUREC4A_ATOMIC_RonBrown_PMEL_CCN_v2</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="EUREC4A_ATOMIC_RonBrown_PMEL_CN_O3_v1" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/EUREC4A_ATOMIC_RonBrown_PMEL_CN_O3_v1</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/EUREC4A_ATOMIC_RonBrown_PMEL_CN_O3_v1</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="EUREC4A_ATOMIC_RonBrown_PMEL_IC_Chem_v0" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/EUREC4A_ATOMIC_RonBrown_PMEL_IC_Chem_v0</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/EUREC4A_ATOMIC_RonBrown_PMEL_IC_Chem_v0</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="EUREC4A_ATOMIC_RonBrown_PMEL_OCEC_v0" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/EUREC4A_ATOMIC_RonBrown_PMEL_OCEC_v0</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/EUREC4A_ATOMIC_RonBrown_PMEL_OCEC_v0</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="EUREC4A_ATOMIC_RonBrown_PMEL_XRF_Chem_v1" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/EUREC4A_ATOMIC_RonBrown_PMEL_XRF_Chem_v1</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/EUREC4A_ATOMIC_RonBrown_PMEL_XRF_Chem_v1</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="EUREC4A_ATOMIC_RonBrown_PMEL_Met_Nav_v1" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/EUREC4A_ATOMIC_RonBrown_PMEL_Met_Nav_v1</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/EUREC4A_ATOMIC_RonBrown_PMEL_Met_Nav_v1</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="EUREC4A_ATOMIC_RonBrown_PMEL_Optics_v1" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/EUREC4A_ATOMIC_RonBrown_PMEL_Optics_v1</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/EUREC4A_ATOMIC_RonBrown_PMEL_Optics_v1</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="EUREC4A_ATOMIC_RonBrown_PMEL_Optics_Intensive_v0" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/EUREC4A_ATOMIC_RonBrown_PMEL_Optics_Intensive_v0</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/EUREC4A_ATOMIC_RonBrown_PMEL_Optics_Intensive_v0</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="EUREC4A_ATOMIC_RonBrown_PMEL_Radon_v0" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/EUREC4A_ATOMIC_RonBrown_PMEL_Radon_v0</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/EUREC4A_ATOMIC_RonBrown_PMEL_Radon_v0</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="EUREC4A_ATOMIC_RonBrown_PMEL_Seawater_v0" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/EUREC4A_ATOMIC_RonBrown_PMEL_Seawater_v0</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/EUREC4A_ATOMIC_RonBrown_PMEL_Seawater_v0</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="dsg_1min_8c63_f7fa_bc85" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/dsg_1min_8c63_f7fa_bc85</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/dsg_1min_8c63_f7fa_bc85</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="dsg_30min_5ad9_26f9_6ea0" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/dsg_30min_5ad9_26f9_6ea0</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/dsg_30min_5ad9_26f9_6ea0</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="dsg_5min_eccd_aae3_4ad6" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/dsg_5min_eccd_aae3_4ad6</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/dsg_5min_eccd_aae3_4ad6</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="dsg_irreg_a058_764f_fb28" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/dsg_irreg_a058_764f_fb28</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/dsg_irreg_a058_764f_fb28</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="dsg_1min_ec49_6b60_2f1c" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/dsg_1min_ec49_6b60_2f1c</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/dsg_1min_ec49_6b60_2f1c</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="dsg_5min_0da9_68d2_2ad6" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/dsg_5min_0da9_68d2_2ad6</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/dsg_5min_0da9_68d2_2ad6</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="dsg_irreg_7515_b4a4_ebb0" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/dsg_irreg_7515_b4a4_ebb0</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/dsg_irreg_7515_b4a4_ebb0</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="dsg_1min_f661_a937_c222" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/dsg_1min_f661_a937_c222</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/dsg_1min_f661_a937_c222</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="dsg_30min_4647_cba3_ffa6" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/dsg_30min_4647_cba3_ffa6</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/dsg_30min_4647_cba3_ffa6</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="dsg_5min_8998_9737_bc90" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/dsg_5min_8998_9737_bc90</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/dsg_5min_8998_9737_bc90</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="dsg_irreg_6477_422b_9c95" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/dsg_irreg_6477_422b_9c95</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/dsg_irreg_6477_422b_9c95</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="ThirtyMinute_12f5_5c4a_2df0" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/ThirtyMinute_12f5_5c4a_2df0</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/ThirtyMinute_12f5_5c4a_2df0</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="SixtyMinute_00b2_8322_7854" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/SixtyMinute_00b2_8322_7854</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/SixtyMinute_00b2_8322_7854</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="OneMinute_7f64_7bac_9820" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/OneMinute_7f64_7bac_9820</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/OneMinute_7f64_7bac_9820</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="ThirtyMinute_c679_4f10_286e" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/ThirtyMinute_c679_4f10_286e</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/ThirtyMinute_c679_4f10_286e</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="IrregularTime1_bd19_e1ae_87a1" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/IrregularTime1_bd19_e1ae_87a1</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/IrregularTime1_bd19_e1ae_87a1</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="IrregularTime2_7954_dc86_417c" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/IrregularTime2_7954_dc86_417c</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/IrregularTime2_7954_dc86_417c</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="ThirtyMinute_c79c_b5be_1659" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/ThirtyMinute_c79c_b5be_1659</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/ThirtyMinute_c79c_b5be_1659</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="IrregularTime_545d_81d7_41ae" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/IrregularTime_545d_81d7_41ae</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/IrregularTime_545d_81d7_41ae</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="OneMinute_ad3d_2135_2722" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/OneMinute_ad3d_2135_2722</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/OneMinute_ad3d_2135_2722</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="FifteenMinute_277d_92cd_36db" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/FifteenMinute_277d_92cd_36db</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/FifteenMinute_277d_92cd_36db</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="ThirtyMinute_21ab_4929_dc6f" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/ThirtyMinute_21ab_4929_dc6f</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/ThirtyMinute_21ab_4929_dc6f</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="IrregularTime1_cb7a_f5c5_9657" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/IrregularTime1_cb7a_f5c5_9657</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/IrregularTime1_cb7a_f5c5_9657</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="Irregular10Minute_6d3c_9d7e_422c" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/Irregular10Minute_6d3c_9d7e_422c</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/Irregular10Minute_6d3c_9d7e_422c</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="IrregularTime2_5a38_1a0f_ef64" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/IrregularTime2_5a38_1a0f_ef64</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/IrregularTime2_5a38_1a0f_ef64</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="OneMinute_27a2_dd41_93c8" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/OneMinute_27a2_dd41_93c8</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/OneMinute_27a2_dd41_93c8</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="OneMinute_SemiReguilar_TimeGrids_4431_a024_5ab7" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/OneMinute_SemiReguilar_TimeGrids_4431_a024_5ab7</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/OneMinute_SemiReguilar_TimeGrids_4431_a024_5ab7</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="ThirtyMinute_b51d_20ec_0f62" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/ThirtyMinute_b51d_20ec_0f62</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/ThirtyMinute_b51d_20ec_0f62</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="FiveMinute_8490_923b_f0b3" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/FiveMinute_8490_923b_f0b3</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/FiveMinute_8490_923b_f0b3</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="IrregularTime1_ffad_c628_d611" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/IrregularTime1_ffad_c628_d611</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/IrregularTime1_ffad_c628_d611</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="IrregularTime2_8154_6d1f_180a" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/IrregularTime2_8154_6d1f_180a</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/IrregularTime2_8154_6d1f_180a</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="IrregularTime3_6933_c433_b0d6" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/IrregularTime3_6933_c433_b0d6</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/IrregularTime3_6933_c433_b0d6</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="IrregularTime4_5ca5_f55a_b802" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/IrregularTime4_5ca5_f55a_b802</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/IrregularTime4_5ca5_f55a_b802</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="ThirtyMinute_e365_0cd1_96fe" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/ThirtyMinute_e365_0cd1_96fe</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/ThirtyMinute_e365_0cd1_96fe</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="SixtyMinute_40ba_fb79_0c60" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/SixtyMinute_40ba_fb79_0c60</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/SixtyMinute_40ba_fb79_0c60</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="ThirtyMinutes_ec16_487e_ab6c" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/ThirtyMinutes_ec16_487e_ab6c</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/ThirtyMinutes_ec16_487e_ab6c</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="SixtyMinutes_9dc1_88c0_c0d1" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/SixtyMinutes_9dc1_88c0_c0d1</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/SixtyMinutes_9dc1_88c0_c0d1</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="OneMinute_90cf_922d_3d6a" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/OneMinute_90cf_922d_3d6a</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/OneMinute_90cf_922d_3d6a</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="ThirtyMinute_1_f2f4_ed55_6acf" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/ThirtyMinute_1_f2f4_ed55_6acf</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/ThirtyMinute_1_f2f4_ed55_6acf</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="ThirtyMinute_2_8177_360a_8b46" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/ThirtyMinute_2_8177_360a_8b46</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/ThirtyMinute_2_8177_360a_8b46</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="FiveMinute_648a_349a_5c85" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/FiveMinute_648a_349a_5c85</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/FiveMinute_648a_349a_5c85</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="IrregularTime1_d0d3_1032_f843" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/IrregularTime1_d0d3_1032_f843</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/IrregularTime1_d0d3_1032_f843</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="IrregularTime2_25ec_cdc7_41c4" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/IrregularTime2_25ec_cdc7_41c4</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/IrregularTime2_25ec_cdc7_41c4</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="IrregularTime3_74be_a8c7_d889" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/IrregularTime3_74be_a8c7_d889</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/IrregularTime3_74be_a8c7_d889</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="IrregularTime4_8e47_aea0_8c1e" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/IrregularTime4_8e47_aea0_8c1e</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/IrregularTime4_8e47_aea0_8c1e</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="acg_tillamook2022_fvr-55_clearsky_1s" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/acg_tillamook2022_fvr-55_clearsky_1s</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/acg_tillamook2022_fvr-55_clearsky_1s</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="acg_tillamook2022_fvr-55_clearsky_30s" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/acg_tillamook2022_fvr-55_clearsky_30s</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/acg_tillamook2022_fvr-55_clearsky_30s</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="acg_tillamook2022_fvr-55_clearsky_pops_30s" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/acg_tillamook2022_fvr-55_clearsky_pops_30s</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/acg_tillamook2022_fvr-55_clearsky_pops_30s</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="acg_tillamook2022_fvr-55_cloudysky_cdp_1s" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/acg_tillamook2022_fvr-55_cloudysky_cdp_1s</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/acg_tillamook2022_fvr-55_cloudysky_cdp_1s</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="acg_tillamook2022_fvr-55_cloudysky_cdp_30s" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/acg_tillamook2022_fvr-55_cloudysky_cdp_30s</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/acg_tillamook2022_fvr-55_cloudysky_cdp_30s</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="acg_tillamook2022_fvr-55_cloudysky_1s" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/acg_tillamook2022_fvr-55_cloudysky_1s</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/acg_tillamook2022_fvr-55_cloudysky_1s</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="acg_tillamook2022_fvr-55_cloudysky_30s" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/acg_tillamook2022_fvr-55_cloudysky_30s</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/acg_tillamook2022_fvr-55_cloudysky_30s</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="acg_tillamook2022_fvr-55_cloudysky_msems_30s" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/acg_tillamook2022_fvr-55_cloudysky_msems_30s</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/acg_tillamook2022_fvr-55_cloudysky_msems_30s</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="dsg_1min_9669_ff11_e359" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/dsg_1min_9669_ff11_e359</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/dsg_1min_9669_ff11_e359</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="dsg_irreg_48d7_6be8_7216" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/dsg_irreg_48d7_6be8_7216</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/dsg_irreg_48d7_6be8_7216</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="OneMinute_769d_a006_1b8f" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/OneMinute_769d_a006_1b8f</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/OneMinute_769d_a006_1b8f</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="ThirtyMinute_0a7f_9244_3b13" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/ThirtyMinute_0a7f_9244_3b13</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/ThirtyMinute_0a7f_9244_3b13</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="IrregularTime1_236f_dc22_a3f3" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/IrregularTime1_236f_dc22_a3f3</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/IrregularTime1_236f_dc22_a3f3</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="IrregularTime2_446a_dd82_9350" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/IrregularTime2_446a_dd82_9350</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/IrregularTime2_446a_dd82_9350</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="OneMinute_e84e_e033_7754" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/OneMinute_e84e_e033_7754</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/OneMinute_e84e_e033_7754</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="FiveMinute_f8dc_f059_fa81" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/FiveMinute_f8dc_f059_fa81</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/FiveMinute_f8dc_f059_fa81</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="IrregualrTime1_a1ad_e8d1_0637" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/IrregualrTime1_a1ad_e8d1_0637</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/IrregualrTime1_a1ad_e8d1_0637</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="IrregularTime2_d9dd_ffd5_3f73" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/IrregularTime2_d9dd_ffd5_3f73</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/IrregularTime2_d9dd_ffd5_3f73</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="OneMinute_8ba4_3123_03d6" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/OneMinute_8ba4_3123_03d6</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/OneMinute_8ba4_3123_03d6</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="FifteenMinute_adc3_9a71_a363" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/FifteenMinute_adc3_9a71_a363</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/FifteenMinute_adc3_9a71_a363</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="ThirtyMinute_7282_4266_9cbd" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/ThirtyMinute_7282_4266_9cbd</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/ThirtyMinute_7282_4266_9cbd</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="FiveMinute_c4b7_7111_1249" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/FiveMinute_c4b7_7111_1249</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/FiveMinute_c4b7_7111_1249</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="IrregularTime1_01ef_92b3_6e19" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/IrregularTime1_01ef_92b3_6e19</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/IrregularTime1_01ef_92b3_6e19</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="IrregularTme2_5f4d_42e7_726a" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/IrregularTme2_5f4d_42e7_726a</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/IrregularTme2_5f4d_42e7_726a</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="IrregularTime3_a3a9_5ca8_7938" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/IrregularTime3_a3a9_5ca8_7938</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/IrregularTime3_a3a9_5ca8_7938</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="OneMinute_2c18_4366_575b" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/OneMinute_2c18_4366_575b</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/OneMinute_2c18_4366_575b</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="ThirtyMinute_2bf5_8472_db0c" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/ThirtyMinute_2bf5_8472_db0c</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/ThirtyMinute_2bf5_8472_db0c</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="FiveMinute_da6a_c9df_3fc8" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/FiveMinute_da6a_c9df_3fc8</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/FiveMinute_da6a_c9df_3fc8</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="IrregularTime2_9eee_c434_6efb" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/IrregularTime2_9eee_c434_6efb</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/IrregularTime2_9eee_c434_6efb</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="IrregularTime1_a6aa_07fb_597c" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/IrregularTime1_a6aa_07fb_597c</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/IrregularTime1_a6aa_07fb_597c</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="OneMinute_867c_8d14_9f81" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/OneMinute_867c_8d14_9f81</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/OneMinute_867c_8d14_9f81</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="ThirtyMinute_eb39_0ebc_10ce" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/ThirtyMinute_eb39_0ebc_10ce</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/ThirtyMinute_eb39_0ebc_10ce</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="FiveMinute_95d6_5344_8476" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/FiveMinute_95d6_5344_8476</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/FiveMinute_95d6_5344_8476</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="IrregularTime1_1cbd_1a9c_41c3" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/IrregularTime1_1cbd_1a9c_41c3</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/IrregularTime1_1cbd_1a9c_41c3</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="IrregualrTime2_410f_9dc3_5f65" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/IrregualrTime2_410f_9dc3_5f65</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/IrregualrTime2_410f_9dc3_5f65</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="IrregularTime3_b69c_5142_a2be" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/IrregularTime3_b69c_5142_a2be</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/IrregularTime3_b69c_5142_a2be</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="EcoFOCI_Bering_Sea_timeseries_data" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/EcoFOCI_Bering_Sea_timeseries_data</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/EcoFOCI_Bering_Sea_timeseries_data</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="ChukchiSea_454a_037a_fcf4" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/ChukchiSea_454a_037a_fcf4</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/ChukchiSea_454a_037a_fcf4</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="arcticRescueData_e5bf_cef8_3f72" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/arcticRescueData_e5bf_cef8_3f72</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/arcticRescueData_e5bf_cef8_3f72</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="dy1104_profile_data" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/dy1104_profile_data</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/dy1104_profile_data</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="dy1408_profile_data" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/dy1408_profile_data</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/dy1408_profile_data</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="mf0904_profile_data" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/mf0904_profile_data</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/mf0904_profile_data</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="Shelikof_line8_3695_0ada_d066" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/Shelikof_line8_3695_0ada_d066</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/Shelikof_line8_3695_0ada_d066</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="saildrone_2017_arctic_flux" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/saildrone_2017_arctic_flux</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/saildrone_2017_arctic_flux</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="saildrone_2018_arctic_flux" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/saildrone_2018_arctic_flux</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/saildrone_2018_arctic_flux</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="saildrone_2019_arctic_flux" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/saildrone_2019_arctic_flux</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/saildrone_2019_arctic_flux</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="saildrone_arctic_2018" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/saildrone_arctic_2018</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/saildrone_arctic_2018</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1020_adcp_arctic_2018" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1020_adcp_arctic_2018</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1020_adcp_arctic_2018</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1021_adcp_arctic_2018" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1021_adcp_arctic_2018</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1021_adcp_arctic_2018</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sd1035_adcp_arctic_2019" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sd1035_adcp_arctic_2019</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sd1035_adcp_arctic_2019</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmel_co2_moorings_fa67_c709_71e7" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmel_co2_moorings_fa67_c709_71e7</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmel_co2_moorings_fa67_c709_71e7</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="sikuliaq_2019_arctic_flux" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/sikuliaq_2019_arctic_flux</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/sikuliaq_2019_arctic_flux</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmel_co2_moorings_e348_a811_d900" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmel_co2_moorings_e348_a811_d900</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmel_co2_moorings_e348_a811_d900</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmel_co2_moorings_3b97_8e9a_3b51" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmel_co2_moorings_3b97_8e9a_3b51</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmel_co2_moorings_3b97_8e9a_3b51</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="WHOI_flux" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/WHOI_flux</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/WHOI_flux</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="tao_flux_clim_lwr_absolute" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/tao_flux_clim_lwr_absolute</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/tao_flux_clim_lwr_absolute</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="tao_flux_clim_lwr_relative" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/tao_flux_clim_lwr_relative</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/tao_flux_clim_lwr_relative</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="tao_flux_absolute" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/tao_flux_absolute</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/tao_flux_absolute</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="tao_flux_relative" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/tao_flux_relative</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/tao_flux_relative</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmelTaoDyIso" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmelTaoDyIso</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmelTaoDyIso</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmelTaoDyAirt" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmelTaoDyAirt</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmelTaoDyAirt</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmelTaoDyCur" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmelTaoDyCur</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmelTaoDyCur</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmelTaoDySst" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmelTaoDySst</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmelTaoDySst</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmelTaoDyT" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmelTaoDyT</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmelTaoDyT</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmelTaoDyW" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmelTaoDyW</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmelTaoDyW</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmelTaoDyDyn" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmelTaoDyDyn</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmelTaoDyDyn</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmelTaoDyHeat" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmelTaoDyHeat</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmelTaoDyHeat</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmelTaoDyPos" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmelTaoDyPos</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmelTaoDyPos</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmelTaoDyD" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmelTaoDyD</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmelTaoDyD</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmelTaoDyS" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmelTaoDyS</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmelTaoDyS</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmelTaoDyAdcp" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmelTaoDyAdcp</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmelTaoDyAdcp</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmelTaoDyEvap" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmelTaoDyEvap</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmelTaoDyEvap</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmelTaoDyQlat" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmelTaoDyQlat</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmelTaoDyQlat</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmelTaoDyRh" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmelTaoDyRh</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmelTaoDyRh</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmelTaoDyQsen" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmelTaoDyQsen</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmelTaoDyQsen</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmelTaoDyTau" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmelTaoDyTau</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmelTaoDyTau</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmelTaoDyRad" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmelTaoDyRad</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmelTaoDyRad</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmelTaoDySwnet" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmelTaoDySwnet</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmelTaoDySwnet</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmelTaoDySss" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmelTaoDySss</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmelTaoDySss</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmelTaoDySsd" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmelTaoDySsd</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmelTaoDySsd</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmelTaoDyEmp" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmelTaoDyEmp</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmelTaoDyEmp</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmelTaoDyRf" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmelTaoDyRf</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmelTaoDyRf</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmelTaoDyRain" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmelTaoDyRain</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmelTaoDyRain</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmelTaoDyBp" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmelTaoDyBp</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmelTaoDyBp</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmelTaoDyBf" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmelTaoDyBf</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmelTaoDyBf</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmelTaoDyLw" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmelTaoDyLw</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmelTaoDyLw</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmelTaoDyLwnet" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmelTaoDyLwnet</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmelTaoDyLwnet</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmelTaoDyQnet" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmelTaoDyQnet</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmelTaoDyQnet</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmel_co2_moorings_ca69_976d_4677" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmel_co2_moorings_ca69_976d_4677</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmel_co2_moorings_ca69_976d_4677</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmel_co2_moorings_af32_4443_213a" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmel_co2_moorings_af32_4443_213a</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmel_co2_moorings_af32_4443_213a</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmel_co2_moorings_509b_0e87_dbc3" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmel_co2_moorings_509b_0e87_dbc3</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmel_co2_moorings_509b_0e87_dbc3</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmel_co2_moorings_bf98_0a93_1a18" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmel_co2_moorings_bf98_0a93_1a18</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmel_co2_moorings_bf98_0a93_1a18</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmel_co2_moorings_c993_7f05_7d40" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmel_co2_moorings_c993_7f05_7d40</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmel_co2_moorings_c993_7f05_7d40</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmel_co2_moorings_b1d3_602a_9da4" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmel_co2_moorings_b1d3_602a_9da4</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmel_co2_moorings_b1d3_602a_9da4</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="pmel_co2_moorings_8a73_1677_822e" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/pmel_co2_moorings_8a73_1677_822e</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/pmel_co2_moorings_8a73_1677_822e</sourceUrl>
 </dataset>
 
 <dataset type="EDDTableFromErddap" datasetID="saildrone_asvco2_mode_template" active="true">
     <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/erddap/tabledap/saildrone_asvco2_mode_template</sourceUrl>
+    <sourceUrl>https://ferret.pmel.noaa.gov/pmel/erddap/tabledap/saildrone_asvco2_mode_template</sourceUrl>
 </dataset>
 
 <!--  end pmel_erddap -->
