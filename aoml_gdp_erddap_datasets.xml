@@ -35,14 +35,4 @@
     <sourceUrl>https://erddap.aoml.noaa.gov/gdp/erddap/tabledap/drifter_nonloopers</sourceUrl>
 </dataset>
 
-<dataset type="EDDTableFromErddap" datasetID="OSMC_RealTime" active="true">
-    <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.aoml.noaa.gov/gdp/erddap/tabledap/OSMC_RealTime</sourceUrl>
-</dataset>
-
-<dataset type="EDDTableFromErddap" datasetID="RAFOS_SOFAR_Floats" active="true">
-    <reloadEveryNMinutes>180</reloadEveryNMinutes>
-    <sourceUrl>https://erddap.aoml.noaa.gov/gdp/erddap/tabledap/RAFOS_SOFAR_Floats</sourceUrl>
-</dataset>
-
 <!--  end aoml -->

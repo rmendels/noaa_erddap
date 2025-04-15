@@ -15,6 +15,106 @@ Found 12 datasets unique to aoos_erddap_datasets.xml:
 11. mares_2015_move_eb03-060-15
 12. mares_2015_move_eb03-061-15
 
+============================================================
+Datasets in carib_gulf_erddap_datasets.xml but not in ioos_sensors_erddap_datasets.xml:
+============================================================
+Found 94 datasets unique to carib_gulf_erddap_datasets.xml:
+1. 3DayGoMModisAquaK490
+2. 3DayGoMModisAquaRrs667
+3. 3DayGoMModisTerraK490
+4. 3DayGoMModisTerraRrs667
+5. ARGO_LAST_10_DAYS_LOCATIONS
+6. ASCAT_WINDS_METOP_A_AOML
+7. ASCAT_WINDS_METOP_B_AOML
+8. ASCAT_WINDS_METOP_C_AOML
+9. CO2_SHIPS_ALL_f85d_e282_9405
+10. CO2_SHIPS_ALoS
+11. CO2_SHIPS_ALoS_HR
+12. CO2_SHIPS_EQNX
+13. CO2_SHIPS_EQNX_HR
+14. CO2_SHIPS_Flora
+15. CO2_SHIPS_Flora_HR
+16. CO2_SHIPS_Gunter
+17. CO2_SHIPS_Gunter_HR
+18. CO2_SHIPS_HBig
+19. CO2_SHIPS_HBig_HR
+20. CO2_SHIPS_RBrown
+21. CO2_SHIPS_RBrown_HR
+22. CO2_SHIPS_Sko
+23. CO2_SHIPS_Sko_HR
+24. CO2_SHIPS_WSmith
+25. CO2_SHIPS_WSmith_HR
+26. DATA_5c67_4238_ecaf
+27. DATA_5c67_4238_ecag
+28. DATA_5c67_4238_ecah
+29. DATA_5c67_4238_ecal
+30. DRIFTERS_LAST_10_DAYS_LOCATIONS
+31. DRIFTERS_LAST_10_DAYS_LOCATIONS_TYPE
+32. GLIDERS_LAST_10_DAYS_LOCATIONS
+33. GLIDER_IOOS_e3be_9d42_5e92
+34. GoMModisAquaMonthlyClimCDOM
+35. GoMModisAquaMonthlyClimCHLOR
+36. GoMModisAquaRrs667
+37. GoMModisTerraK490
+38. GoMModisTerraRrs667
+39. IOOSTCHPEMILY
+40. IOOSTCHPRITA
+41. IOOSTCHPWILMA
+42. ROMSMETEO
+43. RSS_AMSR2_AOML
+44. RSS_F15SSMI_AOML
+45. RSS_F16SSMIS_AOML
+46. RSS_F17SSMIS_AOML
+47. RSS_F18SSMIS_AOML
+48. RSS_GMI_AOML
+49. VIIRS_OC_NRT
+50. VIIRS_OC_NRT_30D
+51. VIIRS_OC_NRT_7D
+52. VIIRS_SST_NRT
+53. WOA_SAL_873e_726a_1b4d
+54. WOA_TEMP_d48d_916b_3478
+55. XBT_LAST_10_DAYS_LOCATIONS
+56. aadcArgos
+57. aomlTCHP
+58. aomlcarbonfluxes
+59. aomlcarbonfluxes_season
+60. cumulativevibriorisk
+61. etopo180
+62. etopo360
+63. fishbaseObis
+64. goes16SSThourly
+65. goesSST
+66. goesmsgSST
+67. miamiModisAquaChlor
+68. miamiSST
+69. miamiSSTAnomaly
+70. miamiacidification
+71. miamicurrents
+72. miamidynamicheight
+73. noaa_aoml_4729_9ee6_ab54
+74. noaa_aoml_4729_9ee6_ab54_360
+75. noaa_aoml_4729_9ee6_ab55
+76. noaa_aoml_7041_a3e0_5c73
+77. noaa_aoml_atlantic_oceanwatch_AFAI_1D
+78. noaa_aoml_atlantic_oceanwatch_AFAI_3D
+79. noaa_aoml_atlantic_oceanwatch_AFAI_7D
+80. noaa_aoml_seascapes_8day
+81. noaa_aoml_seascapes_8day_360
+82. noaa_aoml_seascapes_8day_viirs_olci
+83. noaacwLEOACSPOSSTL3SCDaily
+84. noaacwLEOACSPOSSTL3SnrtCDaily
+85. noaacwNPPVIIRSSCIkd490SectorVYDaily
+86. noaacwNPPVIIRSSCIkdPARSectorVYDaily
+87. noaacwNPPVIIRSchlaSectorVYDaily
+88. noaacwNPPVIIRSkd490SectorVYDaily
+89. noaacwNPPVIIRSkdPARSectorVYDaily
+90. rutgersGhmp
+91. rutgersGombis
+92. rutgersSeamap
+93. vibriorisk
+94. vibrioriskforecast
+
+
 
 ============================================================
 Datasets in cencoos_erddap_datasets.xml but not in ioos_sensors_erddap_datasets.xml:

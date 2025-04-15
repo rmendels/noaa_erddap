@@ -120,7 +120,8 @@ def generate_dataset_xml(dataset_id, base_url, dataset_type="grid", reload_minut
     edd_type = "EDDGridFromErddap" if dataset_type.lower() == "grid" else "EDDTableFromErddap"
     
     # Determine the appropriate dap path based on dataset type
-    dap_path = "/erddap/griddap" if dataset_type.lower() == "grid" else "/erddap/tabledap"
+    #dap_path = "/erddap/griddap" if dataset_type.lower() == "grid" else "/erddap/tabledap"
+    dap_path = "/griddap" if dataset_type.lower() == "grid" else "/tabledap"
     
     # XML template with placeholders
     template = f"""<dataset type="{edd_type}" datasetID="{safe_dataset_id}" active="true">
