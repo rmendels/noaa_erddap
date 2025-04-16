@@ -1,4 +1,19 @@
 ============================================================
+Datasets in aoml_gdp_erddap_datasets.xml but not in ioos_sensors_erddap_datasets.xml:
+============================================================
+Found 9 datasets unique to aoml_gdp_erddap_datasets.xml:
+1. OSMC_RealTime
+2. RAFOS_SOFAR_Floats
+3. drifter_6hour_qc
+4. drifter_annualmeans
+5. drifter_currentvariance
+6. drifter_hourly_qc
+7. drifter_loopers
+8. drifter_monthlymeans
+9. drifter_nonloopers
+
+
+============================================================
 Datasets in aoos_erddap_datasets.xml but not in ioos_sensors_erddap_datasets.xml:
 ============================================================
 Found 12 datasets unique to aoos_erddap_datasets.xml:
