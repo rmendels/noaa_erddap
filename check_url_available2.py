@@ -3,22 +3,43 @@ import requests
 import xml.etree.ElementTree as ET
 from urllib.parse import urlparse
 
-def check_url_availability(url):
+def check_url_availability(url, max_attempts=3, retry_delay=2):
     """
-    Test if a URL is reachable
+    Test if a URL is reachable using a HEAD request with multiple retry attempts
     
     Args:
         url (str): URL to test
+        max_attempts (int): Maximum number of attempts before giving up
+        retry_delay (int): Seconds to wait between retry attempts
         
     Returns:
         bool: True if URL is reachable, False otherwise
     """
-    try:
-        #response = requests.get(url, timeout=20)
-        response = requests.head(url, timeout=20)
-        return response.status_code == 200
-    except requests.RequestException:
-        return False
+    import time
+    
+    for attempt in range(1, max_attempts + 1):
+        try:
+            response = requests.head(url, timeout=20)
+            if response.status_code == 200:
+                return True
+            # If we get a response but it's not 200, no need to retry
+            elif attempt == max_attempts:
+                print(f"  Attempt {attempt}/{max_attempts}: Failed with status code {response.status_code}")
+                return False
+            else:
+                print(f"  Attempt {attempt}/{max_attempts}: Failed with status code {response.status_code}, retrying...")
+        except requests.RequestException as e:
+            if attempt == max_attempts:
+                print(f"  Attempt {attempt}/{max_attempts}: Failed with error: {str(e)}")
+                return False
+            else:
+                print(f"  Attempt {attempt}/{max_attempts}: Failed with error: {str(e)}, retrying...")
+        
+        # Wait before retrying
+        if attempt < max_attempts:
+            time.sleep(retry_delay)
+    
+    return False
 
 def process_file(input_file_path, output_file_path):
     """
@@ -53,11 +74,11 @@ def process_file(input_file_path, output_file_path):
             output_file.write(f"{test_url},{is_accessible}\n")
             
             # Print result to console
-            print(f"Testing: {test_url} - {'Accessible' if is_accessible else 'Not accessible'}")
+            print(f"Tested: {test_url} - {'Accessible' if is_accessible else 'Not accessible'}")
 
 if __name__ == "__main__":
     # File paths
-    input_file = "noaa_combined.xml"  # Replace with your input file path
+    input_file = "datasets.xml"  # Replace with your input file path
     output_file = "url_test_results.csv"  # Output file path
     
     # Process the file
