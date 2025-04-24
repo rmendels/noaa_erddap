@@ -44,7 +44,8 @@ def process_file(input_file_path, output_file_path):
         # Process each URL
         for url in source_urls:
             # Append .html to the URL
-            test_url = url + ".html"
+            #test_url = url + ".html"
+            test_url = url + ".das"
             
             # Test if the URL is reachable
             is_accessible = check_url_availability(test_url)

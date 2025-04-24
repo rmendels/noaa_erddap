@@ -198,9 +198,10 @@ def main():
     #erddap_url = 'https://oos.soest.hawaii.edu/erddap
     #erddap_url = "https://pae-paha.pacioos.hawaii.edu/erddap"
     #erddap_url = "https://oceanview.pfeg.noaa.gov/erddap"
-    erddap_url = "https://erddap.aoos.org/erddap"
-    output_file = "aoos_erddap_datasets.xml"
-    reload_minutes = 180
+    # erddap_url = "https://erddap.aoos.org/erddap"
+    erddap_url = "https://atn.ioos.us/erddap"
+    output_file = "atn_erddap_datasets.xml"
+    reload_minutes = 1440
     debug = True  # Enable debug mode
     
     print(f"Extracting datasets from {erddap_url}")

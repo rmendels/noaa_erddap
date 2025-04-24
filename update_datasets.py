@@ -29,8 +29,8 @@ def update_dataset_status(xml_file_path, dataset_ids_file_path, output_file_path
 # Example usage
 if __name__ == "__main__":
     # Replace these paths with your actual file paths
-    xml_file_path = "input.xml"
-    dataset_ids_file_path = "dataset_ids.txt"
+    xml_file_path = "noaa_combined.xml"
+    dataset_ids_file_path = "unreachable.txt"
     output_file_path = "updated.xml"
     
     update_dataset_status(xml_file_path, dataset_ids_file_path, output_file_path)

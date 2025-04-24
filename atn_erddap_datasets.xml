@@ -1,0 +1,13 @@
+<!--  start atn datasets -->
+
+<dataset type="EDDTableFromErddap" datasetID="ioos_atn_contacts" active="true">
+    <reloadEveryNMinutes>1440</reloadEveryNMinutes>
+    <sourceUrl>https://atn.ioos.us/erddap/tabledap/ioos_atn_contacts</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="stanford_import_ssm_public" active="true">
+    <reloadEveryNMinutes>1440</reloadEveryNMinutes>
+    <sourceUrl>https://atn.ioos.us/erddap/tabledap/stanford_import_ssm_public</sourceUrl>
+</dataset>
+
+<!--  end atn datasets -->
