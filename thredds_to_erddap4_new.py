@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
 """
-THREDDS to ERDDAP Converter (DAS Version - Multithreaded)
+THREDDS to ERDDAP Converter (DAS Version - All Datasets)
 
 This script traverses a THREDDS Data Server (TDS) catalog, extracts ALL datasets and their metadata
 using OPeNDAP DAS responses, and formats them for use with ERDDAP's EDDGridFromDap datatype.
 
 Supports both THREDDS 4 and THREDDS 5 catalog structures.
 Uses multithreading for improved performance.
-Processes ALL datasets by default (both aggregated and individual time slices).
-Fixed URL handling for PSL NOAA and other servers.
+Processes ALL datasets by default.
+Fixed URL handling for PSL NOAA servers.
 
 Usage:
     python thredds_to_erddap_das.py --url https://coastwatch.noaa.gov/thredds/catalog.xml --output erddap_datasets.xml
@@ -107,6 +107,10 @@ def detect_thredds_version(base_url, verbose=False):
     log("Defaulting to THREDDS version 4", verbose)
     return 4
 
+def is_psl_site(url):
+    """Check if this is a PSL NOAA site that requires special URL handling"""
+    return "psl.noaa.gov" in url
+
 def fetch_catalog(url, thredds_version=4, verbose=False):
     """Fetch and parse a THREDDS catalog from a URL"""
     log(f"Fetching catalog: {url}", verbose)
@@ -145,23 +149,23 @@ def is_time_specific_dataset(name):
     return False
 
 def construct_opendap_url(base_url, url_path, thredds_version=4):
-    """Safely construct an OPeNDAP URL to avoid path duplication"""
-    # Handle PSL and similar sites with URL path duplication issues
-    if "psl.noaa.gov" in base_url:
-        # Extract the server base URL
+    """Construct OPeNDAP URL properly based on server type"""
+    # Special handling for PSL NOAA sites
+    if is_psl_site(base_url):
+        # Extract the hostname and scheme
         parsed = urlparse(base_url)
         server_base = f"{parsed.scheme}://{parsed.netloc}"
         
-        # Create the OPeNDAP URL with the correct path
-        return f"{server_base}/thredds/dodsC/{url_path}"
-    
-    # Standard URL construction
-    if '/thredds/catalog/' in base_url:
-        # Convert catalog URL to OPeNDAP URL
-        opendap_base = base_url.replace('/catalog/', '/dodsC/')
-        return urljoin(opendap_base, url_path)
+        # Create direct OPeNDAP URL without any path duplication
+        opendap_url = f"{server_base}/thredds/dodsC/{url_path}"
+        return opendap_url
+        
+    # Standard URL construction for other sites
+    if thredds_version == 5:
+        # THREDDS 5 typically uses /thredds/dodsC/
+        return urljoin(base_url.replace('/catalog/', '/dodsC/'), url_path)
     else:
-        # Regular URL join for other cases
+        # THREDDS 4 URL construction
         return urljoin(base_url, url_path)
 
 def extract_datasets(catalog, base_url, thredds_version=4, filter_time_specific=False, verbose=False):
@@ -198,7 +202,7 @@ def extract_datasets(catalog, base_url, thredds_version=4, filter_time_specific=
             if service_type.lower() in ['opendap', 'dods']:
                 url_path = access.get('urlPath', '')
                 if url_path:
-                    # Use improved URL construction to avoid duplication
+                    # Use improved URL construction function
                     opendap_url = construct_opendap_url(base_url, url_path, thredds_version)
                     break
         
@@ -206,7 +210,7 @@ def extract_datasets(catalog, base_url, thredds_version=4, filter_time_specific=
             url_path = dataset_elem['urlPath']
             for service_name, service_type in services.items():
                 if service_type.lower() in ['opendap', 'dods']:
-                    # Use improved URL construction to avoid duplication
+                    # Use improved URL construction function
                     opendap_url = construct_opendap_url(base_url, url_path, thredds_version)
                     break
         
@@ -524,3 +528,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
