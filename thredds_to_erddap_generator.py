@@ -390,11 +390,9 @@ def create_erddap_generator_script(datasets, output_file, erddap_tools_path,
             elif dataset_id_prefix:
                 dataset_id = dataset_id_prefix + dataset_id
                 
-            # Create the command
-            command = (f"\"$ERDDAP_TOOLS/GenerateDatasetsXml.sh "
-                     f"-baseUrl '{url}' "
-                     f"-datasetID '{dataset_id}' "
-                     f"-reloadEveryNMinutes {reload_minutes}\"")
+            # Create the command with direct command-line arguments
+            # Format: GenerateDatasetsXml.sh EDDGridFromDap URL ReloadEveryNMinutes
+            command = f"\"$ERDDAP_TOOLS/GenerateDatasetsXml.sh EDDGridFromDap '{url}' {reload_minutes}\""
             
             f.write(f"  {command}\n")
         
@@ -445,3 +443,4 @@ def main():
 
 if __name__ == "__main__":
     exit(main())
+    

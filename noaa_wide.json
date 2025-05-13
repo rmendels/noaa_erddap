@@ -1,0 +1,92 @@
+[
+  {
+    "url":  "https://coastwatch.pfeg.noaa.gov/erddap/"
+  },
+  {
+    "url":  "https://polarwatch.noaa.gov/erddap/"
+  },
+  {
+    "url":  "https://coastwatch.noaa.gov/erddap/"
+  },
+  {
+    "url":  "https://erddap.cencoos.org/erddap/"
+  },
+  {
+    "url":  "https://erddap.sccoos.org/erddap/"
+  },
+  {
+    "url":  "https://erddap.sensors.ioos.us/erddap/"
+  },
+  {
+    "url":  "https://cwcgom.aoml.noaa.gov/erddap/"
+  },
+  {
+    "url":  "https://oceanwatch.pifsc.noaa.gov/erddap/"
+  },
+  {
+    "url":  "https://www.ncei.noaa.gov/erddap/"
+  },
+  {
+    "url":  "https://osmc.noaa.gov/erddap/"
+  },
+  {
+    "url":  "https://apps.glerl.noaa.gov/erddap/"
+  },
+  {
+    "url":  "https://ferret.pmel.noaa.gov/pmel/erddap/"
+  },
+  {
+    "url":  "https://erddap.aoml.noaa.gov/gdp/erddap/"
+  },
+  {
+    "url":  "https://comet.nefsc.noaa.gov/erddap/"
+  },
+  {
+    "url":  "https://ferret.pmel.noaa.gov/alamo/erddap/"
+  },
+  {
+    "url":  "https://ferret.pmel.noaa.gov/socat/erddap/"
+  },
+  {
+    "url":  "https://pub-data.diver.orr.noaa.gov/erddap/"
+  },
+  {
+    "url":  "https://gliders.ioos.us/erddap/"
+  },
+  {
+    "url":  "https://erddap.nanoos.org/erddap/"
+  },
+  {
+    "url":  "https://www.neracoos.org/erddap/"
+  },
+  {
+    "url":  "https://erddap.maracoos.org/erddap/"
+  },
+  {
+    "url":  "https://erddap.secoora.org/erddap/"
+  },
+  {
+    "url":  "https://seagull-erddap.glos.org/erddap/"
+  },
+  {
+    "url":  "https://erddap.gcoos.org/erddap/"
+  },
+  {
+    "url":  "https://gcoos5.geos.tamu.edu/erddap/"
+  },
+  {
+    "url":  "https://data.neracoos.org/erddap/"
+  },
+  {
+    "url":  "https://apdrc.soest.hawaii.edu/erddap//"
+  },
+  {
+    "url":  "https://pae-paha.pacioos.hawaii.edu/erddap/"
+  },
+  {
+    "url":  "https://oceanview.pfeg.noaa.gov/erddap/"
+  },
+  {
+    "url":  "https://erddap.aoos.org/erddap/"
+  }
+]
