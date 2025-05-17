@@ -1,137 +1,114 @@
-import re
+import json
 import requests
-import concurrent.futures
 import time
 from urllib.parse import urlparse
-from tenacity import retry, stop_after_attempt, wait_fixed
+import os
 
-def create_url_checker(retry_count=3, retry_delay=2):
-    """
-    Create a URL checking function with retry capabilities
-    
-    Args:
-        retry_count (int): Number of times to retry failed requests
-        retry_delay (int): Seconds to wait between retries
-        
-    Returns:
-        function: Decorated check_url_availability function
-    """
-    @retry(
-        stop=stop_after_attempt(retry_count),
-        wait=wait_fixed(retry_delay)
-    )
-    def check_url_availability_with_retry(url):
-        """
-        Test if a URL is reachable (will be retried if it fails)
-        
-        Args:
-            url (str): URL to test
+def check_url_availability(url, max_retries=3, retry_delay=2, timeout=10):
+    """Test if a URL is reachable with retries."""
+    for attempt in range(max_retries):
+        try:
+            response = requests.head(url, timeout=timeout)
+            if 200 <= response.status_code < 300:
+                return True
             
-        Returns:
-            bool: True if URL is reachable, False otherwise
-        """
-        response = requests.head(url, timeout=20)
-        # Raise an exception if status code is not 200 to trigger retry
-        if response.status_code != 200:
-            raise requests.exceptions.HTTPError(f"Status code: {response.status_code}")
-        return True
+            # If status code indicates a problem and we have retries left
+            if attempt < max_retries - 1:
+                print(f"Attempt {attempt+1} failed for {url}: Status code {response.status_code}. Retrying...")
+                time.sleep(retry_delay)
+            else:
+                print(f"All attempts failed for {url}: Status code {response.status_code}")
+                return False
+                
+        except requests.exceptions.RequestException as e:
+            if attempt < max_retries - 1:
+                print(f"Attempt {attempt+1} failed for {url}: {str(e)}. Retrying...")
+                time.sleep(retry_delay)
+            else:
+                print(f"All attempts failed for {url}: {str(e)}")
+                return False
     
-    return check_url_availability_with_retry
+    return False
 
-def check_url_availability(url, sleep_time=0, retry_count=3, retry_delay=2):
+def determine_dataset_type(url):
     """
-    Test if a URL is reachable with retries
+    Determine if the URL is for a griddap or tabledap dataset.
     
     Args:
-        url (str): URL to test
-        sleep_time (float): Time to sleep after checking URL in seconds
-        retry_count (int): Number of times to retry failed requests
-        retry_delay (int): Seconds to wait between retries
+        url (str): The base URL to check
         
     Returns:
-        tuple: (url, bool) where bool is True if URL is reachable, False otherwise
+        str: "griddap" or "tabledap" depending on URL structure
     """
-    # Create a retry-enabled check function with the specified parameters
-    check_func = create_url_checker(retry_count, retry_delay)
+    # Check if the URL contains griddap or tabledap
+    if "/griddap/" in url:
+        return "griddap"
+    elif "/tabledap/" in url:
+        return "tabledap"
+    else:
+        # Default to griddap if can't determine
+        print(f"Could not determine dataset type for {url}, defaulting to griddap")
+        return "griddap"
+
+def test_url_with_appropriate_endpoint(url):
+    """
+    Test a URL with the appropriate endpoint based on dataset type.
+    
+    Args:
+        url (str): The base URL to test
+        
+    Returns:
+        tuple: (url, endpoint_url, success) 
+    """
+    dataset_type = determine_dataset_type(url)
+    
+    if dataset_type == "griddap":
+        endpoint_url = f"{url}.das"
+    else:  # tabledap
+        endpoint_url = f"{url}.nccsvMetadata"
+    
+    success = check_url_availability(endpoint_url)
+    return (url, endpoint_url, success)
+
+def main():
+    file_path = "test.json"
+    
+    # Check if file exists
+    if not os.path.exists(file_path):
+        print(f"File not found: {file_path}")
+        return
     
     try:
-        # Attempt to check the URL with retries
-        check_func(url)
-        result = (url, True)
-    except Exception as e:
-        # If all retries fail, mark as not accessible
-        print(f"All retries failed for {url}: {e}")
-        result = (url, False)
-    
-    # Sleep for the specified time
-    if sleep_time > 0:
-        time.sleep(sleep_time)
-        
-    return result
-
-def process_file(input_file_path, output_file_path, max_workers=None, sleep_time=0, retry_count=3, retry_delay=2):
-    """
-    Process the input file to extract sourceUrls, test them concurrently, and write results to output file
-    
-    Args:
-        input_file_path (str): Path to the input file
-        output_file_path (str): Path to the output file
-        max_workers (int, optional): Maximum number of worker processes. Default is None (uses CPU count)
-        sleep_time (float, optional): Time to sleep between URL checks in seconds. Default is 0
-        retry_count (int, optional): Number of times to retry failed requests. Default is 3
-        retry_delay (int, optional): Seconds to wait between retries. Default is 2
-    """
-    # Read the input file
-    with open(input_file_path, 'r') as file:
-        content = file.read()
-    
-    # Find all sourceUrl elements using regex
-    source_url_pattern = r'<sourceUrl>(.*?)</sourceUrl>'
-    source_urls = re.findall(source_url_pattern, content)
-    
-    # Create list of URLs to test
-    test_urls = [url + ".das" for url in source_urls]
-    
-    # Process URLs concurrently
-    results = []
-    with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
-        # Submit all tasks and map them to their corresponding futures
-        future_to_url = {
-            executor.submit(check_url_availability, url, sleep_time, retry_count, retry_delay): url 
-            for url in test_urls
-        }
-        
-        # Process results as they complete
-        for future in concurrent.futures.as_completed(future_to_url):
-            url = future_to_url[future]
+        # Read and parse the JSON file
+        with open(file_path, 'r', encoding='utf-8') as file:
             try:
-                result = future.result()
-                results.append(result)
-                print(f"Testing: {result[0]} - {'Accessible' if result[1] else 'Not accessible'}")
-            except Exception as exc:
-                print(f"{url} generated an exception: {exc}")
-                results.append((url, False))
+                data = json.load(file)
+            except json.JSONDecodeError as json_err:
+                print(f"JSON parsing error: {json_err}")
+                return
+        
+        # Validate data structure
+        if not isinstance(data, list):
+            print("Error: Expected JSON array at the root level. Found:", type(data).__name__)
+            return
+            
+        # Test each URL
+        print("Testing URLs...")
+        for i, entry in enumerate(data):
+            if not isinstance(entry, dict) or "url" not in entry:
+                print(f"Error: Item {i} is invalid or missing 'url' key")
+                continue
+                
+            url = entry["url"]
+            base_url, endpoint_url, success = test_url_with_appropriate_endpoint(url)
+            result = "Success" if success else "Failure"
+            print(f"URL: {base_url}")
+            print(f"Tested: {endpoint_url}")
+            print(f"Result: {result}")
+            print("-" * 50)
     
-    # Write results to output file
-    with open(output_file_path, 'w') as output_file:
-        output_file.write("URL,Accessible\n")  # CSV header
-        for url, is_accessible in results:
-            output_file.write(f"{url},{is_accessible}\n")
+    except Exception as e:
+        print(f"An unexpected error occurred: {str(e)}")
 
 if __name__ == "__main__":
-    # File paths
-    input_file = "noaa_combined.xml"  # Replace with your input file path
-    output_file = "url_test_results.csv"  # Output file path
-    
-    # Process the file with 10 workers, 0.5 second sleep between checks, 
-    # 3 retries with 2 seconds between retries
-    process_file(
-        input_file, 
-        output_file, 
-        max_workers=10, 
-        sleep_time=0.5,
-        retry_count=3,
-        retry_delay=2
-    )
-    print(f"Results written to {output_file}")
-    
+    main()
