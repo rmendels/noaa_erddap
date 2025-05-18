@@ -91,7 +91,7 @@
   },
   {
 		"name": "NOAA IOOS GCOOS (Gulf of America Coastal Ocean Observing System)",
-		"short_name": "GCOO4-TAMU",
+		"short_name": "GCOOS-TAMU",
         "url":  "https://erddap.gcoos.org/erddap/",
 		"public": true
   },
@@ -153,7 +153,7 @@
   {
 		"name": "NOAA PMEL (Pacific Marine Environmental Laboratory)",
 		"short_name": "PMEL",
-		"url": "https://ferret.pmel.noaa.gov/pmel/erddap",
+		"url": "https://data.pmel.noaa.gov/pmel/erddap",
 		"public": true
   },
   {
@@ -197,5 +197,11 @@
 		"short_name": "NOAA Oceanview",
 		"url": "https://oceanview.pfeg.noaa.gov/erddap/",
 		"public": true
-  }
+  },
+      {
+        "name": "NOAA's Center for Operational Oceanographic Products and Services",
+        "short_name": "COOPS-NOS",
+        "url": "https://opendap.co-ops.nos.noaa.gov/erddap/",
+        "public": true
+    }
 ]
