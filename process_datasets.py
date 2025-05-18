@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # ERDDAP Dataset XML Generator Script
 # Auto-generated from THREDDS catalog
-# Generated on: 2025-05-15 15:47:18
+# Generated on: 2025-05-18 13:23:08
 
 import os
 import sys
@@ -55,11 +55,11 @@ def process_dataset(name, url, dataset_id, reload_minutes):
 
 # Dataset definitions
 datasets = [
+    ("CPC US Precipitation", "https://psl.noaa.gov/thredds/dodsC/Aggregations/CPC_US_precip/precip.V1.0.nc", "AggroCPCprecip", 10080),
     ("NOAA Daily 1/4 degree OISST Mean", "https://psl.noaa.gov/thredds/dodsC/Aggregations/OISSThires/sst.mean.nc", "SST_OISST_V2_HighRes_Mean", 10080),
     ("NOAA Daily 1/4 degree OISST Anomaly", "https://psl.noaa.gov/thredds/dodsC/Aggregations/OISSThires/sst.anom.nc", "SST_OISST_V2_HighRes_Anom", 10080),
     ("NOAA Daily 1/4 degree OISST Sea Ice", "https://psl.noaa.gov/thredds/dodsC/Aggregations/OISSThires/icec.mean.nc", "ICEC_OISST_V2_HighRes", 10080),
     ("NOAA Daily 1/4 degree OISST Errors", "https://psl.noaa.gov/thredds/dodsC/Aggregations/OISSThires/sst.err.nc", "ERR_OISST_V2_HighRes_Err", 10080),
-    ("CPC US Precipitation", "https://psl.noaa.gov/thredds/dodsC/Aggregations/CPC_US_precip/precip.V1.0.nc", "AggroCPCprecip", 10080),
     ("GODAS dbss_obil", "https://psl.noaa.gov/thredds/dodsC/Aggregations/godas/dbss_obil.nc", "AggroGODASobil", 10080),
     ("GODAS dbss_obml", "https://psl.noaa.gov/thredds/dodsC/Aggregations/godas/dbss_obml.nc", "AggroGODASobml", 10080),
     ("GODAS dzdt", "https://psl.noaa.gov/thredds/dodsC/Aggregations/godas/dzdt.nc", "AggroGODASdzdt", 10080),
@@ -81,6 +81,17 @@ datasets = [
     ("R1 pressure level Vertical Velocity", "https://psl.noaa.gov/thredds/dodsC/Aggregations/ncep.reanalysis/pressure/omega.nc", "AggroSampleO", 10080),
     ("R1 pressure level U-wind", "https://psl.noaa.gov/thredds/dodsC/Aggregations/ncep.reanalysis/pressure/uwnd.nc", "AggroSampleU", 10080),
     ("R1 pressure level V-wind", "https://psl.noaa.gov/thredds/dodsC/Aggregations/ncep.reanalysis/pressure/vwnd.nc", "AggroSampleV", 10080),
+    ("R1 Precipitable Water EATM", "https://psl.noaa.gov/thredds/dodsC/Aggregations/ncep.reanalysis/surface/pr_wtr.eatm.nc", "AggroSampleR1PW", 10080),
+    ("R1 Sea Level Pressure", "https://psl.noaa.gov/thredds/dodsC/Aggregations/ncep.reanalysis/surface/slp.nc", "AggroSampleR1SLP", 10080),
+    ("R1 Surface Pressure", "https://psl.noaa.gov/thredds/dodsC/Aggregations/ncep.reanalysis/surface/pres.sfc.nc", "AggroSampleR1SRFP", 10080),
+    ("R1 Sigma 0.995 Temperature", "https://psl.noaa.gov/thredds/dodsC/Aggregations/ncep.reanalysis/surface/air.sig995.nc", "AggroSampleR1SIG995T", 10080),
+    ("R1 Sigma 0.995 Omega", "https://psl.noaa.gov/thredds/dodsC/Aggregations/ncep.reanalysis/surface/omega.sig995.nc", "AggroSampleR1SIG995W", 10080),
+    ("R1 Sigma 0.995 Potential Temperature", "https://psl.noaa.gov/thredds/dodsC/Aggregations/ncep.reanalysis/surface/pottmp.sig995.nc", "AggroSampleR1SIG995PT", 10080),
+    ("R1 Sigma 0.995 Relative Humidity", "https://psl.noaa.gov/thredds/dodsC/Aggregations/ncep.reanalysis/surface/rhum.sig995.nc", "AggroSampleR1SIG995RH", 10080),
+    ("R1 Sigma 0.995 U-wind", "https://psl.noaa.gov/thredds/dodsC/Aggregations/ncep.reanalysis/surface/uwnd.sig995.nc", "AggroSampleR1SIG995U", 10080),
+    ("R1 Sigma 0.995 V-wind", "https://psl.noaa.gov/thredds/dodsC/Aggregations/ncep.reanalysis/surface/vwnd.sig995.nc", "AggroSampleR1SIG995V", 10080),
+    ("R1 Surface Lifting Index", "https://psl.noaa.gov/thredds/dodsC/Aggregations/ncep.reanalysis/surface/lftx.sfc.nc", "AggroSampleR1SIG995LFTX", 10080),
+    ("R1 Surface 4-layer Lifting Index", "https://psl.noaa.gov/thredds/dodsC/Aggregations/ncep.reanalysis/surface/lftx4.sfc.nc", "AggroSampleR1SIG995LFTX4", 10080),
     ("R1 Upward Longwave Radiation NTAT", "https://psl.noaa.gov/thredds/dodsC/Aggregations/ncep.reanalysis/other_gauss/ulwrf.ntat.gauss.nc", "AggroSampleR1OLR", 10080),
     ("R1 Clear Sky Upward Longwave Radiation NTAT", "https://psl.noaa.gov/thredds/dodsC/Aggregations/ncep.reanalysis/other_gauss/csulf.ntat.gauss.nc", "AggroSampleR1CSULFN", 10080),
     ("R1 Clear Sky Upward Shortwave Radiation NTAT", "https://psl.noaa.gov/thredds/dodsC/Aggregations/ncep.reanalysis/other_gauss/csusf.ntat.gauss.nc", "AggroSampleR1CSUSFN", 10080),
@@ -93,17 +104,6 @@ datasets = [
     ("R1 Pressure Middle Cloud Top", "https://psl.noaa.gov/thredds/dodsC/Aggregations/ncep.reanalysis/other_gauss/pres.mct.gauss.nc", "AggroSampleR1PRSMCT", 10080),
     ("R1 Total Clouds Entire Atmosphere", "https://psl.noaa.gov/thredds/dodsC/Aggregations/ncep.reanalysis/other_gauss/tcdc.eatm.gauss.nc", "AggroSampleR1TCDC", 10080),
     ("R1 Upward Shortwave Radiation NTAT", "https://psl.noaa.gov/thredds/dodsC/Aggregations/ncep.reanalysis/other_gauss/uswrf.ntat.gauss.nc", "AggroSampleR1USNT", 10080),
-    ("R1 Precipitable Water EATM", "https://psl.noaa.gov/thredds/dodsC/Aggregations/ncep.reanalysis/surface/pr_wtr.eatm.nc", "AggroSampleR1PW", 10080),
-    ("R1 Sea Level Pressure", "https://psl.noaa.gov/thredds/dodsC/Aggregations/ncep.reanalysis/surface/slp.nc", "AggroSampleR1SLP", 10080),
-    ("R1 Surface Pressure", "https://psl.noaa.gov/thredds/dodsC/Aggregations/ncep.reanalysis/surface/pres.sfc.nc", "AggroSampleR1SRFP", 10080),
-    ("R1 Sigma 0.995 Temperature", "https://psl.noaa.gov/thredds/dodsC/Aggregations/ncep.reanalysis/surface/air.sig995.nc", "AggroSampleR1SIG995T", 10080),
-    ("R1 Sigma 0.995 Omega", "https://psl.noaa.gov/thredds/dodsC/Aggregations/ncep.reanalysis/surface/omega.sig995.nc", "AggroSampleR1SIG995W", 10080),
-    ("R1 Sigma 0.995 Potential Temperature", "https://psl.noaa.gov/thredds/dodsC/Aggregations/ncep.reanalysis/surface/pottmp.sig995.nc", "AggroSampleR1SIG995PT", 10080),
-    ("R1 Sigma 0.995 Relative Humidity", "https://psl.noaa.gov/thredds/dodsC/Aggregations/ncep.reanalysis/surface/rhum.sig995.nc", "AggroSampleR1SIG995RH", 10080),
-    ("R1 Sigma 0.995 U-wind", "https://psl.noaa.gov/thredds/dodsC/Aggregations/ncep.reanalysis/surface/uwnd.sig995.nc", "AggroSampleR1SIG995U", 10080),
-    ("R1 Sigma 0.995 V-wind", "https://psl.noaa.gov/thredds/dodsC/Aggregations/ncep.reanalysis/surface/vwnd.sig995.nc", "AggroSampleR1SIG995V", 10080),
-    ("R1 Surface Lifting Index", "https://psl.noaa.gov/thredds/dodsC/Aggregations/ncep.reanalysis/surface/lftx.sfc.nc", "AggroSampleR1SIG995LFTX", 10080),
-    ("R1 Surface 4-layer Lifting Index", "https://psl.noaa.gov/thredds/dodsC/Aggregations/ncep.reanalysis/surface/lftx4.sfc.nc", "AggroSampleR1SIG995LFTX4", 10080),
     ("R1 Air Temperature 2m", "https://psl.noaa.gov/thredds/dodsC/Aggregations/ncep.reanalysis/surface_gauss/air.2m.gauss.nc", "AggroSampleT2M", 10080),
     ("R1 Skin Temperature", "https://psl.noaa.gov/thredds/dodsC/Aggregations/ncep.reanalysis/surface_gauss/skt.sfc.gauss.nc", "AggroSampleSKT", 10080),
     ("R1 Precipitation Rate", "https://psl.noaa.gov/thredds/dodsC/Aggregations/ncep.reanalysis/surface_gauss/prate.sfc.gauss.nc", "AggroSamplePRATE", 10080),
