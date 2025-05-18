@@ -258,66 +258,123 @@
         "public": true
   },
   {
-    "url": "https://spraydata.ucsd.edu/erddap/"
+        "name": "Spray Underwater Glider data from Instrument Development Group, Scripps Institute of Oceanography, University of California, San Diego",
+        "short_name": "UCSD",
+        "url": "https://spraydata.ucsd.edu/erddap/",
+        "public": true
   },
   {
-    "url": "https://basin.ceoe.udel.edu/erddap/"
+        "name": "University of Delaware, College of Earth, Ocean and Environment",
+        "short_name": "CEOE",
+        "url": "https://basin.ceoe.udel.edu/erddap/",
+        "public": true
   },
   {
-    "url": "https://www.smartatlantic.ca/erddap/"
+        "name": "Smart Atlantic",
+        "short_name": "SmartAtlantic",
+        "url": "https://www.smartatlantic.ca/erddap/",
+        "public": true
   },
   {
-    "url": "https://salishsea.eos.ubc.ca/erddap/"
+        "name": "UBC Earth, Ocean & Atmospheric Sciences SalishSeaCast Project",
+        "short_name": "UBC",
+        "url": "https://salishsea.eos.ubc.ca/erddap/",
+        "public": true
   },
   {
-    "url": "https://canwinerddap.ad.umanitoba.ca/erddap/"
+        "name": "The Canadian Watershed Information Network at the University of Manitoba",
+        "short_name": "CanWIN",
+        "url": "https://canwinerddap.ad.umanitoba.ca/erddap/",
+        "public": true
   },
   {
-    "url": "https://cioosatlantic.ca/erddap/"
+        "name": "Canadian Integrated Ocean Observatory System Atlantic",
+        "short_name": "CIOOS Atlantic",
+        "url": "https://cioosatlantic.ca/erddap/",
+        "public": true
   },
   {
-    "url": "https://data.permafrostnet.ca/erddap/"
+        "name": "Canadian Integrated Ocean Observatory System Pacific",
+        "short_name": "CIOOS Pacific",
+        "url": "https://data.cioospacific.ca/erddap/",
+        "public": true
   },
   {
-    "url": "https://erddap.ogsl.ca/erddap/"
+        "name": "NSERC PermafrostNet",
+        "short_name": "PermaFrost",
+        "url": "https://data.permafrostnet.ca/erddap/",
+        "public": true
   },
   {
-    "url": "https://catalogue.hakai.org/erddap/"
+        "name": "St. Lawrence Global Observatory - CIOOS | Observatoire global du Saint-Laurent - SIOOC",
+        "short_name": "SLGO-OGSL",
+        "url": "https://erddap.ogsl.ca/erddap/",
+        "public": true
   },
   {
-    "url": "http://bmlsc.ucdavis.edu:8080/erddap/"
+        "name": "Hakai Institute",
+        "short_name": "Hakai",
+        "url": "https://catalogue.hakai.org/erddap/",
+        "public": true
   },
   {
-    "url": "https://erddap.bio-oracle.org/erddap/"
+        "name": "UC Davis BML (University of California at Davis, Bodega Marine Laboratory)",
+        "short_name": "BMLSC",
+        "url": "http://bmlsc.ucdavis.edu:8080/erddap/",
+        "public": true
   },
   {
-    "url": "https://erddap.emso-fr.org/erddap/"
+        "name": "Bio-Oracle:  Marine data layers for modelling",
+        "short_name": "Bio-Oracle",
+        "url": "https://erddap.bio-oracle.org/erddap/",
+        "public": true
   },
   {
-    "url": "https://erddap.ifremer.fr/erddap/"
+        "name": "EMSO - European Multidisciplinary Seafloor and water column Observatory",
+        "short_name": "EMSO",
+        "url": "https://erddap.emso-fr.org/erddap/",
+        "public": true
   },
   {
-    "url": "https://erddap.emodnet.eu/erddap/"
+        "name": "French Research Institute for the Exploitation of the Sea",
+        "short_name": "IFREMER",
+        "url": "https://erddap.ifremer.fr/erddap/",
+        "public": true
   },
   {
-    "url": "https://erddap.emodnet-physics.eu/erddap/"
+        "name": "EMSO ERIC - European Multidisciplinary Seafloor and water column Observatory", 
+        "short_name": "EMSO ERIC",
+        "url": "https://erddap.emso.eu/erddap/",
+        "public": true
   },
   {
-    "url": "https://erddap.emso.eu/erddap/"
+        "name": "Italian Arctic Data Center",
+        "short_name": "IADC",
+        "url": "https://data.iadc.cnr.it/erddap/",
+        "public": true
   },
   {
-    "url": "https://data.iadc.cnr.it/erddap/"
+        "name": "National Ocean Data Centre - OGS",
+        "short_name": "NODC-OGS",
+        "url": "https://nodc.ogs.it//erddap/",
+        "public": true
   },
   {
-    "url": "https://nodc.ogs.it//erddap/"
+        "name": "Voice of the Ocean",
+        "short_name": "VOTO",
+        "url": "https://erddap.observations.voiceoftheocean.org/erddap/",
+        "public": true
   },
   {
-    "url": "https://erddap.observations.voiceoftheocean.org/erddap/"
+        "name": "Linked Systems @ the British Oceanographic Data Centre, National Oceanography Centre, UK",
+        "short_name": "NOC-BODC Linked Systems",
+        "url": "https://linkedsystems.uk/erddap",
+        "public": true
   },
   {
-    "url": "https://linkedsystems.uk/erddap/"
-  },
-  {
-    "url": "https://erddap.incois.gov.in/erddap/"
+        "name": "ESSO INCOIS (Indian National Centre for Ocean Information Services)",
+        "short_name": "INCOIS",
+        "url": "https://erddap.incois.gov.in/erddap/",
+        "public": true
   }
 ]
