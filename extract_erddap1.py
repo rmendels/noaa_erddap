@@ -199,8 +199,10 @@ def main():
     #erddap_url = "https://pae-paha.pacioos.hawaii.edu/erddap"
     #erddap_url = "https://oceanview.pfeg.noaa.gov/erddap"
     # erddap_url = "https://erddap.aoos.org/erddap"
-    erddap_url = "https://atn.ioos.us/erddap"
-    output_file = "atn_erddap_datasets.xml"
+    # erddap_url = "https://atn.ioos.us/erddap"
+    # output_file = "atn_erddap_datasets.xml"
+    erddap_url = "https://gcoos4.geos.tamu.edu/erddap"
+    output_file = "gcoos4_erddap_datasets.xml"
     reload_minutes = 1440
     debug = True  # Enable debug mode
     

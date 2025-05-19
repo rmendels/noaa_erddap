@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<erddapDatasets>
+
+<dataset type="EDDTableFromErddap" datasetID="allDatasets" active="true">
+    <reloadEveryNMinutes>1440</reloadEveryNMinutes>
+    <sourceUrl>https://gcoos4.geos.tamu.edu/erddap/tabledap/allDatasets</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CAGES_Louisiana" active="true">
+    <reloadEveryNMinutes>1440</reloadEveryNMinutes>
+    <sourceUrl>https://gcoos4.geos.tamu.edu/erddap/tabledap/CAGES_Louisiana</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CAGES_Texas" active="true">
+    <reloadEveryNMinutes>1440</reloadEveryNMinutes>
+    <sourceUrl>https://gcoos4.geos.tamu.edu/erddap/tabledap/CAGES_Texas</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="cigom_cicese_cet" active="true">
+    <reloadEveryNMinutes>1440</reloadEveryNMinutes>
+    <sourceUrl>https://gcoos4.geos.tamu.edu/erddap/tabledap/cigom_cicese_cet</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CREMP_DryTortugas_Coral_Pcover" active="true">
+    <reloadEveryNMinutes>1440</reloadEveryNMinutes>
+    <sourceUrl>https://gcoos4.geos.tamu.edu/erddap/tabledap/CREMP_DryTortugas_Coral_Pcover</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="CREMP_FloridaKeys_Coral_Pcover" active="true">
+    <reloadEveryNMinutes>1440</reloadEveryNMinutes>
+    <sourceUrl>https://gcoos4.geos.tamu.edu/erddap/tabledap/CREMP_FloridaKeys_Coral_Pcover</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="east_flower_garden_bank_benthic_coverage_20190111_2_DATA_v0-0" active="true">
+    <reloadEveryNMinutes>1440</reloadEveryNMinutes>
+    <sourceUrl>https://gcoos4.geos.tamu.edu/erddap/tabledap/east_flower_garden_bank_benthic_coverage_20190111_2_DATA_v0-0</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="east_fgb_fish_2019_01_24_2_DATA_v0-0" active="true">
+    <reloadEveryNMinutes>1440</reloadEveryNMinutes>
+    <sourceUrl>https://gcoos4.geos.tamu.edu/erddap/tabledap/east_fgb_fish_2019_01_24_2_DATA_v0-0</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="east_flower_garden_bank_physical_20181221_Data_v0-0" active="true">
+    <reloadEveryNMinutes>1440</reloadEveryNMinutes>
+    <sourceUrl>https://gcoos4.geos.tamu.edu/erddap/tabledap/east_flower_garden_bank_physical_20181221_Data_v0-0</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="2004JuvenileSportfishNOAA_DATA_Mean_v0_0" active="true">
+    <reloadEveryNMinutes>1440</reloadEveryNMinutes>
+    <sourceUrl>https://gcoos4.geos.tamu.edu/erddap/tabledap/2004JuvenileSportfishNOAA_DATA_Mean_v0_0</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="2005JuvenileSportfishNOAA_DATA_Mean_v0_0" active="true">
+    <reloadEveryNMinutes>1440</reloadEveryNMinutes>
+    <sourceUrl>https://gcoos4.geos.tamu.edu/erddap/tabledap/2005JuvenileSportfishNOAA_DATA_Mean_v0_0</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="2006JuvenileSportfishNOAA_DATA_Mean_v0_0" active="true">
+    <reloadEveryNMinutes>1440</reloadEveryNMinutes>
+    <sourceUrl>https://gcoos4.geos.tamu.edu/erddap/tabledap/2006JuvenileSportfishNOAA_DATA_Mean_v0_0</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="2007JuvenileSportfishNOAA_DATA_Mean_v0_0" active="true">
+    <reloadEveryNMinutes>1440</reloadEveryNMinutes>
+    <sourceUrl>https://gcoos4.geos.tamu.edu/erddap/tabledap/2007JuvenileSportfishNOAA_DATA_Mean_v0_0</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="2008JuvenileSportfishNOAA_DATA_Mean_v0_0" active="true">
+    <reloadEveryNMinutes>1440</reloadEveryNMinutes>
+    <sourceUrl>https://gcoos4.geos.tamu.edu/erddap/tabledap/2008JuvenileSportfishNOAA_DATA_Mean_v0_0</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="2009JuvenileSportfishNOAA_DATA_Mean_v0_0" active="true">
+    <reloadEveryNMinutes>1440</reloadEveryNMinutes>
+    <sourceUrl>https://gcoos4.geos.tamu.edu/erddap/tabledap/2009JuvenileSportfishNOAA_DATA_Mean_v0_0</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="2010JuvenileSportfishNOAA_DATA_Mean_v0_0" active="true">
+    <reloadEveryNMinutes>1440</reloadEveryNMinutes>
+    <sourceUrl>https://gcoos4.geos.tamu.edu/erddap/tabledap/2010JuvenileSportfishNOAA_DATA_Mean_v0_0</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="2011JuvenileSportfishNOAA_DATA_Mean_v0_0" active="true">
+    <reloadEveryNMinutes>1440</reloadEveryNMinutes>
+    <sourceUrl>https://gcoos4.geos.tamu.edu/erddap/tabledap/2011JuvenileSportfishNOAA_DATA_Mean_v0_0</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="2012JuvenileSportfishNOAA_DATA_Mean_v0_0" active="true">
+    <reloadEveryNMinutes>1440</reloadEveryNMinutes>
+    <sourceUrl>https://gcoos4.geos.tamu.edu/erddap/tabledap/2012JuvenileSportfishNOAA_DATA_Mean_v0_0</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="2013JuvenileSportfishNOAA_DATA_Mean_v0_0" active="true">
+    <reloadEveryNMinutes>1440</reloadEveryNMinutes>
+    <sourceUrl>https://gcoos4.geos.tamu.edu/erddap/tabledap/2013JuvenileSportfishNOAA_DATA_Mean_v0_0</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="2014JuvenileSportfishNOAA_DATA_Mean_v0_0" active="true">
+    <reloadEveryNMinutes>1440</reloadEveryNMinutes>
+    <sourceUrl>https://gcoos4.geos.tamu.edu/erddap/tabledap/2014JuvenileSportfishNOAA_DATA_Mean_v0_0</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="2015JuvenileSportfishNOAA_DATA_Mean_v0_0" active="true">
+    <reloadEveryNMinutes>1440</reloadEveryNMinutes>
+    <sourceUrl>https://gcoos4.geos.tamu.edu/erddap/tabledap/2015JuvenileSportfishNOAA_DATA_Mean_v0_0</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="2016JuvenileSportfishNOAA_DATA_Mean_v0_0" active="true">
+    <reloadEveryNMinutes>1440</reloadEveryNMinutes>
+    <sourceUrl>https://gcoos4.geos.tamu.edu/erddap/tabledap/2016JuvenileSportfishNOAA_DATA_Mean_v0_0</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="mbon_la_2023" active="true">
+    <reloadEveryNMinutes>1440</reloadEveryNMinutes>
+    <sourceUrl>https://gcoos4.geos.tamu.edu/erddap/tabledap/mbon_la_2023</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="Mexico-PLC-2019-2024" active="true">
+    <reloadEveryNMinutes>1440</reloadEveryNMinutes>
+    <sourceUrl>https://gcoos4.geos.tamu.edu/erddap/tabledap/Mexico-PLC-2019-2024</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="phytoplankton_surfside" active="true">
+    <reloadEveryNMinutes>1440</reloadEveryNMinutes>
+    <sourceUrl>https://gcoos4.geos.tamu.edu/erddap/tabledap/phytoplankton_surfside</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="stetson_flower_garden_bank_benthic_coverage_20190111_2_DATA_v0-0" active="true">
+    <reloadEveryNMinutes>1440</reloadEveryNMinutes>
+    <sourceUrl>https://gcoos4.geos.tamu.edu/erddap/tabledap/stetson_flower_garden_bank_benthic_coverage_20190111_2_DATA_v0-0</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="stetson_fgb_fish_2019_01_24_2_DATA_v0-0" active="true">
+    <reloadEveryNMinutes>1440</reloadEveryNMinutes>
+    <sourceUrl>https://gcoos4.geos.tamu.edu/erddap/tabledap/stetson_fgb_fish_2019_01_24_2_DATA_v0-0</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="stetson_flower_garden_bank_physical_20181221_Data_v0-0" active="true">
+    <reloadEveryNMinutes>1440</reloadEveryNMinutes>
+    <sourceUrl>https://gcoos4.geos.tamu.edu/erddap/tabledap/stetson_flower_garden_bank_physical_20181221_Data_v0-0</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="west_flower_garden_bank_benthic_coverage_20190111_2_DATA_v0-0" active="true">
+    <reloadEveryNMinutes>1440</reloadEveryNMinutes>
+    <sourceUrl>https://gcoos4.geos.tamu.edu/erddap/tabledap/west_flower_garden_bank_benthic_coverage_20190111_2_DATA_v0-0</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="west_fgb_fish_2019_01_24_2_DATA_v0-0" active="true">
+    <reloadEveryNMinutes>1440</reloadEveryNMinutes>
+    <sourceUrl>https://gcoos4.geos.tamu.edu/erddap/tabledap/west_fgb_fish_2019_01_24_2_DATA_v0-0</sourceUrl>
+</dataset>
+
+<dataset type="EDDTableFromErddap" datasetID="west_flower_garden_bank_physical_20181221_Data_v0-0" active="true">
+    <reloadEveryNMinutes>1440</reloadEveryNMinutes>
+    <sourceUrl>https://gcoos4.geos.tamu.edu/erddap/tabledap/west_flower_garden_bank_physical_20181221_Data_v0-0</sourceUrl>
+</dataset>
+
+</erddapDatasets>
