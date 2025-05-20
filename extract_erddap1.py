@@ -180,7 +180,7 @@ def main():
     #erddap_url = "https://www.ncei.noaa.gov/erddap"
     #erddap_url = "https://osmc.noaa.gov/erddap/"
     #erddap_url = "https://apps.glerl.noaa.gov/erddap"
-    #erddap_url = "https://ferret.pmel.noaa.gov/pmel/erddap"
+    erddap_url = "https://data.pmel.noaa.gov/pmel/erddap"
     #erddap_url = "https://erddap.aoml.noaa.gov/gdp/erddap"
     #erddap_url = "https://comet.nefsc.noaa.gov/erddap"
     #erddap_url = "https://ferret.pmel.noaa.gov/alamo/erddap"
@@ -201,8 +201,8 @@ def main():
     # erddap_url = "https://erddap.aoos.org/erddap"
     # erddap_url = "https://atn.ioos.us/erddap"
     # output_file = "atn_erddap_datasets.xml"
-    erddap_url = "https://gcoos4.geos.tamu.edu/erddap"
-    output_file = "gcoos4_erddap_datasets.xml"
+    ## erddap_url = "https://gcoos4.geos.tamu.edu/erddap"
+    output_file = "data.pmel.xml"
     reload_minutes = 1440
     debug = True  # Enable debug mode
     
