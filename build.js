@@ -1,6 +1,6 @@
 (function (){
 	const fs = require('fs');
-	const jsonData = require('./erddaps.json');
+	const jsonData = require('./noaa_wide_full.json');
 	//const jsonData = require('./noaa_wide_full.json');
 	const outData = 'var awesomeErddaps = ' + JSON.stringify(jsonData) + ';';
 	const jsonpData = 'awesomeErddapsCb(' + JSON.stringify(jsonData) + ');';
@@ -16,6 +16,6 @@
        };
        // writeFile("noaa_wide_full.js",outData);
        // writeFile("noaa_wide_full.jsonp",jsonpData);
-       writeFile("erddaps.js",outData);
-       writeFile("erddaps.jsonp",jsonpData);
+       writeFile("noaa_wide_full.js",outData);
+       writeFile("noaa_wide_full",jsonpData);
 })();

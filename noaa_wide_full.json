@@ -171,13 +171,13 @@
   {
 		"name": "ALAMO (Air Launched Autonomous Micro-Observer)",
 		"short_name": "ALAMO",
-		"url": "https://ferret.pmel.noaa.gov/alamo/erddap/",
+		"url": "https://data.pmel.noaa.gov/alamo/erddap/",
 		"public": true
   },
   {
 		"name": "SOCAT (Surface Ocean CO2 ATlas)",
 		"short_name": "SOCAT",
-		"url": "https://ferret.pmel.noaa.gov/socat/erddap/",
+		"url": "https://data.pmel.noaa.gov/socat/erddap/",
 		"public": true
   },
   {
