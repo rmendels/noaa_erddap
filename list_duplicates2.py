@@ -83,7 +83,7 @@ def main():
     if len(sys.argv) > 1:
         file_path = sys.argv[1]
     else:
-        file_path = "noaa_wide.xml"  # Default file name
+        file_path = "noaa_combined_new.xml"  # Default file name
     
     print(f"Analyzing {file_path} for duplicate datasets...")
     
