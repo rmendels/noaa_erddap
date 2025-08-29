@@ -120,7 +120,7 @@ def process_file(input_file_path, output_file_path, max_workers=None, sleep_time
 
 if __name__ == "__main__":
     # File paths
-    input_file = "noaa_combined.xml"  # Replace with your input file path
+    input_file = "noaa_combined_new.xml"  # Replace with your input file path
     output_file = "url_test_results.csv"  # Output file path
     
     # Process the file with 10 workers, 0.5 second sleep between checks, 
